@@ -30,7 +30,7 @@ jobs:
     # New resolution for images
         new-resolution: 420x
     # Folder in which resized images are stored
-        output-folder: thumbnails
+        output-folder: gallery/thumbnails
 
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
