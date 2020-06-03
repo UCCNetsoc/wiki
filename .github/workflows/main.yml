@@ -42,5 +42,5 @@ jobs:
         repository: .
 
     # Optional commit user and author settings
-        commit_user_name: Boat
+        commit_user_name: Netsoc
         commit_user_email: netsoc@uccsocieties.ie
