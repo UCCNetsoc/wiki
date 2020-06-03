@@ -33,7 +33,7 @@ jobs:
         output-folder: thumbnails
 
     - name: Commit changes
-    - uses: stefanzweifel/git-auto-commit-action@v4
+      uses: stefanzweifel/git-auto-commit-action@v4
       with:
     # Required
         commit_message: Generate thumbnails
