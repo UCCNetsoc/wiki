@@ -43,4 +43,4 @@ jobs:
 
     # Optional commit user and author settings
         commit_user_name: Boat
-        commit_user_email: git@moynihan.io
+        commit_user_email: netsoc@uccsocieties.ie
