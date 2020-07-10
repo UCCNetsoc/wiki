@@ -2,9 +2,9 @@
 title: Netsoc-as-Code (IaC)
 description: Defining a society one YAML file at a time
 published: true
-date: 2020-07-10T01:35:39.988Z
+date: 2020-07-10T02:16:30.751Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 
@@ -143,3 +143,171 @@ While you read this wiki page, you may find it helpful to check out the files as
 * Permanent history of Netsoc infra for years to come
 * Everything is centralized, a single PR can update every part of the infra rather than being done manually by hand
 * Repo is (relatively) self-documenting
+
+# Full Example
+
+`vars/network.yml` excerpt
+```
+subnets:
+  wan:    10  # Uplink, connected directly to patch panel
+  vmhost: 20  # Used for management traffic and proxmox clustering, has NAT to WAN
+  infra:  30  # Used for infra VMs, can route to user and vmhost, has NAT to WAN
+  user:   40  # User VM traffic, includes the User ssh server and user databases
+  extern: 60  # VRRP stuff
+  router: 70  # Used for vyos clustering + failover
+  oob:    80  # OOB, connected to CIX OOBnet and OOB ports on machines
+  mgmt:   90  #
+  dhcp:  100  # DHCP Vlan, used to offer IP leases to building Packer templates
+
+gateway4:
+  infra: "10.0.{{ subnets.infra }}.1"
+  user: "10.0.{{ subnets.user }}.1"
+  
+nameservers: &nameservers
+  search:    ["vm.netsoc.co"]
+  addresses: ["10.0.{{ subnets.infra }}.10"]
+
+interfaces:
+  auth:
+    net0:
+      addresses:
+        - "10.0.{{ subnets.infra }}.10/24"
+      gateway4: "{{ gateway4.infra }}"
+      nameservers: *nameservers
+      optional: true # prevents waiting for network hang
+      link-local: [ ipv4 ]
+```
+
+`create-auth.yml`
+
+```
+- name: "Ensure auth server"
+  hosts: lovelace
+  roles:
+    - role: proxmox-infra-cloudinit-vm
+      vars:
+        vm:
+          name: "auth.vm.netsoc.co"
+          clone: "netsoc-ubuntu-server-{{ inventory_hostname }}"
+          net:
+            net0: "virtio,bridge=vmbr0,tag={{ vlans.infra }}"
+          disks:
+            virtio0:
+              resize: "20G"
+            virtio1:
+              pool: local-lvm
+              definition: "25,format=raw"
+          cores: 4
+          memory: 2048
+          description:
+            groups:
+              - vm
+              - auth
+              - ipaclients
+            host_vars:
+              ansible_ssh_private_key_file: "./keys/auth/id_rsa"
+        cloudinit:
+          drive_device: ide2
+          userdata: |
+            #cloud-config
+            users:
+              - name: netsoc
+                gecos: Netsoc Management User
+                primary_group: netsoc
+                sudo: ALL=(ALL) NOPASSWD:ALL
+                ssh_authorized_keys:
+                  - {{ lookup('file', './keys/auth/id_rsa.pub') }}
+            preserve_hostname: false
+            manage_etc_hosts: true
+            fqdn: auth.vm.netsoc.co
+          networkconfig: 
+            version: 2
+            ethernets:
+              ens18: "{{ interfaces.auth.net0 }}"
+        wait_for_ssh_ip: "{{ interfaces.auth.net0.addresses[0] }}"
+  vars_files:
+    - vars/network.yml
+    - vars/proxmox.yml
+    - vars/secrets.yml
+
+- name: "Reload inventory to pull new VMs"
+  hosts: 127.0.0.1
+  connection: local
+  tasks:
+    - meta: refresh_inventory
+```
+
+`provision_auth.yml`
+```
+- hosts: auth
+  become: yes
+  tasks:
+    # Because the Auth server also hosts the FreeIPA DNS server
+    # We configured it in create-auth.yml with cloudinit network config to use itself as it's DNS server
+    # However we haven't created the FreeIPA installation yet so we need to use a temporary nameserver
+    - shell: |
+        systemctl stop systemd-resolved
+        systemctl disable systemd-resolved
+    - copy:
+        content: |
+          nameserver 1.1.1.1
+        dest: /etc/resolv.conf
+
+- name: "Ensure IPA server disk mounted and IPA server created"
+  hosts: auth
+  become: yes
+  roles:
+    - role: simple-disk
+      vars:
+        device: "/dev/vdb"
+        partition_size: "100%"
+        fstype: "ext4"
+        mount_path: "/mnt/data-disk"
+        mount_opts: "rw"
+    - role: freeipa-server-docker
+      vars:
+        mount:             "/mnt/data-disk/freeipa"
+        interface_address: "{{ interfaces.auth.net0.addresses[0] }}"
+  vars_files:
+    - "vars/freeipa.yml"
+    - "vars/network.yml"
+    - "vars/secrets.yml"
+
+- hosts: auth
+  become: yes
+  tasks:
+    # Restore DNS to point at FreeIcaPA localhost DNS
+    # allows cloud-init to remain working 
+   - copy:
+        content: |
+          nameserver {{ interfaces.auth.net0.addresses[0] | ipaddr("address") }}
+        dest: /etc/resolv.conf
+  vars_files:
+    - "vars/network.yml"
+
+- name: "Enroll in IPA server"
+  hosts: auth 
+  roles:
+    - role: freeipa-client
+      vars:
+        client:
+          addresses: 
+            - "{{ ansible_default_ipv4.address }}"
+  vars_files:
+    - "vars/freeipa.yml"
+    - "vars/network.yml"
+    - "vars/secrets.yml"
+
+- name: "Setup Keycloak"
+  hosts: auth
+  roles:
+    - role: keycloak-docker
+      vars:
+        mount: "/mnt/data-disk/keycloak"
+        realm: "{{ keycloak_freeipa_realm }}"
+  vars_files:
+    - "vars/keycloak.yml"
+    - "vars/keycloak_freeipa_realm.yml"
+    - "vars/freeipa.yml"
+    - "vars/secrets.yml"
+```
