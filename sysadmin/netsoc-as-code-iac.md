@@ -2,7 +2,7 @@
 title: Netsoc-as-Code (IaC)
 description: Defining a society one YAML file at a time
 published: true
-date: 2020-07-10T00:46:58.349Z
+date: 2020-07-10T01:35:39.988Z
 tags: 
 editor: undefined
 ---
@@ -34,7 +34,7 @@ While you read this wiki page, you may find it helpful to check out the files as
   * It's expected that the template VM we cloned has cloud-init & qemu-guest-agent installed
     * [cloud-init](https://cloudinit.readthedocs.io/en/latest/) is the de-facto industry standard for configuring Cloud VMs
       * We use it to inject maintenance user info (ssh keys, etc) and network configuration into our VMs
-      * Note, the role we use accepts only _plain-text_ yaml, this is because not every field (userdata/instance data/network) only uses yaml. [Look here in the cloud-init docs](https://cloudinit.readthedocs.io/en/latest/topics/format.html) to see what I mean
+      * Note, the role we use accepts only _plain-text_ yaml, this is because not every format for userdata only uses yaml. [Look here in the cloud-init docs](https://cloudinit.readthedocs.io/en/latest/topics/format.html) to see what I mean
     * [qemu-guest-agent](https://pve.proxmox.com/wiki/Qemu-guest-agent) is a package that exposes the current network setup and stats to the KVM machine
       * i.e. it let's us see what VMs are _actually_ binding to what static IPs we asked them to
       * also used for some Proxmox related functionality
@@ -120,7 +120,7 @@ While you read this wiki page, you may find it helpful to check out the files as
   * They target the groups we specified in the description of the VM
     * Don't forget you can target by name too, like `databases.vm.netsoc.co`
 
-### We can completely define our router config without the use of messy Web UIs like pfsense
+### We can completely define our router config without the use of messy web UIs like pfsense
   * We have more VMs than we have public IP addresses, therefore we must make use of a router and a [NAT](https://www.reddit.com/r/explainlikeimfive/comments/1wqc30/eli5_how_does_nat_network_address_translation_work/) configuration
   * We do not use a hardware router, instead we use a virtualized router called [VyOS](https://www.vyos.io/)
   * We can map any port on any of our available IP addresses to any port on a VM
