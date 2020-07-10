@@ -2,9 +2,9 @@
 title: Committee
 description: UCC Netsoc's committee for the current academic year
 published: true
-date: 2020-07-09T23:03:29.734Z
+date: 2020-07-10T07:38:09.971Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 
@@ -49,7 +49,7 @@ editor: undefined
 ### James Cotter
 ### Arthan Jans
 ### Eric Moynihan
-### Thomas Gallagher 
+### Thomas Galligan
 
 # Ex-Officio
 ### Cian McGrath (Ex-Chairperson)
