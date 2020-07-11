@@ -2,9 +2,9 @@
 title: Netsoc-as-Code (IaC)
 description: Defining a society one YAML file at a time
 published: true
-date: 2020-07-10T02:16:30.751Z
+date: 2020-07-10T02:16:45.926Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 
@@ -280,7 +280,7 @@ interfaces:
     # allows cloud-init to remain working 
    - copy:
         content: |
-          nameserver {{ interfaces.auth.net0.addresses[0] | ipaddr("address") }}
+          nameserver {{ interfaces.auth.net0.addresses[0] | ipaddr('address') }}
         dest: /etc/resolv.conf
   vars_files:
     - "vars/network.yml"
