@@ -1,8 +1,8 @@
 ---
-title: auth [LDAP, DNS, KDC, Keycloak]
+title: auth
 description: FreeIPA / Keycloak server
 published: true
-date: 2020-07-12T23:51:43.286Z
+date: 2020-07-12T23:52:28.180Z
 tags: 
 editor: markdown
 ---
