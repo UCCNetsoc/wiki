@@ -1,10 +1,10 @@
 ---
-title: auth.vm.netsoc.co
+title: auth
 description: FreeIPA / Keycloak server
 published: true
-date: 2020-07-12T22:27:22.723Z
+date: 2020-07-12T22:53:34.626Z
 tags: 
 editor: markdown
 ---
 
-https://github.com/UCCNetsoc/NaC/blob/4830b37b92ac4cc26ce5bcd35812d3fed20a2143/create-auth.yml#L1
+<iframe src="https://github.com/UCCNetsoc/NaC/blob/master/create-auth.yml">
