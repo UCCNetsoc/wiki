@@ -2,7 +2,7 @@
 title: Netsoc-as-Code
 description: Defining a society one YAML file at a time
 published: true
-date: 2020-07-12T22:03:33.802Z
+date: 2020-07-12T23:23:40.814Z
 tags: 
 editor: markdown
 ---
@@ -49,7 +49,7 @@ While you read this wiki page, you may find it helpful to check out the files as
       * All our IaC managed VMs are expected have descriptions containing YAML.
       * We use this YAML later to "discover" info about any running VMs
       * Example from (`create-auth.yml`):
-        ```
+        ```yaml
         groups:
           - vm
           - auth
@@ -64,7 +64,7 @@ While you read this wiki page, you may find it helpful to check out the files as
       * We use userdata to inject the Netsoc maintenance user and set the hostname (using [`#cloud-config`](https://cloudinit.readthedocs.io/en/latest/topics/examples.html))
       * Network config [`(we use v2)`](https://cloudinit.readthedocs.io/en/latest/topics/network-config-format-v2.html#network-config-v2) is used to tell the VM what static IP it should bind to, what DNS server is should use & what router it should send packets to
       * Example (edited slightly) from (`create-auth.yml`):
-        ```
+        ```yaml
         cloudinit:
           drive_device: ide2
           metadata: ""
@@ -147,26 +147,7 @@ While you read this wiki page, you may find it helpful to check out the files as
 # Full Example
 
 `vars/network.yml` excerpt
-```
-subnets:
-  wan:    10  # Uplink, connected directly to patch panel
-  vmhost: 20  # Used for management traffic and proxmox clustering, has NAT to WAN
-  infra:  30  # Used for infra VMs, can route to user and vmhost, has NAT to WAN
-  user:   40  # User VM traffic, includes the User ssh server and user databases
-  extern: 60  # VRRP stuff
-  router: 70  # Used for vyos clustering + failover
-  oob:    80  # OOB, connected to CIX OOBnet and OOB ports on machines
-  mgmt:   90  #
-  dhcp:  100  # DHCP Vlan, used to offer IP leases to building Packer templates
-
-gateway4:
-  infra: "10.0.{{ subnets.infra }}.1"
-  user: "10.0.{{ subnets.user }}.1"
-  
-nameservers: &nameservers
-  search:    ["vm.netsoc.co"]
-  addresses: ["10.0.{{ subnets.infra }}.10"]
-
+```yaml
 interfaces:
   auth:
     net0:
