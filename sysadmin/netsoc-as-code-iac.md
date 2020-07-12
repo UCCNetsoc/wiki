@@ -1,10 +1,10 @@
 ---
-title: Netsoc-as-Code (IaC)
+title: Netsoc-as-Code
 description: Defining a society one YAML file at a time
 published: true
-date: 2020-07-10T02:16:45.926Z
+date: 2020-07-12T22:03:33.802Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 
