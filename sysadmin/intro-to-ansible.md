@@ -2,9 +2,9 @@
 title: Intro to Ansible
 description: For new and returning SysAdmins
 published: true
-date: 2020-07-10T00:04:26.111Z
+date: 2020-07-12T23:19:29.247Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 
@@ -12,7 +12,7 @@ editor: undefined
 
 * Servers to target are defined in a file (normally called `hosts`, or by a script), and given aliases and groups.
   * Our `hosts` looks a little like this:
-    ```
+    ```ini
     control
 
     [proxmox_master]
@@ -24,14 +24,14 @@ editor: undefined
     ```
   * These hosts & groups can have `host_vars` and `group_vars` which apply to any server / server in that group respectively
     * Here's an example of `host_vars` for `feynman` (`host_vars/feynman.yml`):
-      ```
+      ```yaml
       ansible_host: 10.0.10.53
       ansible_ssh_user: root
       ansible_ssh_private_key_file: "/root/.ssh/id_rsa"
       ansible_python_interpreter: "/usr/bin/python3"
       ```
     * Here's an example of `group_vars` for a group called `vm` (`group_vars/vm.yml`):
-      ```
+      ```yaml
       ansible_ssh_common_args: '-o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null'
       ansible_python_interpreter: "/usr/bin/python3"
       ansible_user: netsoc
@@ -41,7 +41,7 @@ editor: undefined
     * An _play_ could be a bunch of _tasks_ or _roles_
       * A _task_ is a call to an Ansible _module_ that does some functionality
         * Example, to install the `jq` package:
-          ```
+          ```yaml
             apt:
               name: jq
               state: latest
@@ -55,7 +55,7 @@ editor: undefined
         * It has lists of tasks, files, variables that can be specified when the role is ran
         * Think of it almost like a script that accepts arguments
         * Example of a role that installs and starts nginx:
-        ```
+        ```yaml
           roles/nginx/vars/defaults.yml:
             start_on_boot: no
 
@@ -83,7 +83,7 @@ editor: undefined
         ```
           * This is the explicit var syntax that scopes the vars to the role, you can also scope the vars to the play
       * Here is a list of tasks as a _play_:
-        ```
+        ```yaml
         - name: Setup server MOTD
           hosts: portal
           tasks:
@@ -138,7 +138,7 @@ editor: undefined
   * This will decrypt every vault variable and prefix them with `vault_`
   * We normally realias them with the files in `vars/`
     * Example:
-    ```
+    ```yaml
     cloudflare_api_email: "{{ vault_cloudflare_api_email }}"
     cloudflare_api_key: "{{ vault_cloudflare_api_key }}"
     cloudflare_dns_api_token: "{{ vault_cloudflare_dns_api_token }}"
