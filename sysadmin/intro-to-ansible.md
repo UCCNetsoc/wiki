@@ -2,7 +2,7 @@
 title: Intro to Ansible
 description: For new and returning SysAdmins
 published: true
-date: 2020-07-12T23:19:29.247Z
+date: 2020-07-12T23:20:03.093Z
 tags: 
 editor: markdown
 ---
@@ -73,7 +73,7 @@ editor: markdown
               state: started
         ```
       * You could call the previous role as a _play_ in a playbook like so:
-        ```
+        ```yaml
         - name: "Ensure nginx on lovelace"
           hosts: lovelace
           roles:
