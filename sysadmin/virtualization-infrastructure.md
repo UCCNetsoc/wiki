@@ -1,10 +1,10 @@
 ---
-title: Virtualization Infrastructure
+title: Virtualization
 description: 
 published: true
-date: 2020-07-10T00:52:47.839Z
-tags: 
-editor: undefined
+date: 2020-07-12T23:20:52.667Z
+tags: servers, sysadmins, networking, nac, iac, devops, ansible
+editor: markdown
 ---
 
 
@@ -20,8 +20,9 @@ Our setup consists of a cluster of Proxmox machines, there currently are as foll
     * All Ansible playbooks that make changes must be run from here
     * Each SysAdmin has a Linux account created on the server to allow them to do development work
     * Fair warning: it's disks are slow af
+    
 * lovelace
-	* Just a generic vm host, pretty powerful.
+	* Just a generic vm host
 
 Servers that still need to become Proxmox cluster hosts (these still run the historical setups):
 
