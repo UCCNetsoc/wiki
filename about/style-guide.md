@@ -2,14 +2,14 @@
 title: Style Guide
 description: 
 published: true
-date: 2020-07-13T21:25:05.282Z
+date: 2020-07-13T21:25:24.658Z
 tags: 
 editor: markdown
 ---
 
 
 
-[If you are searching for all PR assets, they can be found here](https://github.com/UCCNetsoc/style-guide/tree/master/assets)
+[If you are searching for all PR assets, they can be found here](https://github.com/UCCNetsoc/wiki/tree/master/assets)
 
 ## Summary
 
