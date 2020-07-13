@@ -2,11 +2,13 @@
 title: Inventory
 description: Everything the Technology side of the society has in its possession
 published: true
-date: 2020-07-10T00:04:36.329Z
-tags: 
-editor: undefined
+date: 2020-07-13T22:31:45.363Z
+tags: servers, sysadmin
+editor: markdown
 ---
 
+# Domains
+We possess `netsoc.co` & `netsoc.dev`
 
 # Networking Equipment
 
