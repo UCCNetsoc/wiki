@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 100">
+    <g transform="translate(0,0)">
+        <rect width="100" height="100" fill="#003E70"/>
+        <text text-anchor="middle" x="50" y="50" fill="white">#003E70</text>
+    </g>
+    <g transform="translate(100,0)">
+        <rect width="100" height="100" fill="#0C8DF5"/>
+        <text text-anchor="middle" x="50" y="50" fill="white">#0C8DF5</text>
+    </g>
+    <g transform="translate(200,0)">
+        <rect width="100" height="100" fill="#007BDE"/>
+        <text text-anchor="middle" x="50" y="50" fill="white">#007BDE</text>
+    </g>
+    <g transform="translate(300,0)">
+        <rect width="100" height="100" fill="#0CCAF5"/>
+        <text text-anchor="middle" x="50" y="50" fill="white">#0CCAF5</text>
+    </g>
+    <g transform="translate(400,0)">
+        <rect width="100" height="100" fill="#0CEBD7"/>
+        <text text-anchor="middle" x="50" y="50" fill="white">#0CEBD7</text>
+    </g>
+</svg>
