@@ -2,14 +2,14 @@
 title: Important Policies
 description: Read before contributing to NaC
 published: true
-date: 2020-07-11T23:27:06.487Z
+date: 2020-07-13T00:13:56.933Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 * **All volatile data should be on a 2nd disk of the VM, not the boot disk**
-  * Configure your VMs tolerate the boot disk being completely destroyed
-    * i.e if we want to restore from a backup, we can delete the VM, run the playbook to create a new VM, detach the e,empty 2nd disk it created and attach the disk we backed up
+  * Configure your services running on your VM to be independent of the boot disk
+    * i.e if we want to restore from a backup, we can delete the VM, run the playbook to create a new VM, detach the empty 2nd disk it created and attach the disk we backed up
   * By defining a VM entirely by playbooks we can potentially save a LOT of disk space on backups
 
 * **Do NOT put a VM on a trunk port unless it's a router**
