@@ -2,12 +2,10 @@
 title: Style Guide
 description: 
 published: true
-date: 2020-07-13T21:25:24.658Z
+date: 2020-07-13T21:40:55.740Z
 tags: 
-editor: markdown
+editor: undefined
 ---
-
-
 
 [If you are searching for all PR assets, they can be found here](https://github.com/UCCNetsoc/wiki/tree/master/assets)
 

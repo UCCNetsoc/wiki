@@ -2,9 +2,9 @@
 title: DNS
 description: External and internal DNS
 published: true
-date: 2020-07-12T23:28:44.389Z
+date: 2020-07-12T23:28:48.677Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 

@@ -2,7 +2,7 @@
 title: Netsoc Champion
 description: 
 published: true
-date: 2020-07-10T00:23:32.176Z
+date: 2020-07-13T21:41:10.171Z
 tags: 
 editor: undefined
 ---

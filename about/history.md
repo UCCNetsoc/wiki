@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2020-07-09T21:02:54.152Z
+date: 2020-07-13T21:40:46.189Z
 tags: 
 editor: undefined
 ---
