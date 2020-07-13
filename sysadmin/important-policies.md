@@ -2,7 +2,7 @@
 title: Important Policies
 description: Read before contributing to NaC
 published: true
-date: 2020-07-13T00:13:56.933Z
+date: 2020-07-13T00:14:16.926Z
 tags: 
 editor: markdown
 ---
@@ -20,4 +20,4 @@ editor: markdown
 
 
 * **Ensure critical services start on boot**
- * Don't forget to label your containers to start on boot, it's easy to miss this
+	 * Don't forget to label your containers to start on boot, it's easy to miss this
