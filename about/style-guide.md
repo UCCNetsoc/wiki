@@ -2,9 +2,9 @@
 title: Style Guide
 description: 
 published: true
-date: 2020-07-10T01:09:24.429Z
+date: 2020-07-13T21:25:05.282Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 
@@ -16,43 +16,43 @@ editor: undefined
 
 The UCC Networking, Gaming and Technology Society (Netsoc) prides itself on many things: Our inclusiveness; Diversity; Passion and Experience. However our style and aesthetic cannot be overlooked when creating content that represents us.
 
-Netsoc’s style is mostly professional (with the exception of our Gaming Nights) with a penchant for [flat design](https://en.wikipedia.org/wiki/Flat_design) and simplicity. This shall be kept in mind when designing content to be distrubuted over any of our networks ([Facebook](https://facebook.com/UCCNetsoc), [Twitter](https://twitter.com/uccnetsoc), [netsoc.co](http://netsoc.co/), etc...)
+Netsoc’s style is mostly professional (with the exception of our Gaming Nights) with a penchant for [flat design](https://en.wikipedia.org/w![logo-horizontal.svg](/assets/logo-horizontal.svg)iki/Flat_design) and simplicity. This shall be kept in mind when designing content to be distrubuted over any of our networks ([Facebook](https://facebook.com/UCCNetsoc), [Twitter](https://twitter.com/uccnetsoc), [netsoc.co](http://netsoc.co/), etc...)
 
 Be **bold** yet professional. Make use of quality photography and imagery. Resources like Unsplash or [Librestock](http://librestock.com) provide excellent, high-resolution imagery to use that complements our aesthetic.
 
 ## Logo
 
-![](assets/logo-hires-inverted.png)
+![](/assets/logo-hires-inverted.png)
 
 Netsoc’s main logo consists of four distinct elements:
 
 ### 1\. "NETSOC" in uppercase
 
-![](assets/logo-text.png)
+![](/assets/logo-text.png)
 
 The official font for the Netsoc logo is Niteweit Bold. If this font is unavailable, [League Spartan](https://www.theleagueofmoveabletype.com/league-spartan) should be used as an alternative. However, it is not recommended to attempt to remake the Netsoc logo.
 
 ### 2\. A desktop computer (Networking)
 
-![](assets/logo-computer.png)
+![](/assets/logo-computer.png)
 
 ### 3\. A series of binary digits (Technology)
 
-![](assets/logo-binary.png)
+![](/assets/logo-binary.png)
 
 ### 4\. A game controller (Gaming)
 
-![](assets/logo-controller.png)
+![](/assets/logo-controller.png)
 
 #### Alternate Logos
 
 ##### Horizontal
 
-![](assets/logo-horizontal.png)
+![](/assets/logo-horizontal.png)
 
 ##### Horizontal With Tagline
 
-![](assets/logo-horizontal-tagline.png)
+![](/assets/logo-horizontal-tagline.png)
 
 The Netsoc Logo can be used in several ways and comes in several forms:
 
@@ -76,11 +76,11 @@ If you’re uncertain of any design featuring our logo, just ask our PRO or Audi
 
 Traditionallly, the society has made use of a _Netsoc Blue_ colour scheme
   
-![](assets/netsoc-blue.svg)
+![](/assets/netsoc-blue.svg)
 
 Netsoc Blue is not a required standard for Netsoc content but can be used as a helpful guideline to choosing a Netsoc colour scheme:  
 
-![](assets/color-palette.svg)
+![](/assets/color-palette.svg)
 
 
 ## Fonts
