@@ -2,9 +2,9 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-07-14T03:05:55.630Z
+date: 2020-07-14T03:13:49.214Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # 2020/2021
@@ -54,8 +54,6 @@ editor: undefined
 * netsocadmin custom domains
 	* Canty found a way to make bind return the same IP for every lookup
   	* Could be an alternative to writing a custom nameserver in Go
-
----
 
 ## Meeting 1 (2020-07-06)
 
