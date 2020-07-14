@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2020-07-14T01:13:35.049Z
+date: 2020-07-14T01:16:57.920Z
 tags: history
 editor: markdown
 ---
@@ -39,8 +39,35 @@ Pretty much lost to time.
     Eimear Crotty
   * #### First Year Rep
     Rob Power
+    
+* ### June
 
-### 2016/2017
+* ### July
+
+* ### August
+
+* ### September
+
+* ### October
+
+* ### November
+
+* ### December
+
+* ### January
+
+* ### February
+
+* ### March
+
+* ### April
+
+* ### May
+
+## 2016/2017
+
+
+
 **Committee**
 Chairperson	Hassan Baker
 Vice Chairperson	Evan Young
