@@ -2,13 +2,13 @@
 title: Home
 description: 
 published: true
-date: 2020-07-14T02:26:44.522Z
+date: 2020-07-14T02:27:01.039Z
 tags: 
 editor: markdown
 ---
 
 
-![](/assets/logo-inverted.svg =500x)
+![](/assets/logo-inverted.svg =360x)
 
 ### Welcome to the wiki for UCC Netsoc, the Networking, Technology and Gaming society of [University College Cork](https://www.ucc.ie)
 
