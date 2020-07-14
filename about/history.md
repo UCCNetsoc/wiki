@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2020-07-14T01:11:53.527Z
+date: 2020-07-14T01:12:17.207Z
 tags: history
 editor: markdown
 ---
@@ -16,8 +16,6 @@ editor: markdown
 Pretty much lost to time.
 
 ## Timeline 
-
-*Insert Evan Smith revival saga here*
 
 ### 2015/2016
 * **Committee**
