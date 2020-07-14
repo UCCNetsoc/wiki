@@ -2,11 +2,10 @@
 title: Netsoc-as-Code
 description: Defining a society one YAML file at a time
 published: true
-date: 2020-07-12T23:23:45.391Z
+date: 2020-07-14T02:23:19.759Z
 tags: 
-editor: undefined
+editor: markdown
 ---
-
 
 Since all of Netsoc's services run as VMs on Proxmox, we can define our entire infrastructure using Infrastructure-as-Code. 
 
@@ -161,7 +160,7 @@ interfaces:
 
 `create-auth.yml`
 
-```
+```yaml
 - name: "Ensure auth server"
   hosts: lovelace
   roles:
@@ -219,7 +218,7 @@ interfaces:
 ```
 
 `provision_auth.yml`
-```
+```yaml
 - hosts: auth
   become: yes
   tasks:
