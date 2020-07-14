@@ -2,7 +2,7 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-07-14T03:01:58.864Z
+date: 2020-07-14T03:05:51.177Z
 tags: 
 editor: markdown
 ---
@@ -15,8 +15,10 @@ editor: markdown
   * Currently backs up to GDrive and vzdump can ignore files
   * Changing to ignore disks rather than files
   * See: https://github.com/UCCNetsoc/NaC/pull/16
+  	* https://github.com/UCCNetsoc/NaC/issues/8
 
-  * Moving Minecraft over
+  * Moving Minecraft over from legacy to proxmox setup
+  	* https://github.com/UCCNetsoc/NaC/issues/13
 
 * Arthan
   * Haven't had time do much
@@ -28,7 +30,8 @@ editor: markdown
 * James
   * All exporters working,
   * Needs to setup Protetheus
-  * Setting up Grafana + jssonet
+  * Setting up Grafana + jssonet/grafonnet
+  	* https://github.com/UCCNetsoc/NaC/issues/11
   * Merged !online support to the bot, F to DiscordSRV
 
 * Thomas
@@ -37,6 +40,7 @@ editor: markdown
 
 * Canty
   * Setting up Pterodactyl + automating keycloak export
+  	* https://github.com/UCCNetsoc/NaC/issues/13
 
 * Future idea discussion:
   * Hosted Vscode
@@ -46,6 +50,10 @@ editor: markdown
 
   * More resources for running stuff  
     * Current work being done on Wiki
+
+* netsocadmin custom domains
+	* Canty found a way to make bind return the same IP for every lookup
+  	* Could be an alternative to writing a custom nameserver in Go
 
 ---
 
