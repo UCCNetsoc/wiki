@@ -2,10 +2,44 @@
 title: Inventory
 description: Everything the Technology side of the society has in its possession
 published: true
-date: 2020-07-13T22:31:49.959Z
-tags: 
-editor: undefined
+date: 2020-07-14T03:28:49.711Z
+tags: servers, sysadmin
+editor: markdown
 ---
+
+# SysAdmins
+_remember people are an asset too :p_
+
+| Name                 | Nick                            | Year  | Head SysAdmin? |   |
+|:--------------------:|:-------------------------------:|:-----:|:--------------:|---|
+| David McCarthy       |                                 | 13-14 | Pre-SysAdmins  |   |
+| Colm Cahalane        | `colm`                          | 14-15 | Pre-SysAdmins  |   |
+| Joe McEvoy           |                                 | 15-16 |                |   |
+| Matt Carrick         | `matt`                          | 15-16 | Yes            |   |
+| Matt Carrick         | `matt`                          | 16-17 |                |   |
+| Evan Smith           | `thief/evan`                    | 16-17 | Yes            |   |
+| Hassan Baker         | `hassassin`                     | 16-17 |                |   |
+| Adam Gillessen       | `gilly`                         | 16-17 |                |   |
+| Adam Gillessen       | `gilly`                         | 17-18 | Yes            |   |
+| Freya  Broderick     | `freyamade`                     | 17-18 |                |   |
+| Ultan Casey          | `ultan`                         | 17-18 |                |   |
+| Colm Ó hIcí          | `mloc6/mloc`                    | 17-18 |                |   |
+| Colm Ó hIcí          | `mloc6/mloc`                    | 18-19 | Yes            |   |
+| Colm Ó hIcí          | `mloc6/mloc`                    | 19-20 |                |   |
+| Noah Santschi Cooney | `strum355`                      | 17-18 |                |   |
+| Noah Santschi Cooney | `strum355`                      | 18-19 |                |   |
+| Noah Santschi Cooney | `strum355`                      | 19-20 | Yes            |   |
+| Oisin Aylward        | `oisinaylward`                  | 18-19 |                |   |
+| Oisin Aylward        | `oisinaylward`                  | 19-20 |                |   |
+| Michael Forde        | `fordemc`                       | 18-19 |                |   |
+| Michael Forde        | `fordemc`                       | 19-20 |                |   |
+| Oisin Canty          | `ocanty`                        | 18-19 |                |   |
+| Oisin Canty          | `ocanty`                        | 19-20 |                |   |
+| Oisin Canty          | `ocanty`                        | 20-21 | Yes            |   |
+| Thomas Galligan      | `thomas`                        | 19-20 |                |   |
+| James Cotter         | `jac/goibniu/jotter`            | 20-21 |                |   |
+| Eric Moynihan        | `ericm/twofivefive`             | 20-21 |                |   |
+| Arthan Jansen        | `arthan`                        | 20-21 |                |   |
 
 # Domains
 We possess `netsoc.co` & `netsoc.dev`
