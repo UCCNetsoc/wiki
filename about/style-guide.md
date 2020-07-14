@@ -2,9 +2,9 @@
 title: Style Guide
 description: 
 published: true
-date: 2020-07-13T21:40:55.740Z
+date: 2020-07-14T02:30:39.338Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 [If you are searching for all PR assets, they can be found here](https://github.com/UCCNetsoc/wiki/tree/master/assets)
@@ -20,7 +20,7 @@ Be **bold** yet professional. Make use of quality photography and imagery. Resou
 
 ## Logo
 
-![](/assets/logo-hires-inverted.png)
+![](/assets/logo-hires-inverted.png =500x)
 
 Netsoc’s main logo consists of four distinct elements:
 
