@@ -2,21 +2,13 @@
 title: Untitled Page
 description: 
 published: true
-date: 2020-07-13T21:40:22.966Z
+date: 2020-07-14T02:00:09.554Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
-# Header
-Your content here
+# Welcome!
 
-$$\begin{array}{c}
+> This is the wiki for UCC Netsoc, the Networking, Technology and Gaming society of University College, Cork. This resource is maintained by our committee (and you!), and covers a wide spectrum of topics, including our history, our constitution, how to use the services we provide to students, pages related to UCC's Computer Science course, and documentation for our SysAdmins
+> {.is-info}
 
-\nabla \times \vec{\mathbf{B}} -\, \frac1c\, \frac{\partial\vec{\mathbf{E}}}{\partial t} &
-= \frac{4\pi}{c}\vec{\mathbf{j}}    \nabla \cdot \vec{\mathbf{E}} & = 4 \pi \rho \\
-
-\nabla \times \vec{\mathbf{E}}\, +\, \frac1c\, \frac{\partial\vec{\mathbf{B}}}{\partial t} & = \vec{\mathbf{0}} \\
-
-\nabla \cdot \vec{\mathbf{B}} & = 0
-
-\end{array}$$
