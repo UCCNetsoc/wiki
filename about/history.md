@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2020-07-14T01:13:02.536Z
+date: 2020-07-14T01:13:35.049Z
 tags: history
 editor: markdown
 ---
@@ -17,27 +17,27 @@ Pretty much lost to time.
 # Timeline 
 
 ## 2015/2016
-* **Committee**
-  * ### Chairperson
+* ### Committee
+  * #### Chairperson
     Evan Smith
-  * ### Secretary
+  * #### Secretary
     Freyja Quigley
-  * ### Events Officer
+  * #### Events Officer
     Michael Collins
-  * ### Equipment Officer
+  * #### Equipment Officer
     Declan Reid
-  * ### Communications Officer
+  * #### Communications Officer
     Matt Carrick
-  * ### Webmaster
+  * #### Webmaster
     Joe McEvoy
-  * ### PROs
+  * #### PROs
     Mervyn Galvin
     Daniel Heffernan
-  * ### OCMs
+  * #### OCMs
     Anthony Hayes
     Denise Crowley
     Eimear Crotty
-  * ### First Year Rep
+  * #### First Year Rep
     Rob Power
 
 ### 2016/2017
