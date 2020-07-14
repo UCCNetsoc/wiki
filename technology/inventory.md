@@ -2,11 +2,10 @@
 title: Inventory
 description: Everything the Technology side of the society has in its possession
 published: true
-date: 2020-07-09T22:16:17.769Z
-tags: servers, sysadmin
-editor: markdown
+date: 2020-07-13T21:48:01.368Z
+tags: 
+editor: undefined
 ---
-
 
 # Networking Equipment
 

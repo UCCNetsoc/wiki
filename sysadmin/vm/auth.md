@@ -2,11 +2,10 @@
 title: auth
 description: FreeIPA / Keycloak server
 published: true
-date: 2020-07-12T23:52:32.390Z
+date: 2020-07-13T21:48:15.012Z
 tags: 
 editor: undefined
 ---
-
 
 # Playbooks
 [Creation Playbook](https://github.com/UCCNetsoc/NaC/blob/master/create-auth.yml)

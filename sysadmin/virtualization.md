@@ -2,11 +2,10 @@
 title: Virtualization
 description: 
 published: true
-date: 2020-07-12T23:20:57.422Z
+date: 2020-07-13T21:47:52.095Z
 tags: 
 editor: undefined
 ---
-
 
 We run [Proxmox VE](https://pve.proxmox.com/), a system that abstracts KVM virtual machines and LXC containers into a common set of powerful tools.
 

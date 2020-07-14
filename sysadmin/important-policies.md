@@ -2,7 +2,7 @@
 title: Important Policies
 description: Read before contributing to NaC
 published: true
-date: 2020-07-13T00:14:21.207Z
+date: 2020-07-13T21:47:28.533Z
 tags: 
 editor: undefined
 ---

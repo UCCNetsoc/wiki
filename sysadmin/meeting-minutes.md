@@ -2,9 +2,9 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-07-14T03:05:51.177Z
+date: 2020-07-14T03:05:55.630Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # 2020/2021

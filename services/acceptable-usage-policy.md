@@ -2,7 +2,7 @@
 title: Acceptable Use Policy
 description: 
 published: true
-date: 2020-07-13T21:41:10.401Z
+date: 2020-07-13T21:47:05.346Z
 tags: 
 editor: undefined
 ---
