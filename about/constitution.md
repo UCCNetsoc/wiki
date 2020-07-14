@@ -2,7 +2,7 @@
 title: Constitution
 description: UCC Networking, Gaming & Technology Society Constitution
 published: true
-date: 2020-07-14T00:56:40.144Z
+date: 2020-07-14T01:00:12.854Z
 tags: 
 editor: markdown
 ---
@@ -155,14 +155,14 @@ editor: markdown
 11. The chairperson from the previous academic year will be deemed to be an ex-officio unless a majority committee vote is held otherwise.
 
 # Sub-Committees
-1. The Committee may create Sub-Committees as needed for Projects or Special events.
-2. All sub Committees will have a minimum of one society Committee member on them.
-3. All Sub Committee members must be members of the society.
+1. The Committee may create Sub-Ccommittees as needed for Projects or Special events.
+2. All Sub-Committees will have a minimum of one society Committee member on them.
+3. All Sub-Committee members must be members of the society.
 4. No Sub Committee can last for more than one academic year without the Committee voting to retain it.
-5. All sub Committees will be provided with a written mandate outlining their scope and objectives.
-6. No Sub Committee can take on duties or authority of the Committee.
-7. Sub Committee Membership will not count as Committee Membership except where permissible for awards.
-8. A Sub Committee can set aside a position for a first year representative to be elected at the EGM.
+5. All Sub-Committees will be provided with a written mandate outlining their scope and objectives.
+6. No Sub-Committee can take on duties or authority of the Committee.
+7. Sub-Committee Membership will not count as Committee Membership except where permissible for awards.
+8. A Sub-Committee can set aside a position for a first year representative to be elected at the EGM.
 
 # Interpretation
 
