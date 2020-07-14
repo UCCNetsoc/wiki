@@ -2,9 +2,9 @@
 title: Committee
 description: UCC Netsoc's committee for the current academic year
 published: true
-date: 2020-07-13T21:46:23.472Z
+date: 2020-07-14T03:38:50.177Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 > Positions up for grabs during the academic year & annual general meeting (AGM):
@@ -45,7 +45,7 @@ editor: undefined
 
 # SysAdmins
 ### James Cotter
-### Arthan Jans
+### Arthan Jansen
 ### Eric Moynihan
 ### Thomas Galligan
 
