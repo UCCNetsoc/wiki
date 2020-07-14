@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2020-07-14T01:23:55.030Z
+date: 2020-07-14T01:24:19.338Z
 tags: history
 editor: markdown
 ---
@@ -128,8 +128,80 @@ Pretty much lost to time.
 
 ### 2017/2018
 
+* ### June
+
+* ### July
+
+* ### August
+
+* ### September
+
+* ### October
+
+* ### November
+
+* ### December
+
+* ### January
+
+* ### February
+
+* ### March
+
+* ### April
+
+* ### May
+
 ### 2018/2019
 
+* ### June
+
+* ### July
+
+* ### August
+
+* ### September
+
+* ### October
+
+* ### November
+
+* ### December
+
+* ### January
+
+* ### February
+
+* ### March
+
+* ### April
+
+* ### May
+
 ### 2019/2020
+
+* ### June
+
+* ### July
+
+* ### August
+
+* ### September
+
+* ### October
+
+* ### November
+
+* ### December
+
+* ### January
+
+* ### February
+
+* ### March
+
+* ### April
+
+* ### May
 
 ### 2020/2021
