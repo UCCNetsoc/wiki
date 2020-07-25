@@ -1,10 +1,10 @@
 ---
-title: Important Policies
+title: Virtual Machine Policies
 description: Read before contributing to NaC
 published: true
-date: 2020-07-13T21:47:28.533Z
+date: 2020-07-25T20:23:40.637Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 * **All volatile data should be on a 2nd disk of the VM, not the boot disk**
@@ -17,7 +17,6 @@ editor: undefined
   * If you want a prescence on multiple VLANs, attach multiple NICs
   * If you give the VM with a NIC with no tagging, it will recieve ALL traffic.
       * This is a huge security risk
-
 
 * **Ensure critical services start on boot**
 	 * Don't forget to label your containers to start on boot, it's easy to miss this
