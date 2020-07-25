@@ -2,9 +2,9 @@
 title: Committee
 description: UCC Netsoc's committee for the current academic year
 published: true
-date: 2020-07-14T03:38:50.177Z
+date: 2020-07-14T03:38:54.552Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 > Positions up for grabs during the academic year & annual general meeting (AGM):

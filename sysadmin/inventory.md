@@ -2,9 +2,9 @@
 title: Inventory
 description: Everything the Technology side of the society has in its possession
 published: true
-date: 2020-07-14T03:28:49.711Z
-tags: servers, sysadmin
-editor: markdown
+date: 2020-07-14T03:28:54.235Z
+tags: 
+editor: undefined
 ---
 
 # SysAdmins
