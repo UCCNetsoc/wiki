@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2020-07-26T18:42:42.262Z
+date: 2020-07-26T18:43:05.048Z
 tags: 
 editor: markdown
 ---
@@ -20,4 +20,3 @@ This resource is maintained by our committee (and you!), and covers a wide spect
 
 
 ## Calendar
-<iframe src="https://calendar.google.com/calendar/embed?src=oithca%40gmail.com&ctz=Europe%2FDublin" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
