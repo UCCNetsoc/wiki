@@ -2,12 +2,58 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-07-14T03:13:53.717Z
+date: 2020-07-27T19:39:17.149Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # 2020/2021
+
+## Meeting 3 (2020-07-27)
+
+* Canty fixed everything broken
+	* See [blameless-postmortems](/sysadmin/blameless-postmortems) for 2020-07-20
+  
+* Eric
+	* Backups working-ish 
+  	* Cronjob from external server to ru n
+  * Moved over minecraft
+  * working on a possible solution code-server
+  * Pterodactyl, daemon
+  
+* James
+	* Prometheus working
+  	* Exporters working
+    * Can assign them by ansible groups
+    * Prometheus server:
+    	* Won't use NFS at all, it complains about file handles
+      * Putting the server on `databases` vm
+    * Local setup for grafana and grafonet working, will port over
+    
+
+* Thomas
+	* Moving CI, consul and vault
+  * Helping eric with code-server
+  * Setting up auditd:
+  	* https://github.com/Neo23x0/auditd/blob/master/audit.rules
+  
+* Arthan
+	* https://github.com/UCCNetsoc/discord-bot/pull/23
+  * Prom PR
+	* Adding prometheus to dev-env
+	* Minecraft Hunger Games
+  	* Custom plugin
+
+* Oisin A
+	* Minecraft Hunger Games
+  	* Custom Bukkit plugin
+    
+* Oisin C
+	* Sorting out netsocadmin stuff
+  	* Had to ditch golang because seteuid support
+  * Adding freeipa and keycloak to dev-env
+ 
+   
 
 ## Meeting 2 (2020-07-13)
 
