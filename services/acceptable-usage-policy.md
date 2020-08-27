@@ -1,13 +1,14 @@
 ---
-title: Acceptable Use Policy
+title: Terms of Service
 description: 
 published: true
-date: 2020-07-13T21:47:05.346Z
+date: 2020-08-27T13:45:01.068Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
-## Acceptable Usage
+
+## Acceptable Usage Policy
 * No pornography of any kind
 * No gore or violence-related imagery, videos or documents
 * No hate speech
