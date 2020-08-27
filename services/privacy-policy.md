@@ -2,9 +2,9 @@
 title: Privacy Policy
 description: 
 published: true
-date: 2020-07-13T21:47:10.346Z
+date: 2020-08-27T13:43:36.553Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 * UCC Networking, Gaming & Technology Society (hereafter known as UCC Netsoc) is part of UCC Societies
@@ -30,8 +30,8 @@ personal data we collect from you when you use our websites and services.
 
 ## What data do we collect?
 UCC Netsoc collects the following data:
-* Your name & unique username
-* Email address you used to sign up
+* Your unique username
+* Email address you used to sign up (which may contain your student number)
 * A secure, hashed form of your current password
 * Logs generated with your username & the IP address used when accessing any of our services
 * Logs generated with your username & the IP address used when performing any actions related to our services
@@ -44,7 +44,7 @@ You directly provide UCC Netsoc with most of the data we collect.
 We collect data and process data when you:
 * Sign up for any of our services
 * Log in and access any our services
-* Use or view our websites via your browser's cookies.
+* Use or view our websites (via your browser's cookies).
 
 UCC Netsoc may also receive your data indirectly from the following sources:
 * Membership data provided by UCC Societies
