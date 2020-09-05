@@ -2,7 +2,7 @@
 title: Home
 description: 
 published: true
-date: 2020-07-27T13:14:07.260Z
+date: 2020-09-05T03:10:58.330Z
 tags: 
 editor: markdown
 ---
@@ -11,12 +11,11 @@ editor: markdown
 ![wiki-banner-large.jpg](/assets/wiki-banner-large.jpg =860x)
 
 ## Welcome to UCC Netsoc's Wiki
-This resource is maintained by our committee (and you!), and covers a wide spectrum of topics, including:
+UCC Netsoc's public wiki documenting the society, it's services, history and more
+
+## See:
 * our [history](/about/history)
 * our [constitution](/about/constitution)
 * how to use the [services](/services/tutorial) we provide
 * pages related to UCC's Computer Science course
 * documentation for our SysAdmins
-
-
-## Calendar
