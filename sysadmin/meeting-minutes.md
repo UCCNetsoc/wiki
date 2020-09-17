@@ -2,9 +2,9 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-07-27T19:39:17.149Z
+date: 2020-07-27T19:49:01.347Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # 2020/2021
@@ -34,7 +34,7 @@ editor: markdown
 * Thomas
 	* Moving CI, consul and vault
   * Helping eric with code-server
-  * Setting up auditd:
+  * Setting up auditd on `portal`:
   	* https://github.com/Neo23x0/auditd/blob/master/audit.rules
   
 * Arthan

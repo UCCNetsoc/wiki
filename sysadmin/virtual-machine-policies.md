@@ -2,9 +2,9 @@
 title: Virtual Machine Policies
 description: Read before contributing to NaC
 published: true
-date: 2020-07-25T20:23:40.637Z
+date: 2020-07-25T20:23:46.399Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 * **All volatile data should be on a 2nd disk of the VM, not the boot disk**
