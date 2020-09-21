@@ -22,7 +22,7 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
 
-    - name: Image Resizer
+    - name: Image Resizer Gallery
       uses: sharadcodes/img-resizer@v1.1
       with:
       # Folder in which original images are stored
@@ -32,6 +32,15 @@ jobs:
     # Folder in which resized images are stored
         output-folder: gallery/thumbnails
 
+    - name: Image Resizer Events
+      uses: sharadcodes/img-resizer@v1.1
+      with:
+      # Folder in which original images are stored
+        image-folder: events
+    # New resolution for images
+        new-resolution: 420x
+    # Folder in which resized images are stored
+        output-folder: events/thumbnails
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
