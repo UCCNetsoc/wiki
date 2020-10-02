@@ -2,16 +2,16 @@
 title: Backups
 description: 
 published: true
-date: 2020-09-28T14:55:38.927Z
+date: 2020-09-28T15:02:34.894Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # VM Offsite Backups
 
 > Ensure you are familiar with the [Netsoc As Code](/sysadmin/netsoc-as-code) and the Netsoc Infrastructure before deploying the offsite backup script.
 
-Since Netsoc uses Proxmox to manage all our VMs, we use `vzdump` create compressed archives of individual VMs. We then sync the backups to a UCC Google Drive account using `duplicity`.
+Since Netsoc uses Proxmox to manage all our VMs, we use `vzdump` to create compressed archives of individual VMs. We then sync the backups to a UCC Google Drive account using `duplicity`.
 We have the backup scripts merged into the [Netsoc as Code repository](https://github.com/UCCNetsoc/NaC). 
 To run it, ensure you have the following requirements:
 	

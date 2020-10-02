@@ -2,12 +2,39 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-07-27T19:49:01.347Z
+date: 2020-10-02T20:52:30.507Z
 tags: 
 editor: undefined
 ---
 
 # 2020/2021
+
+## Meeting 4 (2020-10-02)
+
+* netsocadmin ready-ish
+	* just need to setup traefik routes
+  * canty is porting users
+  * splitting into duo docker containers
+ 
+* pterodactyl games
+	* we forked pterodactyl
+  * keycloak federation with socialiate
+  
+* backups are setup
+	* playbook that sshs in from a remote VPS
+  * uploads gdrive key of the head sysadmin
+  * weekly backups of every VPS
+	* documented on the wiki
+
+* netsocadmin 
+	* file manager feature
+  * see issues
+  * thomas/arthan backend
+  * eric frontend
+  
+* k8s setup
+	* next weekend, eric / james / canty
+ 
 
 ## Meeting 3 (2020-07-27)
 
