@@ -2,12 +2,10 @@
 title: Mentorships
 description: 
 published: true
-date: 2020-10-15T16:23:41.149Z
+date: 2020-10-15T16:24:43.648Z
 tags: 
 editor: markdown
 ---
-
-# Mentorships
 
 We run mentorships every year to give students a sample of technology they don't get to learn in college
 
