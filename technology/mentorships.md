@@ -2,9 +2,9 @@
 title: Mentorships
 description: 
 published: true
-date: 2020-10-15T19:36:07.884Z
+date: 2020-10-15T21:57:50.200Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 We run mentorships every year to give students a sample of technology they don't get to learn in college
@@ -13,7 +13,7 @@ You can sign-up for current mentorships or view the notes from previous ones bel
 
 # Python Programming
 
-![](/assets/mentorship-python-banner.png)
+![](/assets/mentorship-python-banner.png =460x)
 
 *Taught by*: __Thomas__
 
