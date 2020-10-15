@@ -2,9 +2,9 @@
 title: Privacy Policy
 description: 
 published: true
-date: 2020-10-15T16:29:11.382Z
+date: 2020-10-15T16:29:17.731Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 * UCC Networking, Gaming & Technology Society (hereafter known as UCC Netsoc) is part of UCC Societies

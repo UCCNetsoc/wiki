@@ -2,7 +2,7 @@
 title: Constitution
 description: The constitution is the document that the society lives and abides by
 published: true
-date: 2020-07-14T02:29:55.449Z
+date: 2020-10-02T20:53:46.625Z
 tags: 
 editor: undefined
 ---

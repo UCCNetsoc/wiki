@@ -2,11 +2,10 @@
 title: Terms of Service
 description: 
 published: true
-date: 2020-08-27T13:45:06.198Z
+date: 2020-10-02T20:54:48.592Z
 tags: 
 editor: undefined
 ---
-
 
 ## Acceptable Usage Policy
 * No pornography of any kind
