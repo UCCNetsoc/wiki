@@ -2,7 +2,7 @@
 title: Mentorships
 description: 
 published: true
-date: 2020-10-15T16:26:14.384Z
+date: 2020-10-15T18:35:21.172Z
 tags: 
 editor: markdown
 ---
@@ -19,5 +19,5 @@ You can sign-up for current mentorships or view the notes from previous ones bel
 
 You will learn how to write testing code with Typescript, you will hate yourself by the time it is over
 
-## [Sign-Up](http://forms.google.com/)
-## [Mentorship Page](/technology/mentorships/test-mentorship)
+## - [Sign-Up](http://forms.google.com/)
+## - [Mentorship Page](/technology/mentorships/test-mentorship)
