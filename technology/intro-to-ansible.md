@@ -2,7 +2,7 @@
 title: Intro to Ansible
 description: For new and returning SysAdmins
 published: true
-date: 2020-07-13T21:47:56.747Z
+date: 2020-10-15T19:16:38.058Z
 tags: 
 editor: undefined
 ---

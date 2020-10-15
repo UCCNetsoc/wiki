@@ -2,7 +2,7 @@
 title: Matches
 description: Results from eSports matches
 published: true
-date: 2020-07-13T21:46:51.502Z
+date: 2020-10-15T19:16:03.278Z
 tags: 
 editor: undefined
 ---

@@ -2,22 +2,23 @@
 title: Mentorships
 description: 
 published: true
-date: 2020-10-15T18:35:21.172Z
+date: 2020-10-15T19:36:07.884Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 We run mentorships every year to give students a sample of technology they don't get to learn in college
 
 You can sign-up for current mentorships or view the notes from previous ones below
 
-# Typescript Testing with Forde
+# Python Programming
 
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--u1bm_fmQ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/52u6z4j6b2dxhcjkhvy4.jpeg =360x)
+![](/assets/mentorship-python-banner.png)
 
-*Taught by*: Forde
+*Taught by*: __Thomas__
 
-You will learn how to write testing code with Typescript, you will hate yourself by the time it is over
+Learn the Python Programming Language by building a mini-project, read and write files to automate your study.
+Learn webscraping to find out when you need to submit that assignment that's coming up. And learn to plot some graphs demonstrating how much fun you've had learning Python
 
-## - [Sign-Up](http://forms.google.com/)
-## - [Mentorship Page](/technology/mentorships/test-mentorship)
+## [Sign-Up](http://forms.google.com/)
+## [Mentorship Page](/technology/mentorships/python)

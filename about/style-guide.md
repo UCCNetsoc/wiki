@@ -2,7 +2,7 @@
 title: Style Guide
 description: 
 published: true
-date: 2020-07-14T02:30:43.978Z
+date: 2020-10-15T19:16:00.861Z
 tags: 
 editor: undefined
 ---
