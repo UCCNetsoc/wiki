@@ -2,19 +2,15 @@
 title: Committee
 description: UCC Netsoc's committee for the current academic year
 published: true
-date: 2020-07-26T08:14:22.199Z
+date: 2020-10-15T18:13:07.794Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
-> Positions up for grabs during the academic year & annual general meeting (AGM):
+> Positions currently up for grabs:
 > 
-> ### First Year Rep
 > ### First Year SysAdmin
-> ### Ordinary Committee Member
-> ### Gaming Team
-> ### eSports Coordinator
-> ### Vice-PRO
+> ### First Year Gaming Team
 > {.is-info}
 
 
@@ -27,8 +23,9 @@ editor: undefined
 # Finance Officer
 ### Stephen O'Riordan
 
-# PRO (PR Officer)
+# PRO
 ### Nathan Carey
+### Warren Daly
 
 # Equipments Officer
 ### Luc Fitzgerald
@@ -36,9 +33,6 @@ editor: undefined
 # Secretary
 ### Omar Sallam
 
-# Ordinary Committee Members (OCMs)
-### Aleksei Ivanov
-### Aidan Molloy
 
 # Head SysAdmin
 ### Oisin Canty
@@ -48,6 +42,17 @@ editor: undefined
 ### Arthan Jansen
 ### Eric Moynihan
 ### Thomas Galligan
+
+# First Year Rep
+### Jessica O'Leary
+
+# Ordinary Committee Members (OCMs)
+### Aleksei Ivanov
+### Aidan Molloy
+### Raymond Reynolds
+
+# Gaming Team Member
+### Senan Kavanagh
 
 # Ex-Officio
 ### Cian McGrath (Ex-Chairperson)
