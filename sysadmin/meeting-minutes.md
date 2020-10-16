@@ -2,12 +2,91 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-10-15T19:16:27.096Z
+date: 2020-10-16T19:02:27.343Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # 2020/2021
+
+## Meeting 5 (2020-10-16)
+
+* Present
+	* Thomas
+  * Oisin C
+  * Eric 
+  * James
+  
+  
+* Netsoc Admin
+	* We're moving to doing 'cloud', we want to focus on more becoming an infra-provider than service provider
+  * i.e think AWS Lightsail
+    	![](https://cdn.discordapp.com/attachments/710613627081850920/766460331299307520/ls_option_linux_app_1.png =480x)
+  * We're gonna offer LXC containers and VPS hosted on Proxmox with port mapping to a single external IP
+  * Users are still registered in portal and will ssh into their vm from there 
+  * We can offer users various templates to install stuff
+  * For LXC, we want to generate these templates (hopefully) using Packer and Ansible and store the resulting tar.gz in a public GitHub repo
+  * We'll force-push the repo to 1 commit to keep the repo size down
+  * Templates we need to make:
+     * WordPress (alpine)
+     * Ghost CMS 
+     * LEMP - linux nginx mysql php
+     * Node.js
+     * Nginx static
+     * Python CGI (lmao)
+     * Minecraft
+     * CSGO
+     * Garry's Mod
+     * TF2
+     * `/var/lib/vz/template/cache` test em here
+  * VM templates
+     * Just base ubuntu for now
+     * Ubuntu
+     * CentOS
+     * Arch
+     * Debian
+* Netsoc Admin File Manager
+
+* CIX Trip Tasks (in this order)
+  * tesla.netsoc.co is being reimaged
+     * We need to move student media over to it
+     * Student media database is on bigbertha
+     * Motley/express/sexpress/etc are on /media/somedrive on leela
+     * We need to document this setup heavily
+  * We can then put Proxmox on leela and not worry about killing student media
+  * also gives an opportunity to decomission bigbertha because smedia database is now on tesla
+  * Server Hardware
+     * We we want to buy 2 servers
+     * Preferably minimum 4x HDD 3.5inch bays
+     * 48-64gbs RAM DDR4.
+     * Preferably Dell/HP
+     * Also need to buy 16gb ram for lovelace
+     ![](https://cdn.discordapp.com/attachments/569930801416765480/764417494806822922/Screenshot_20201010-102042.jpg)
+     * Want to sort out hard drive situation on servers
+  
+* Cloudflare DNS diffing now works (yay!)
+
+* Tasks for this week:
+* Oisin C.
+	* Getting port mapping and traefik working with cloud
+* Eric
+	* LXC images
+  * AWX
+  * Frontend for VMs/file manager
+* Thomas
+  * Backend for the file manager
+  * AWX with eric
+* James
+  * Proxmox VM dashboard on grafana
+  * Grafana/grafonet
+  * LXC images with eric
+  
+* EVERYONE
+  * Find server deals, ye have 2 weeks from Monday
+  * Favor r630s, r730s. r730xd MUST have 3.5inch HDD bays
+
+* Other:
+  * meetings now held weekly
 
 ## Meeting 4 (2020-10-02)
 
