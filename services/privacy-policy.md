@@ -2,7 +2,7 @@
 title: Privacy Policy
 description: 
 published: true
-date: 2020-10-15T19:16:10.998Z
+date: 2020-10-17T11:42:09.027Z
 tags: 
 editor: undefined
 ---

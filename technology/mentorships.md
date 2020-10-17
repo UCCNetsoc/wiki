@@ -2,9 +2,9 @@
 title: Mentorships
 description: UCC Netsoc runs mentorships every year to give students a sample of technology they don't get to learn in college
 published: true
-date: 2020-10-17T13:38:06.619Z
+date: 2020-10-17T13:38:08.150Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 

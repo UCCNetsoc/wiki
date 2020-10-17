@@ -2,9 +2,9 @@
 title: Python Programming with Thomas
 description: 
 published: true
-date: 2020-10-15T18:48:44.449Z
+date: 2020-10-17T11:41:46.834Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Python Programming with Thomas

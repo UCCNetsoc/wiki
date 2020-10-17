@@ -1,16 +1,19 @@
 ---
 title: Home
-description: 
+description: UCC Netsoc's public wiki documenting the society, it's services, history and more
 published: true
-date: 2020-10-15T19:15:47.870Z
+date: 2020-10-17T13:40:16.045Z
 tags: 
 editor: undefined
 ---
 
 ![wiki-banner-large.jpg](/assets/wiki-banner-large.jpg =860x)
 
-## Welcome to UCC Netsoc's Wiki
-UCC Netsoc's public wiki documenting the society, it's services, history and more
+## What is Netsoc?
+
+Netsoc is University College Cork's Networking, Gaming & Technology Society.
+
+We run weekly gaming and technology events to all those interested 
 
 ## See:
 * our [history](/about/history)

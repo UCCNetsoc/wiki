@@ -2,7 +2,7 @@
 title: Terms of Service
 description: 
 published: true
-date: 2020-10-15T19:16:12.742Z
+date: 2020-10-17T11:42:10.807Z
 tags: 
 editor: undefined
 ---

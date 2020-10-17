@@ -2,9 +2,9 @@
 title: Tech Talks
 description: Information and slides about previous tech talks
 published: true
-date: 2020-10-17T13:49:35.472Z
+date: 2020-10-17T13:49:37.074Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # 2020/2021

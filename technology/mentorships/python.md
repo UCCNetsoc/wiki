@@ -1,15 +1,13 @@
 ---
-title: Python Programming Mentorship
+title: Mentorship - Python with Thomas
 description: 
 published: true
-date: 2020-10-15T19:14:14.039Z
+date: 2020-10-17T12:48:28.085Z
 tags: 
 editor: undefined
 ---
 
-# Python Programming with Thomas
-
-![](/assets/mentorship-python-banner.png)
+![](/assets/mentorship-python-banner.png =480x)
 
 # Lesson Plan
 
