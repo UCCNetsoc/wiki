@@ -2,7 +2,7 @@
 title: Tech Talks
 description: Information and slides about previous tech talks
 published: true
-date: 2020-10-17T13:47:54.121Z
+date: 2020-10-17T13:49:35.472Z
 tags: 
 editor: markdown
 ---
@@ -14,4 +14,4 @@ editor: markdown
 Introduction to Git & GitHub presented by Noah (`strum355`)
 
 
-<iframe width=512 height=400 src="https://docs.google.com/viewer?url=https://wiki.netsoc.co/tech-talks/2020-2021/1-noah-hacktoberfest.pdf&embedded=true"></iframe>
+<iframe width=768 height=576 src="https://docs.google.com/viewer?url=https://wiki.netsoc.co/tech-talks/2020-2021/1-noah-hacktoberfest.pdf&embedded=true"></iframe>
