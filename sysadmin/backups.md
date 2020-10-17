@@ -2,10 +2,11 @@
 title: Backups
 description: 
 published: true
-date: 2020-10-02T20:55:04.240Z
+date: 2020-10-17T12:17:07.125Z
 tags: 
-editor: undefined
+editor: markdown
 ---
+
 # VM Offsite Backups
 
 > Ensure you are familiar with the [Netsoc As Code](/sysadmin/netsoc-as-code) and the Netsoc Infrastructure before deploying the offsite backup script.
