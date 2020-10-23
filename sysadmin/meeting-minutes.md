@@ -2,12 +2,76 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-10-17T11:42:37.729Z
+date: 2020-10-23T19:45:40.295Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # 2020/2021
+
+## Meeting 6 (2020-10-23)
+
+#### Canty/Thomas
+* Netsoc Cloud progress
+	* Backend done
+  * UI now
+  * File manager integration
+  	* Canty pushing changes tonight to the new branch
+  * Eric doing UI
+  * Beta test soon when everythings done
+  	* Invite like 10-15 people
+    * Split groups in 50/50 Container/VPS
+    * Get a grouping of use cases
+    	* Dev
+      * Blogger Art Student lmao
+      
+#### James
+* LXC templates
+	* Packer really isn't an option
+  * James says there's an alternative
+  	* Looking into it more
+    
+* Grafana
+  * Grafana 7 & Grafana 6 weirdness
+  * Have to mix and match jsonnet for grafana 7 and grafana 6
+  * new.grafana.netsoc.dev
+
+#### Eric/Thomas
+* Loki
+	* Running but untested
+  * with fluentd
+ 
+* AWX
+	* It's borked
+  
+#### Everyone
+* Hardware news,
+  * Need to ask for the purchases
+  
+	* UCC VMs on hold until November 2th.
+  * We want to install FreeIPA + Keycloak on VM1
+  * Motley+Express+Sexpress on VM2
+  	* Document student media meticulously
+
+#### Arthan
+* Alumni Donation Page
+	* Arthan
+  * Needs to stand the test of time
+  * Should let us take donations with Ticketsolve
+  * Testimonials from past HLMs/SysAdmins/Chairs/Ex-Officios
+  	* Json file stored in the GitHub repo
+    	* Face picture
+      * Name
+      * Position
+      * Testimonial
+      * Years active
+    * Testimonials submited by PR/Issue
+  * Historical photos
+   
+#### Reece <3
+
+* Adding a feature to scrape events from facebook to automatically add them to the discord bot
+ 
 
 ## Meeting 5 (2020-10-16)
 
