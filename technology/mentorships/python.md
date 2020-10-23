@@ -2,7 +2,7 @@
 title: Mentorship - Python with Thomas
 description: 
 published: true
-date: 2020-10-23T15:56:44.030Z
+date: 2020-10-23T15:56:59.861Z
 tags: mentorship
 editor: markdown
 ---
