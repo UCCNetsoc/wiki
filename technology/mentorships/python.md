@@ -1,10 +1,10 @@
 ---
-title: Mentorship - Python with Thomas
+title: Mentorship - Python with Thomas Lesson Plan
 description: 
 published: true
-date: 2020-10-23T15:57:01.674Z
-tags: 
-editor: undefined
+date: 2020-10-25T15:18:12.425Z
+tags: mentorship
+editor: markdown
 ---
 
 ![mentorship-banner-small.png](/mentorship-banner-small.png)
