@@ -1,10 +1,153 @@
-<!--
-title: Lesson 1
-description: 
-published: true
-date: 2020-10-25T15:02:21.781Z
-tags: mentorship
-editor: code
--->
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-<iframe src="https://strum355.netsoc.co/gittalk/" style="width: 100%;height: 60vh;" />
+		<title>Python Mentorship</title>
+
+		<link rel="stylesheet" href="../reveal/dist/reset.css">
+		<link rel="stylesheet" href="../reveal/dist/reveal.css">
+		<link rel="stylesheet" href="../reveal/dist/theme/white.css" id="theme">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="../reveal/plugin/highlight/monokai.css" id="highlight-theme">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+                
+        <section>
+          <img src="./assets/basics.png" alt="Basics">
+        </section>
+      
+        <section class="background" data-markdown>
+          # Python Programming
+          **Week 1**: The Basics
+          
+          By [Thomas](https://github.com/thomas007g)
+        </section>
+      
+        <section data-markdown style="text-align: left;">
+          # Data Types
+      
+          * When programming, we need to store data to output the data we need
+          
+          * We need to be able to manipulate this data, and to do so, we need to specify a type for this data.
+      
+          * Types allow us to give this data special attributes like being able to add numbers etc.
+        </section>
+      
+        <section data-markdown style="text-align: left;">
+          # Basic Data types
+      
+          - Integer ( int )   - a whole number, positive **or** negative
+          - String  ( str )   - a *string* of characters ie. pieces of text
+          - Boolean ( bool )  - *True* or *False*
+        </section>
+      
+        <section data-markdown style="text-align: left;">
+          * Those data types are instrumental in being able to write programs for either mathematical or standard data manipulation
+      
+          * Without these types, we cannot do basic operations like appending two strings together
+
+          ```py
+            string1 = "hello" + "world"
+          ```
+        </section>
+      
+        <section data-markdown>
+          # Comments
+      
+          * Comments in code allow for notes in your code to remind you and others what a certain piece of code does.
+      
+          ```py
+          # this is a comment
+          ```
+      
+        </section>
+      
+        <section data-markdown style="text-align: left;">
+          # Variables
+      
+          * We use variables to store information in the form of a data type
+      
+          * In this example, `string1` is a *variable*
+      
+          ```py
+            string1 = "hello + world"
+          ```
+        </section>
+      
+        <section data-markdown>
+          # Variables Contd.
+      
+          Variable's values can be changed
+      
+          ```py
+          var1 = "Hello world"
+          print(var1) # Hello world
+      
+          var2 = "Good morning sun"
+          print(var1) # Good morning sun
+          ```
+        </section>
+      
+        <section data-markdown>
+          # Operators
+      
+          * We use *operators* to process/mutate/manipulate data
+      
+          * Some of these operators include +, -, /, *, =, etc...
+        </section>
+      
+        <section data-markdown>
+          # Operators Contd.
+      
+          - `+` is obviously an addition operator
+          - `-` is obviously a subtraction operator
+          - `*` is (less) obviously a multiplication operator
+          - `/` is (less) obviosuly a division operator
+          - `**` is a "to the power of" operator - returns the first to the power of the second
+          - `//` is a divsion operator without any remainder (the floor)
+      
+        </section>
+      
+        <section data-markdown>
+          ```py
+            5 + 3 # 8
+            5 - 3 # 2
+      
+            2 * 3 # 6
+            3 / 2 # 1.5
+      
+            2 ** 3 # 8
+            3 // 2 # 1 
+          ```
+        </section>
+        
+      </div>
+      <div class='footer'>
+        <a href="./index.html" style="position: absolute; z-index: 1; margin: 0.5em; text-decoration: none; color:#2a76dd; font-size: 4vw; font-family: 'Source Code Pro', sans-serif;">
+          x
+        </a>
+    </div>
+		</div>
+
+		<script src="../reveal/dist/reveal.js"></script>
+		<script src="../reveal/plugin/notes/notes.js"></script>
+		<script src="../reveal/plugin/markdown/markdown.js"></script>
+		<script src="../reveal/plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>
