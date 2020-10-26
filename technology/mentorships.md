@@ -2,7 +2,7 @@
 title: Mentorships
 description: UCC Netsoc runs mentorships every year to give students a sample of technology they don't get to learn in college
 published: true
-date: 2020-10-25T15:20:11.265Z
+date: 2020-10-26T15:48:29.915Z
 tags: 
 editor: markdown
 ---
@@ -20,7 +20,7 @@ All notes will be available online.
 
 - [Sign-Up](https://forms.gle/e3T9Ewtn6saX4TY18)
 - [Lesson Plan](/technology/mentorships/python/lesson-plan)
-- [Menotrship Page](/technology/mentorships/python/mentorship
+- [Mentorship Page](/technology/mentorships/python/mentorship)
 
 # Go Programming
 
@@ -30,6 +30,9 @@ Taught by: __Eric__
 
 Learn Go! The hottest new programming language. Created by Google, Go is a favourite for established companies and startups alike to write server side applications.
 Learn the mechanics of the language and how to make Web APIs and more.
+All notes will be available online.
 
-- [Sign-Up](http://forms.google.com/)
-- [Lesson Plan](/technology/mentorships/golang)
+
+- [Sign-Up](https://forms.gle/Ry8x9QzsSJorVzxt8)
+- [Mentorship Page](/technology/mentorships/go)
+- [Lesson Plan](/technology/mentorships/go/lesson-plan)
