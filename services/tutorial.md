@@ -2,11 +2,9 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2020-10-17T11:42:12.548Z
+date: 2020-11-02T01:06:13.063Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
-# Make your first website
-
-1. Visit admin.netsoc.co
+## Coming Soon
