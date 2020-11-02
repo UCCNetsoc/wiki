@@ -2,9 +2,9 @@
 title: Terms of Service
 description: 
 published: true
-date: 2020-10-17T11:42:10.807Z
+date: 2020-11-02T12:49:03.152Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 ## Acceptable Usage Policy
