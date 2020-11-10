@@ -2,13 +2,64 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-10-23T19:45:40.295Z
+date: 2020-11-10T19:35:38.181Z
 tags: 
 editor: markdown
 ---
 
 # 2020/2021
 
+## Meeting 7 (2020-11-10)
+
+#### Arthan
+
+* Have done anything
+	* Waiting on Stephen
+
+* Design still needs to be done
+  * Eric might help out with the design
+
+#### Canty/Thomas 
+
+* Backend is up and running, just need to fix some bugs
+* File manager backend is finished soon
+
+#### Eric
+
+* Ansible now runs through CI
+	* Document pls
+  
+* Loki/Fluentd
+	* Loki has a docker driver
+    * We need to test what happens if Loki comes down while the containers are set to log to it
+  * We can use fluentd to collect the syslog/journal from the hosts and push to Loki
+ 
+ #### James
+ 
+ * LXC templates
+ 	 * Simplified, each template has it's own provisoning file and not using the same roles for the same distros
+   * GhostCMS, heavily push towards to stop people installing awful Wordpress
+   * Pushing so we can do our own templates
+   
+ * Grafana
+   * More worked
+ 
+ #### Everyone
+ 
+ * Lockdown is over 1st December
+    * 2 weeks from now 24th
+    
+ * Server hardware 
+    * Option 1
+       * Buy used Dell Hardware
+          * R730s, R630s
+         	* Going with SFF SSDs,
+    * Option 2
+       * Will get a quote
+ * Disk spreadsheet
+ 
+ * Need to make a list of stuff to be done at CIX
+ 
 ## Meeting 6 (2020-10-23)
 
 #### Canty/Thomas
