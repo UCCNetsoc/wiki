@@ -2,7 +2,7 @@
 title: Proxmox Cluster
 description: 
 published: true
-date: 2020-11-13T10:36:39.055Z
+date: 2020-11-13T10:36:49.095Z
 tags: 
 editor: markdown
 ---
@@ -55,7 +55,6 @@ We currently do _not_ plan on using Ceph (distributed storage) on our cluster. T
     * See this on thin provisioning: 
     	* https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_and_managing_logical_volumes/assembly_thinly-provisioned-logical-volumes_configuring-and-managing-logical-volumes
   * Proxmoxes LVM pool (named 'local-lvm') creates a Logical Volume for each VM disk
-  
   
 
 ## RAID (TODO - planned)
