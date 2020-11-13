@@ -2,7 +2,7 @@
 title: Netsoc-as-Code
 description: Defining a society one YAML file at a time
 published: true
-date: 2020-11-13T10:12:18.152Z
+date: 2020-11-13T10:56:32.183Z
 tags: 
 editor: markdown
 ---
@@ -109,6 +109,7 @@ While you read this wiki page, you may find it helpful to check out the files as
      * This cloud-init file does the following:
       	* Sets the hostname & fully-qualified-domain-name (FQDN) of the machine
         * Installs `qemu-guest-agent` from APT repos
+        * Enables and starts the `qemu-guest-agent` service
         * Uses Irish APT repos for speed over the base Ubuntu ones
         * Installs a `netsoc` user with `sudo` permissions and a public key so we can ssh in to provision the VM
         * Sets the partition table the 2nd disk to be 100% Linux FS (GPT)
