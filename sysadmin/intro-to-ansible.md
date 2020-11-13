@@ -2,9 +2,9 @@
 title: Intro to Ansible
 description: For new and returning SysAdmins
 published: true
-date: 2020-10-17T11:42:26.075Z
+date: 2020-11-13T08:34:50.182Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 [Ansible](https://www.ansible.com/overview/how-ansible-works) is an incredibly powerful IT automation tool we use to configure and install software on servers
@@ -144,3 +144,7 @@ editor: undefined
     ```
 
 * **[Keep all operations idempotent, this is the core philosophy to Ansible](https://docs.ansible.com/ansible/latest/reference_appendices/glossary.html#term-idempotency)**
+
+* Ansible can support custom inventory scripts, this is a script that is ran that returns which hosts are in the inventory rather than reading a hosts file.
+	* e.g. `ansible-playbook -i proxmox_inventory.py`
+  * We use a custom inventory script to collect which VMs to target
