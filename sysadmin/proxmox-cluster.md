@@ -2,7 +2,7 @@
 title: Proxmox Cluster
 description: 
 published: true
-date: 2020-11-13T08:27:10.509Z
+date: 2020-11-13T08:29:23.341Z
 tags: 
 editor: markdown
 ---
@@ -13,17 +13,17 @@ We run [Proxmox VE](https://pve.proxmox.com/), a system that abstracts KVM virtu
 
 It's also got a nice web UI and _really_ nice API. Think of it like an open-source ESXi/vSphere
 
-Our setup consists of a cluster of Proxmox machines, there currently are as follows:
+Our Proxmox cluster looks like this:
 
 * feynman
-  * Designated as our Ansible control server
-    * Designated as such because it's a pretty terrible server
-    * All Ansible playbooks that make changes must be run from here
-    * Each SysAdmin has a Linux account created on the server to allow them to do development work
-    * Fair warning: it's disks are slow af
-    
+  * Designated as our 'control' server
+  	* This means that feynman is our 'point of entry' for getting into our internal network
+    	* i.e SysAdmins ssh into it and use the web UI from here
+    * We run scripts and tools to automate deployment and configuration from this host
+    	* This means we connect to all our other Proxmox hosts and run tasks from our control host
+
 * lovelace
-	* Just a generic vm host
+	* Just a generic Proxmox host
 
 Servers that still need to become Proxmox cluster hosts (these still run historical/legacy setups):
 
