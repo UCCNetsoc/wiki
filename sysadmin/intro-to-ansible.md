@@ -2,7 +2,7 @@
 title: Intro to Ansible
 description: For new and returning SysAdmins
 published: true
-date: 2020-11-13T08:34:50.182Z
+date: 2020-11-13T08:35:27.510Z
 tags: 
 editor: markdown
 ---
@@ -147,4 +147,5 @@ editor: markdown
 
 * Ansible can support custom inventory scripts, this is a script that is ran that returns which hosts are in the inventory rather than reading a hosts file.
 	* e.g. `ansible-playbook -i proxmox_inventory.py`
-  * We use a custom inventory script to collect which VMs to target
+  * We use a custom inventory script to collect which Proxmox VMs to target
+  * It does this by reading their description and expecting YAML that contains the groups the VM is in and whatever host_vars it has
