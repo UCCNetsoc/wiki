@@ -2,12 +2,12 @@
 title: Overview
 description: 
 published: true
-date: 2020-11-13T07:16:07.887Z
+date: 2020-11-13T07:16:17.656Z
 tags: 
 editor: markdown
 ---
 
-# Networking Overview
+# System Overview
 
 Some networking configuration is managed by Ansible, others is managed manually and is labeled as such
 
