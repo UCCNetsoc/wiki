@@ -2,7 +2,7 @@
 title: Network
 description: 
 published: true
-date: 2020-11-13T08:03:44.809Z
+date: 2020-11-13T08:17:44.563Z
 tags: 
 editor: markdown
 ---
@@ -93,6 +93,7 @@ The Proxmox machine which runs the virtual router has an extra connection: a WAN
 #### 10 - wan
 
 * Connected to the uplink
+* Some VMs have a NIC on this WAN because they have a direct public IP
 
 #### 20 - proxmox
 
@@ -155,7 +156,13 @@ Note that not every VLAN has a similar subnet mask:
 
 ### Firewall zones
 
+* TODO(ocanty)
 
+### NAT
+
+* We use NAT rules in VyOS to allocate ports across hosts, we typically only use NAT on 1 IP
+	* Currently NAT is setup to proxy the SSH (22) and WebUI ports (8006) to the Proxmox 'control' host (feynman) and expose them to the real world
+  
 
 # IP allocations
 
@@ -175,6 +182,13 @@ IP allocations for our infra VMs are managed in our IaC
  
 [See `interfaces` here](https://github.com/UCCNetsoc/NaC/blob/master/vars/network.yml)
 
+## Exposed to the internet - what do we use each public IP for?
+
+`84.39.234.50` - Assigned to our (old) server `bigbertha`
+`84.39.234.51` - Assigned to our (old) server `leela`
+`84.39.234.52` - The public IP of our web infra VM
+`84.39.234.53` - The public IP we use for mapping NAT ports to Proxmox hosts and sometimes VMs
+`84.39.234.54` - The public IP of our Netsoc Cloud router VM 
 
 ## Out of bound rack assignments (for CIX OOB)
 
@@ -204,3 +218,5 @@ S represents the Site Number. If you are taking a CloudCIX support contract you 
 R represents the Rack. It can be any number from 1 to 255. If you have a multi-rack SRXPod then it is recommended to number them from 1 upwards sequentially. If you have a site with multiple SRXPods then different R numbers must be used. The R number must be unique within a Site.
 U represents the U location within the Rack of the device.
 ```
+
+# Diagram
