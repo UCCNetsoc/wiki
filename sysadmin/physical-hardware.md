@@ -1,8 +1,8 @@
 ---
-title: Physical Hardware
+title: Hardware
 description: 
 published: true
-date: 2020-11-13T07:27:22.799Z
+date: 2020-11-13T08:20:32.587Z
 tags: 
 editor: markdown
 ---
