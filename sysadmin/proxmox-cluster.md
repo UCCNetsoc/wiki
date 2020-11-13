@@ -2,7 +2,7 @@
 title: Proxmox Cluster
 description: 
 published: true
-date: 2020-11-13T08:32:54.352Z
+date: 2020-11-13T10:36:39.055Z
 tags: 
 editor: markdown
 ---
@@ -33,6 +33,30 @@ Servers that still need to become Proxmox cluster hosts (these still run histori
 
 
 We currently do _not_ plan on using Ceph (distributed storage) on our cluster. This is because Ceph requires a minimum quorum of 3 servers to operate redundantly. We may use it in the future.
+
+
+# VM Storage
+
+* Proxmox stores data in 'pools'
+* A pool can either be a directory or a block device
+	* Block device => data is written directly to the hard drive
+  * File => data is written a file in the file system
+  
+* A file pool might just be the 'Dir' pool which is a directory on the host
+	* 'local' in Proxmox, which corresponds to /var/lib/vz
+  	* Still stored on an LVM partition
+    
+* A block pool might be LVM
+	* LVM is Logical Volume Manager
+  * It lets you create what appears to be 1 single 'logical' volume/partition but it could be spread across 2-3 physical disks
+  * You can combine multiple Physical Volumes (i.e 2-3 hard drives/ssds) into a Volume Group (VG)
+  * You can then subdivide the Volume Group (VG) into Logical Volumes (LV) which appear as disks of the size you specify
+  	* See: https://wiki.archlinux.org/index.php/LVM
+    * See this on thin provisioning: 
+    	* https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/configuring_and_managing_logical_volumes/assembly_thinly-provisioned-logical-volumes_configuring-and-managing-logical-volumes
+  * Proxmoxes LVM pool (named 'local-lvm') creates a Logical Volume for each VM disk
+  
+  
 
 ## RAID (TODO - planned)
 
