@@ -2,7 +2,7 @@
 title: Proxmox Cluster
 description: 
 published: true
-date: 2020-11-13T08:29:41.321Z
+date: 2020-11-13T08:31:10.283Z
 tags: 
 editor: markdown
 ---
@@ -15,10 +15,11 @@ Our Proxmox cluster looks like this:
 
 * feynman
   * Designated as our 'control' server
-  	* This means that feynman is our 'point of entry' for getting into our internal network
+  	* This means that feynman is our 'point of entry' for getting into our internal network from the public internet
     	* i.e SysAdmins ssh into it and use the web UI from here
     * We run scripts and tools to automate deployment and configuration from this host
-    	* This means we connect to all our other Proxmox hosts and run tasks from our control host
+    	* This means we ssh to all our other Proxmox hosts and run tasks from our control host
+  * You can ssh into it by running `ssh <username>@control.netsoc.co -p2222`
 
 * lovelace
 	* Just a generic Proxmox host
