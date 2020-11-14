@@ -2,7 +2,7 @@
 title: Virtual Machines - Infra
 description: 
 published: true
-date: 2020-11-14T20:53:13.473Z
+date: 2020-11-14T21:08:08.159Z
 tags: 
 editor: markdown
 ---
@@ -11,13 +11,22 @@ editor: markdown
 # Background
 
 These machines occupy the Infra VLAN, they run most of our services
-The Infra VMs are intentionally built to be monolithic to encourage simplicity. Most services should be configured to be ran inside Docker & Docker Compose.
+The Infra VMs are intentionally built to be monolithic for the following reasons:
+* Simplicity
+* No need for huge scale, vertical scaling is fine as we expect only a few hundred users
+* We run a Kubernetes installation on another VLAN as a SysAdmin plaything for fun if you're lookig for High Availability & clustering stuff
 
-We run a Kubernetes installation on another VLAN as a SysAdmin plaything for fun if you're into High Availability & clustering stuff
+Most services should be configured to be ran inside Docker & Docker Compose.
+
+# Internal DNS
+
+* Internal DNS on the Infra VLAN is handled by the `auth` VM, records must be added/modified in `provision-auth-infra-internal-dns.yml`
 
 # Virtual Machines
 
 ## auth
+
+`auth` is our host & user authentication server
 
 https://github.com/UCCNetsoc/NaC/blob/master/create-infra-auth.yml
 https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-auth.yml
@@ -52,6 +61,12 @@ https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-auth.yml
     	* You can do this by running the `export-keycloak-freeipa-realm.yml` playbook and commiting the changed file
   
 ## web
+
+`web` is our main reverse proxy web server and runs most of our web services
+
+* `web` runs:
+	* 
+
 
 https://github.com/UCCNetsoc/NaC/blob/master/create-infra-web.yml
 https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-web.yml
