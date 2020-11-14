@@ -2,7 +2,7 @@
 title: Virtual Machines - Infra
 description: 
 published: true
-date: 2020-11-14T20:52:42.874Z
+date: 2020-11-14T20:53:13.473Z
 tags: 
 editor: markdown
 ---
@@ -41,7 +41,7 @@ https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-auth.yml
       * All other infra boxes use the `auth` VM for their DNS
   	* Provides a user store in LDAP for all our users
   * [Keycloak](https://www.keycloak.org/)
-    	* We expose the following ports on auths IP to the Keycloak container
+    * We expose the following ports on auths IP to the Keycloak container
     	* 8443 - Web UI
   	* Keycloak lets us provide SSO to any user we store in FreeIPA's LDAP server
     	* It can speak SAML, OAuth & OpenID Connect
