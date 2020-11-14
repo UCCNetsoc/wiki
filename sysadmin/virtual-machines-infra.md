@@ -2,7 +2,7 @@
 title: Virtual Machines - Infra
 description: 
 published: true
-date: 2020-11-14T21:08:08.159Z
+date: 2020-11-14T21:25:11.214Z
 tags: 
 editor: markdown
 ---
@@ -21,6 +21,9 @@ Most services should be configured to be ran inside Docker & Docker Compose.
 # Internal DNS
 
 * Internal DNS on the Infra VLAN is handled by the `auth` VM, records must be added/modified in `provision-auth-infra-internal-dns.yml`
+
+* Each VM _must_ be enrolled into the FreeIPA realm if they want to have a DNS record for their hostname.
+	* All VM hostnames should end with `infra.netsoc.co`
 
 # Virtual Machines
 
@@ -59,7 +62,14 @@ https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-auth.yml
     * We use a [custom build of Keycloak with our theme injected](http://github.com/UCCNetsoc/keycloak)
     * We try to keep Keycloak stateless, so if you modify the configuration in Keycloak's web UI you will need to commit it back into NaC
     	* You can do this by running the `export-keycloak-freeipa-realm.yml` playbook and commiting the changed file
-  
+
+## databases
+
+`databases` hosts all of our databases. It should be placed on a node with both good CPU & disk performance
+
+* `databases` runs:
+	* 
+
 ## web
 
 `web` is our main reverse proxy web server and runs most of our web services
