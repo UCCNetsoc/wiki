@@ -2,7 +2,7 @@
 title: SysAdmins
 description: Everything the Technology side of the society has in its possession
 published: true
-date: 2020-11-13T07:37:54.881Z
+date: 2020-11-15T03:58:58.781Z
 tags: servers, sysadmin
 editor: markdown
 ---
@@ -12,7 +12,7 @@ editor: markdown
 | Name                 | Nick                            | Year  | Head SysAdmin? |   |
 |:--------------------:|:-------------------------------:|:-----:|:--------------:|---|
 | Arthan Jansen        | `arthan`                        | 20-21 |                |   |
-| Eric Moynihan        | `ericm/twofivefive`             | 20-21 |                |   |
+| Eric Moynihan        | `eric/ericm/mnhn`	             | 20-21 |                |   |
 | James Cotter         | `jac/goibniu/jotter`            | 20-21 |                |   |
 | Thomas Galligan      | `thomas`                        | 19-20 |                |   |
 | Oisin Canty          | `ocanty`                        | 20-21 | Yes            |   |
