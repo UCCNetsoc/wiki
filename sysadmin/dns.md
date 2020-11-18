@@ -2,7 +2,7 @@
 title: DNS
 description: External and internal DNS
 published: true
-date: 2020-11-18T11:47:51.553Z
+date: 2020-11-18T11:48:02.959Z
 tags: 
 editor: markdown
 ---
@@ -18,10 +18,10 @@ Our external DNS is managed by Cloudflare. You can set new records by modifying 
 
 * `*.netsoc.dev / netsoc.dev` is dev/staging
 
-* `netsoc.cloud` is 
+* `netsoc.cloud`
   
 * **CNAME any new subdomains to an ingress CNAME. Do not use A records.**
-	* i.e CNAME wiki.netsoc.co to traefik.netsoc.co (our inbound web server which will route the request)
+	* i.e CNAME wiki.netsoc.co to web.netsoc.co (our inbound web server which will route the request)
 
 # Internal DNS (only on `infra` VLAN)
 Internal DNS is DNS lookups served whilst inside UCC Netsoc (typically inside one of our VMs)
