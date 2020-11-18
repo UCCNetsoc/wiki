@@ -2,12 +2,60 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-11-10T19:35:38.181Z
+date: 2020-11-18T19:48:26.859Z
 tags: 
 editor: markdown
 ---
 
 # 2020/2021
+
+## Meeting 8 (2020-11-18)
+
+#### Oisin/Thomas
+
+* Netsoc Cloud
+	* It's deployed! Containers work, everything works bar VPS password resets
+  * Planning on doing a beta within the next few weeks
+  	* Arranging a google form for the announcements section
+    * What sort of people should we get for the beta?
+    	* Techy people first
+      * Maybe invite many groups of many different people later
+    * Templates we should have ready for the beta
+    	* WordPress - canty
+      * GhostCMS - james
+      * NodeJS - james
+      * LEMP stack - canty
+      * MEAN stack - eric
+      * MySQL - canty
+      * Devtools - eric
+      	* git, gcc, gnupg, clang, python3, gdb, ruby, node, npm, golang, rust, vim, emacs, jq, gdb, curl, sqlite
+      * LinuxGSM - eric
+      * Ubuntu/Debian/CentOS/Alpine/Arch/OpenSUSE - already done with proxmox
+    * File manager
+    	* Canty needs to push code changes so Thomas can start integrating his changes (sorry!)
+ 
+ #### Eric
+ 
+ * Loki is logging everything for Docker
+   * Promtail used instead of Docker driver
+      * pls add `/netsoc/freeipa/var/log/*.log`
+   * Promtail syslogs on hosts
+ 
+ #### Thomas
+ 
+ * File manager downloading directories
+ 
+ #### James
+ 
+ * Gonna setup grafana via webui
+   
+ #### Everyone
+ 
+ * Server purchase decisions, next week
+ 
+#### Reece :heart:
+
+* Doing design for the frontend of the alumni page
 
 ## Meeting 7 (2020-11-10)
 
