@@ -2,7 +2,7 @@
 title: Virtual Machines - Cloud
 description: 
 published: true
-date: 2020-11-18T11:38:06.249Z
+date: 2020-11-18T11:38:56.375Z
 tags: 
 editor: markdown
 ---
@@ -23,6 +23,8 @@ https://github.com/UCCNetsoc/NaC/blob/master/create-cloud-proxy.yml
 https://github.com/UCCNetsoc/NaC/blob/master/provision-cloud-proxy.yml
 
 `proxy` runs the following services:
+* SSH
+	* Has an additional `jumphost` user for the Netsoc Cloud API to tunnel through if it needs access to the Cloud VLAN
 * Traefik
 	* Traefik is configured to listen to 80, 443 & the address range configured for port mapping in the Netsoc Cloud API
   * It dynamically pulls its configuration using the Traefik HTTP provider (i.e it requests the Traefik JSON config) from the Netsoc Cloud API
