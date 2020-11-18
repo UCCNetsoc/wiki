@@ -2,7 +2,7 @@
 title: Virtual Machines - Infra
 description: 
 published: true
-date: 2020-11-14T21:25:11.214Z
+date: 2020-11-18T11:41:17.895Z
 tags: 
 editor: markdown
 ---
@@ -67,12 +67,18 @@ https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-auth.yml
 
 `databases` hosts all of our databases. It should be placed on a node with both good CPU & disk performance
 
+https://github.com/UCCNetsoc/NaC/blob/master/create-infra-databases.yml
+https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-databases.yml
+
 * `databases` runs:
 	* 
 
 ## web
 
 `web` is our main reverse proxy web server and runs most of our web services
+
+https://github.com/UCCNetsoc/NaC/blob/master/create-infra-web.yml
+https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-web.yml
 
 * `web` runs:
 	* 
