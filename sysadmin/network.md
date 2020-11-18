@@ -2,7 +2,7 @@
 title: Network
 description: 
 published: true
-date: 2020-11-13T08:17:44.563Z
+date: 2020-11-18T11:30:41.357Z
 tags: 
 editor: markdown
 ---
@@ -188,7 +188,7 @@ IP allocations for our infra VMs are managed in our IaC
 `84.39.234.51` - Assigned to our (old) server `leela`
 `84.39.234.52` - The public IP of our web infra VM
 `84.39.234.53` - The public IP we use for mapping NAT ports to Proxmox hosts and sometimes VMs
-`84.39.234.54` - The public IP of our Netsoc Cloud router VM 
+`84.39.234.54` - The public IP of our Netsoc Cloud proxy VM 
 
 ## Out of bound rack assignments (for CIX OOB)
 
