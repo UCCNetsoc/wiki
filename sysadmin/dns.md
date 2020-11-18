@@ -2,7 +2,7 @@
 title: DNS
 description: External and internal DNS
 published: true
-date: 2020-11-18T11:48:02.959Z
+date: 2020-11-18T11:48:10.758Z
 tags: 
 editor: markdown
 ---
@@ -20,7 +20,7 @@ Our external DNS is managed by Cloudflare. You can set new records by modifying 
 
 * `netsoc.cloud`
   
-* **CNAME any new subdomains to an ingress CNAME. Do not use A records.**
+* **CNAME any new subdomains to an ingress CNAME. Try not to use A records.**
 	* i.e CNAME wiki.netsoc.co to web.netsoc.co (our inbound web server which will route the request)
 
 # Internal DNS (only on `infra` VLAN)
