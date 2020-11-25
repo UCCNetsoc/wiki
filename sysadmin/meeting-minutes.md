@@ -2,12 +2,57 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-11-18T19:48:26.859Z
+date: 2020-11-25T19:41:42.671Z
 tags: 
 editor: markdown
 ---
 
 # 2020/2021
+
+## Meeting 9 (2020-11-25)
+
+#### Arthan
+
+* Minecraft server setup, someone needs to set spawn protections
+* Running 1.16.4
+
+#### Oisin
+
+* Netsoc Cloud
+  * We need to send out beta sign up Google Form
+  * Templates w/ allocations:
+    	* WordPress - still needs to be done
+      	* 1CPU, 512MB RAM/512 SWAP
+      * GhostCMS - james
+      	* 1CPU, 512MB RAM/512 SWAP
+      * NodeJS - james
+      	* 1CPU, 512MB RAM/512 SWAP
+      * LEMP stack - canty
+      	* 1CPU 512MB/512
+      * MEAN stack - eric
+      	* 512MB
+      * MySQL - canty
+      	* 512MB
+      * Devtools - eric
+      	* git, gcc, gnupg, clang, python3, gdb, ruby, node, npm, golang, rust, vim, emacs, jq, gdb, curl, sqlite
+        * 1024MB
+      * LinuxGSM - eric
+      	* 2CPU, 2048MB / 2048MB Swap
+      * Ubuntu/Debian/CentOS/Alpine/Arch/OpenSUSE - already done with proxmox
+      	* 1024MB
+    
+ 
+* CIX trip
+  * Want to prioritize Thomas + First Year Sys
+  * Canty making an _ordered_ list of what needs to be done
+  * Need to a pick a date when everyone is available
+     * Maybe end of semester 1? 17th December
+     * or earlier in December
+  
+#### Jotter
+
+* Moved over Grafana
+
 
 ## Meeting 8 (2020-11-18)
 
