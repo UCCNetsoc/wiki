@@ -2,7 +2,7 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-11-25T19:41:42.671Z
+date: 2020-11-25T19:52:37.878Z
 tags: 
 editor: markdown
 ---
@@ -20,9 +20,11 @@ editor: markdown
 
 * Netsoc Cloud
   * We need to send out beta sign up Google Form
-  * Templates w/ allocations:
-    	* WordPress - still needs to be done
-      	* 1CPU, 512MB RAM/512 SWAP
+  * File manager, canty pushing changes tonight or tomorrow night
+  * Template status
+  	* Templates w/ allocations:
+      * WordPress - still needs to be done
+          * 1CPU, 512MB RAM/512 SWAP
       * GhostCMS - james
       	* 1CPU, 512MB RAM/512 SWAP
       * NodeJS - james
@@ -41,7 +43,7 @@ editor: markdown
       * Ubuntu/Debian/CentOS/Alpine/Arch/OpenSUSE - already done with proxmox
       	* 1024MB
     
- 
+
 * CIX trip
   * Want to prioritize Thomas + First Year Sys
   * Canty making an _ordered_ list of what needs to be done
@@ -49,10 +51,23 @@ editor: markdown
      * Maybe end of semester 1? 17th December
      * or earlier in December
   
+#### Eric
+
+* Templates done
+* File manager
+
 #### Jotter
 
 * Moved over Grafana
+* /lxc stuff
 
+#### Thomas
+
+* Link shortener
+	* Needs to support 'branded' urls like netsoc.events/phreaking
+  * Needs to support multiple domains
+  * API agaiinst PG domain
+* Integrate into discord bot for committee
 
 ## Meeting 8 (2020-11-18)
 
