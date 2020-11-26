@@ -2,7 +2,7 @@
 title: Virtual Machines - Infra
 description: 
 published: true
-date: 2020-11-26T17:14:32.043Z
+date: 2020-11-26T17:16:08.162Z
 tags: 
 editor: markdown
 ---
@@ -74,7 +74,13 @@ https://github.com/UCCNetsoc/NaC/blob/master/create-infra-databases.yml
 https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-databases.yml
 
 * `databases` runs:
-	* 
+	* MySQL (set by DNS record in Internal DNS)
+  * Postgres
+  * Prometheus
+  	* Used for time series data
+  * Prometheus exporters which store data in Prometheus based on certain conditions
+  	* `pve-exporter` exports stats from Proxmox
+    * `blackbox_exporter` can probe websites and see if they're up
 
 ## web
 
