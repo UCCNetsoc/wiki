@@ -2,7 +2,7 @@
 title: Virtual Machines - Infra
 description: 
 published: true
-date: 2020-11-26T17:14:22.686Z
+date: 2020-11-26T17:14:32.043Z
 tags: 
 editor: markdown
 ---
@@ -112,9 +112,3 @@ https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-web.yml
   	* See Cloud Proxy for this
  * Loki (for collecting logs off machines/containers)
  * Grafana
-
-
-
-https://github.com/UCCNetsoc/NaC/blob/master/create-infra-web.yml
-https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-web.yml
-
