@@ -2,7 +2,7 @@
 title: Virtual Machines - Infra
 description: 
 published: true
-date: 2020-11-18T11:41:17.895Z
+date: 2020-11-26T17:14:11.955Z
 tags: 
 editor: markdown
 ---
@@ -21,6 +21,9 @@ Most services should be configured to be ran inside Docker & Docker Compose.
 # Internal DNS
 
 * Internal DNS on the Infra VLAN is handled by the `auth` VM, records must be added/modified in `provision-auth-infra-internal-dns.yml`
+
+* **Internal DNS only manages the zone `infra.netsoc.co`**
+	* See External DNS for `netsoc.co`
 
 * Each VM _must_ be enrolled into the FreeIPA realm if they want to have a DNS record for their hostname.
 	* All VM hostnames should end with `infra.netsoc.co`
@@ -81,7 +84,35 @@ https://github.com/UCCNetsoc/NaC/blob/master/create-infra-web.yml
 https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-web.yml
 
 * `web` runs:
-	* 
+	* Traefik, the main reverse proxy for all of our web-facing services:
+  	* File config provider:
+      * Used to reverse proxy applications that don't run on the web vm
+        * FreeIPA Web UI on `ipa.netsoc.co`
+        * Keycloak Web UI on `keycloak.netsoc.co`
+        * Prometheus Web UI on `prometheus.netsoc.co`
+      * Set up various redirect URLs:
+        * `discord.netsoc.co`
+        * `esports.netsoc.co`
+        * `constitution.netsoc.co`
+        * `mentorships.netsoc.co`
+        * `tutorial.netsoc.co`
+    * Docker config provider
+    	* AutomaticallyS set by labels on the Docker containers 
+ * Static Websites
+ 	* Homepage, Blog
+ * Wiki
+ * Discord Bot
+ * CI
+ 	* Drone
+ * Netsoc Cloud
+ 	* UI `netsoc.cloud`
+  * API exposes `api.netsoc.cloud`
+  	* Also exposes config that is picked by up by Traefik running on the Cloud Proxy VM
+  * Does *not* handle reverse proxying Netsoc Cloud containers or VMs
+  	* See Cloud Proxy for this
+ * Loki (for collecting logs off machines/containers)
+ * Grafana
+
 
 
 https://github.com/UCCNetsoc/NaC/blob/master/create-infra-web.yml
