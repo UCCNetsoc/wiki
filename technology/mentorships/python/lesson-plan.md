@@ -2,7 +2,7 @@
 title: Mentorship - Python with Thomas Lesson Plan
 description: 
 published: true
-date: 2020-10-25T15:18:12.425Z
+date: 2020-11-27T17:17:15.375Z
 tags: mentorship
 editor: markdown
 ---
@@ -20,8 +20,8 @@ editor: markdown
 3. Intermediate Programming
 >Expand on the knowledge previously. We will also use more complex data types to structure data in a more intuitive way.{.is-info}
 ---
-4. Putting your knowledge to the test!
->We will write a program that will use all of the topics we have previously covered and give an insight into what programming is all about.{.is-info}
+4. Object-Oriented Principles
+>We will go over the fundamentals, why you would use object-oriented design and how to implement them{.is-info}
 ---
 5. Binary Operations
 >Learn what happens "under the hood" of our machines day-to-day, and what happens when you run a python script.{.is-info}
