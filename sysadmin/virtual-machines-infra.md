@@ -2,7 +2,7 @@
 title: Virtual Machines - Infra
 description: 
 published: true
-date: 2020-11-26T17:16:08.162Z
+date: 2020-11-27T02:42:13.534Z
 tags: 
 editor: markdown
 ---
@@ -81,6 +81,12 @@ https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-databases.yml
   * Prometheus exporters which store data in Prometheus based on certain conditions
   	* `pve-exporter` exports stats from Proxmox
     * `blackbox_exporter` can probe websites and see if they're up
+
+## games
+
+* `games` runs:
+	* The old minecraft server (managed by NaC)
+  * The 'new' minecraft server (**unmanaged by NaC**)
 
 ## web
 
