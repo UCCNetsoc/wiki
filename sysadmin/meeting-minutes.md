@@ -2,12 +2,32 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-11-25T19:52:37.878Z
+date: 2020-12-02T19:01:33.678Z
 tags: 
 editor: markdown
 ---
 
 # 2020/2021
+
+## Meeting 10 (2020-12-02)
+
+#### Arthan
+
+* Not here
+
+#### Eric
+
+* Vagrant Proxmox setup
+	* Networking works
+* File manager
+	* API done (ish)
+  * Need
+
+
+#### James
+
+* Templates have /lxc copied to the host with a random folder name
+* Try 
 
 ## Meeting 9 (2020-11-25)
 
