@@ -2,7 +2,7 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-12-02T19:01:33.678Z
+date: 2020-12-02T20:08:15.976Z
 tags: 
 editor: markdown
 ---
@@ -19,15 +19,71 @@ editor: markdown
 
 * Vagrant Proxmox setup
 	* Networking works
-* File manager
+* Cloud File manager
 	* API done (ish)
-  * Need
+  * Canty will push a skeleton of the file manager UI, eric will finish it
+* git to mean
 
+#### Oisin
+
+* Wordpress&LEMP templates done
+* Templates done:
+  * Developer Tools
+  	* has categories: medium
+  * GhostCMS (broken)
+  	* 512
+  * Wordpress
+  	* 512
+  * LEMP
+  	* has categories: small, medium
+  * LinuxGSM 
+  	* has categories: medium, large, huge
+  * MEAN
+  	* has categories: small, medium
+  * Nginx
+  	* has categories: small
+    
+  * OS
+  	* Ubuntu/Debian/CentOS/Alpine/Arch/OpenSUSE
+    * small, medium, large
+    
+* To be done:
+	* Nodejs
+  * MySQL
+  
+
+* Small:
+	512mb 10gb 1cpu
+* Medium
+	1gb 15gb 1cpu
+* Large
+	2gb 20gb 2cpu
+* Huge
+	4gb 25gb 4cpu
+ 
+
+* Need to create skeleton file manager UI
 
 #### James
 
-* Templates have /lxc copied to the host with a random folder name
-* Try 
+* Templates have /lxc copied to the host with a random folder name now so multiple people can build them simulatenously
+	
+* Grafana:
+	* Ditch graffonnet
+  * Provision all dashboards via NaC
+  * When a change is made copy it back into NaC and run grafana playbook
+  
+#### Thomas + Alan
+
+* URL shortner
+	* POST https://links.netsoc.co/
+    * `{ domain: "https://netsoc.events/", slug: "whatever", target: "https://wiki.netsoc.co/thing" }`
+    * `https://netsoc.events/whatever`
+    
+#### Alan
+
+* "orientation"
+	* Friday 7pm
 
 ## Meeting 9 (2020-11-25)
 
