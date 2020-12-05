@@ -2,12 +2,16 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-12-02T20:50:11.328Z
+date: 2020-12-05T20:17:12.158Z
 tags: 
 editor: markdown
 ---
 
 # 2020/2021
+
+## Meeting 11 (whenever)
+
+* Stop using FreeIPA DNS
 
 ## Meeting 10 (2020-12-02)
 
