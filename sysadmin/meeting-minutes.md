@@ -2,16 +2,69 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-12-05T20:17:12.158Z
+date: 2020-12-10T18:18:45.201Z
 tags: 
 editor: markdown
 ---
 
 # 2020/2021
 
-## Meeting 11 (whenever)
+## Meeting 11 (2020-12-10)
 
 * Stop using FreeIPA DNS
+
+#### CIX visit
+
+* Need to sort out CIX visit
+* Maybe on the December 21st or 23rd
+
+* Proxmox on leela
+* Sorting out HDDs
+
+#### Arthan
+
+* Grafana dashboards
+
+#### Canty
+
+* Removing FreeIPA DNS
+	* https://github.com/UCCNetsoc/NaC/blob/a343ec9c22e0e5cf541a85cb041f47f08514979e/roles/grafana/files/provisioning/datasources/prometheus.yaml#L14
+  * https://github.com/UCCNetsoc/NaC/blob/946b2ad6eb5cfc4e53ce527252374cb8d6c0064b/provision-infra-web.yml#L258
+* MySQL template nearly done
+	* Go bootstrap thing
+
+#### Eric
+
+* Grafana works with loki
+* Vagrant Proxmox working
+	* DNS for the Proxy -> Proxmox
+
+#### James
+
+* NodeJS template done
+* /lxc random folder is done
+* Grafana in progress
+
+#### Thomas + Alan
+
+* Writing Docker container for MonstaFTP 
+* Modifying it so we can autofill the form by URL
+
+* URL shortener
+	* Supports multiple URLs 
+  
+* Traefik setup
+
+#### Dashboard
+
+* James
+* Eric
+* Arthan
+* Alan
+
+* Monitoring Proxmox hosts
+* Monitoring Infra VMs
+* Monitoring User VMs
 
 ## Meeting 10 (2020-12-02)
 
