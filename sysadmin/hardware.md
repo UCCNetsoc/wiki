@@ -2,10 +2,14 @@
 title: Hardware
 description: 
 published: true
-date: 2020-11-13T08:20:32.587Z
+date: 2020-12-22T16:18:02.060Z
 tags: 
 editor: markdown
 ---
+
+# Rack
+
+![racknumber.jpg](/assets/racknumber.jpg)
 
 # Networking
 
