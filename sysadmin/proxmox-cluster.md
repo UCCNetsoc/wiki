@@ -2,9 +2,9 @@
 title: Proxmox Cluster
 description: 
 published: true
-date: 2020-11-13T10:36:49.095Z
+date: 2020-11-13T10:36:50.697Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 We run [Proxmox VE](https://pve.proxmox.com/), a system that abstracts KVM virtual machines and LXC containers into a common set of powerful tools.

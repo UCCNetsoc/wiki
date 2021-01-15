@@ -2,7 +2,7 @@
 title: Constitution
 description: UCC Networking, Gaming & Technology Society Constitution
 published: true
-date: 2020-10-17T12:22:57.440Z
+date: 2020-11-02T11:35:29.009Z
 tags: 
 editor: undefined
 ---

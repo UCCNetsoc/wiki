@@ -2,9 +2,9 @@
 title: Netsoc-as-Code
 description: Defining a society one YAML file at a time
 published: true
-date: 2020-11-13T10:56:32.183Z
+date: 2020-11-13T10:56:33.843Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 Since all of Netsoc's services run as VMs on Proxmox, we can define our entire infrastructure using Infrastructure-as-Code. 

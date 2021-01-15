@@ -2,7 +2,7 @@
 title: Historical Infrastructure
 description: The past server setups of UCC Netsoc
 published: true
-date: 2020-10-17T11:42:21.724Z
+date: 2020-11-02T11:36:02.952Z
 tags: 
 editor: undefined
 ---

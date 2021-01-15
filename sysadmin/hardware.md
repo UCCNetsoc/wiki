@@ -2,9 +2,9 @@
 title: Hardware
 description: 
 published: true
-date: 2020-12-22T16:18:02.060Z
+date: 2020-12-22T16:18:04.184Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Rack

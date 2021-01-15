@@ -2,9 +2,9 @@
 title: Mentorships - Golang with Eric
 description: Go
 published: true
-date: 2020-11-01T21:23:55.172Z
+date: 2020-11-02T11:36:37.588Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 <h1>

@@ -2,9 +2,9 @@
 title: Virtual Machines - Cloud
 description: 
 published: true
-date: 2020-11-18T11:38:56.375Z
+date: 2020-11-18T11:38:57.960Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Background

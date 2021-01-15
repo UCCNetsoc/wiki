@@ -2,9 +2,9 @@
 title: Virtual Machines - Infra
 description: 
 published: true
-date: 2020-11-27T02:42:13.534Z
+date: 2020-11-27T02:42:15.258Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 

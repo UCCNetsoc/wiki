@@ -2,7 +2,7 @@
 title: Events
 description: Every event we've ever ran
 published: true
-date: 2020-10-17T11:41:52.178Z
+date: 2020-11-02T11:35:30.802Z
 tags: 
 editor: undefined
 ---
