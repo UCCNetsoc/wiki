@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T01:39:29.500Z
+date: 2021-01-16T01:48:03.546Z
 tags: 
 editor: markdown
 ---
@@ -84,32 +84,40 @@ editor: markdown
 
 ![tutorial-instance.png](/assets/cloud/tutorial-instance.png)
 
+### Start/Stop/Shutdown an instance
+
+* You can only access and run most actions while an instance is running
+
 ### Accessing your instance (via the `root` user)
 
-* You will need to have hit **Reset Root** to get a root password for the instance
+* You will to hit **Reset Root** to get a root password for the instance!
 * Hit **Confirm** to have the root password reset for this instance sent to your student email
 ![tutorial-root.png](/assets/cloud/tutorial-root.png)
 
-### Using the web terminal
+#### Access via the web terminal
 
 * Hit **Terminal** and follow the instructions
-* Username `root`, and the password in the root user email you received
+* Enter username `root`, and the password in the root user email you received when prompted
+	* The terminal will appear like below:
+	* ![tutorial-webterm.png](/assets/cloud/tutorial-webterm.png) 
 
-### SSHing in without the web termianl
+#### Access via SSH
 
-* You will need to have hit **Reset Root** to get a root password for the instance
 * Add a port mapping using **+ Port** and map an external port to **Port 22**
 	* ![tutorial-portmap22.png](/assets/cloud/tutorial-portmap22.png)
   
 * You will see the port map is now in effect
 	* ![tutorial-portmap-result.png](/assets/cloud/tutorial-portmap-result.png)
-* Download an SSH client like [PuTTY](https://www.putty.org/) or use a terminal `ssh` command
-	* From the image above we can then use the following info:
-  	* SSH hostname/server: `cantybox.ocanty.container.netsoc.cloud`
-    * SSH port: `16537`
-  * An use the credentials you reset earlier
-    * SSH username: `root`
-    * SSH password: `root password you received in email`
+* Use a terminal `ssh` command:
+	* Open a command prompt:
+  	* On Windows: search for `cmd` in the Start Menu and open `Command Prompt`
+    * On Linux: open a terminal
+  * Enter the following command:
+  	* `ssh root@cantybox.ocanty.container.netsoc.cloud -p16537`
+  * Hit yes to any message about trusting keys
+  * Enter the root password you received in the email
+  	* You may want to change the root password once logged in via the `passwd` command
+    
 
 ### Accessing the file system
 
