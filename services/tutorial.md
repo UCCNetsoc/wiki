@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T02:20:53.311Z
+date: 2021-01-16T02:23:57.534Z
 tags: 
 editor: markdown
 ---
@@ -100,7 +100,7 @@ editor: markdown
 
 * You can only access and run most actions while an instance is running
 
-## Resetting the the `root` user
+## Resetting the instance `root` user
 
 * You will need to hit **Reset Root** to get a root password for the instance!
 * Hit **Confirm** to have the root password reset for this instance sent to your student email
