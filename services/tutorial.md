@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T01:53:15.098Z
+date: 2021-01-16T01:53:33.704Z
 tags: 
 editor: markdown
 ---
@@ -53,7 +53,7 @@ editor: markdown
 	* ![tutorial5.png](/assets/cloud/tutorial5.png)
   * Enter your username & password and hit **Log In**
   
-# Choosing what to host
+# Hosting Guides
 
 * Select one of the guides below to set up what you need, as you need:
   * A static website
