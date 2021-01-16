@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T01:48:03.546Z
+date: 2021-01-16T01:50:06.902Z
 tags: 
 editor: markdown
 ---
@@ -26,7 +26,6 @@ editor: markdown
 # Signing Up & Logging In
 
 * Visit the Netsoc Cloud management panel by going to [netsoc.cloud](https://netsoc.cloud)
-	* ![tutorial-home-better.png](/assets/cloud/tutorial-home-better.png)
 * Hit **Sign Up** to show the sign up form
   * ![tutorial-signup.png](/assets/cloud/tutorial-signup.png)
   * Enter your student email address (i.e studentid@umail.ucc.ie)
@@ -50,7 +49,6 @@ editor: markdown
 # Logging in to the Panel
 
 * Visit the Netsoc Cloud management panel by going to [netsoc.cloud](https://netsoc.cloud)
-	* ![tutorial-home-better.png](/assets/cloud/tutorial-home-better.png)
 * Hit **Login** to open the login form
 	* ![tutorial5.png](/assets/cloud/tutorial5.png)
   * Enter your username & password and hit **Log In**
