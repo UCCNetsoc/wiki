@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T01:17:29.628Z
+date: 2021-01-16T01:39:29.500Z
 tags: 
 editor: markdown
 ---
@@ -55,21 +55,6 @@ editor: markdown
 	* ![tutorial5.png](/assets/cloud/tutorial5.png)
   * Enter your username & password and hit **Log In**
   
-# Choose what you want to host
-
-* You can follow any one of the tutorials below to set up any service you want:
-	* Set up a blog/website:
-  	* GhostCMS
-    * WordPress
-  * Set up a simple development environment
-
-# Instances
-
-* An instance is a running installation of a Linux server
-	* 
-* We offer instance images to save you the time of setting everything up
-
-
 # Choosing what to host
 
 * Select one of the guides below to set up what you need, as you need:
@@ -81,6 +66,64 @@ editor: markdown
     * Minecraft
     * CS:GO
   * A Linux development box (i.e to use Docker and other programming languages)
+  
+# Instances
+
+* An instance is a running installation of a Linux server
+* We offer instance images to save you the time of setting everything up
+
+* An instance can be a **Container** or a **Virtual Private Server**
+	* The vast majority of users will only need a **Container**
+  
+## Requesting an Instance
+
+* Enter the Instances panel
+* Select the **Request** button in the **Containers** list
+
+## Managing an Instance
+
+![tutorial-instance.png](/assets/cloud/tutorial-instance.png)
+
+### Accessing your instance (via the `root` user)
+
+* You will need to have hit **Reset Root** to get a root password for the instance
+* Hit **Confirm** to have the root password reset for this instance sent to your student email
+![tutorial-root.png](/assets/cloud/tutorial-root.png)
+
+### Using the web terminal
+
+* Hit **Terminal** and follow the instructions
+* Username `root`, and the password in the root user email you received
+
+### SSHing in without the web termianl
+
+* You will need to have hit **Reset Root** to get a root password for the instance
+* Add a port mapping using **+ Port** and map an external port to **Port 22**
+	* ![tutorial-portmap22.png](/assets/cloud/tutorial-portmap22.png)
+  
+* You will see the port map is now in effect
+	* ![tutorial-portmap-result.png](/assets/cloud/tutorial-portmap-result.png)
+* Download an SSH client like [PuTTY](https://www.putty.org/) or use a terminal `ssh` command
+	* From the image above we can then use the following info:
+  	* SSH hostname/server: `cantybox.ocanty.container.netsoc.cloud`
+    * SSH port: `16537`
+  * An use the credentials you reset earlier
+    * SSH username: `root`
+    * SSH password: `root password you received in email`
+
+### Accessing the file system
+
+* Hit **Filesystem** and follow the instructions
+
+## Instance Expiry
+
+* You need to renew your instance so it does not expire
+
+* The expiry date and renewal button can be seen as below:
+	* ![tutorial-activation.png](/assets/cloud/tutorial-activation.png)
+
+* If your instance expires it can be forcefully **shutdown** or **deleted!**
+	* Make sure to keep personal backups of your data
 
 # FAQs
 
