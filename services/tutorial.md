@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T02:14:02.266Z
+date: 2021-01-16T02:15:13.122Z
 tags: 
 editor: markdown
 ---
@@ -85,8 +85,12 @@ editor: markdown
     * Take note of some of the stricter requirements:
     	* ![tutorial-tos.png](/assets/cloud/tutorial-tos.png)
     * Consult the Terms of Service for more information
-
-
+  * Hit **Confirm**
+  
+* We will receive the instance request and we will accept or deny it
+	* You will receive an email when this happens
+ 
+* Once your instance is accepted, it will appear in the list of your instances and you will be free to control it
 
 # Managing Instances
 
