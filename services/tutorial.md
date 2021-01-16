@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T00:55:36.467Z
+date: 2021-01-16T00:56:28.869Z
 tags: 
 editor: markdown
 ---
@@ -30,7 +30,7 @@ editor: markdown
   * ![tutorial-signup.png](/assets/cloud/tutorial-signup.png)
   * Enter your student email address (i.e studentid@umail.ucc.ie)
   * Enter a username
-  	* This will be **publicly available** and **cannot be changed later**, so choose wisely
+  	* This will be **publicly available and seen by others** and **cannot be changed later**, so choose wisely
   * You need to be a member of UCC Netsoc to use our services
   	* Visit the [Clubs & Socs Portal](https://candsportal.ucc.ie/) to become a member
   * Accept the [Terms of Service](/services/terms-of-service)
