@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T01:50:06.902Z
+date: 2021-01-16T01:51:54.444Z
 tags: 
 editor: markdown
 ---
@@ -65,7 +65,7 @@ editor: markdown
     * CS:GO
   * A Linux development box (i.e to use Docker and other programming languages)
   
-# Instances
+# Requesting Instances
 
 * An instance is a running installation of a Linux server
 * We offer instance images to save you the time of setting everything up
@@ -78,28 +78,28 @@ editor: markdown
 * Enter the Instances panel
 * Select the **Request** button in the **Containers** list
 
-## Managing an Instance
+# Managing Instances
 
 ![tutorial-instance.png](/assets/cloud/tutorial-instance.png)
 
-### Start/Stop/Shutdown an instance
+## Start/Stop/Shutdown an instance
 
 * You can only access and run most actions while an instance is running
 
-### Accessing your instance (via the `root` user)
+## Accessing your instance (via the `root` user)
 
 * You will to hit **Reset Root** to get a root password for the instance!
 * Hit **Confirm** to have the root password reset for this instance sent to your student email
 ![tutorial-root.png](/assets/cloud/tutorial-root.png)
 
-#### Access via the web terminal
+### Access via the web terminal
 
 * Hit **Terminal** and follow the instructions
 * Enter username `root`, and the password in the root user email you received when prompted
 	* The terminal will appear like below:
 	* ![tutorial-webterm.png](/assets/cloud/tutorial-webterm.png) 
 
-#### Access via SSH
+### Access via SSH
 
 * Add a port mapping using **+ Port** and map an external port to **Port 22**
 	* ![tutorial-portmap22.png](/assets/cloud/tutorial-portmap22.png)
@@ -117,7 +117,7 @@ editor: markdown
   	* You may want to change the root password once logged in via the `passwd` command
     
 
-### Accessing the file system
+## Accessing the file system
 
 * Hit **Filesystem** and follow the instructions
 
