@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T00:56:28.869Z
+date: 2021-01-16T01:17:29.628Z
 tags: 
 editor: markdown
 ---
@@ -12,6 +12,7 @@ editor: markdown
 
 ![tutorial-logo.png](/assets/cloud/tutorial-logo.png)
 * Netsoc Cloud is your access to UCC Netsoc's hosting services
+* Provision containers and VPSes
 
 * You can do things like
  	* Run WordPress or Ghost CMS blogs and websites
@@ -46,7 +47,7 @@ editor: markdown
   * If your activation code has expired, you can hit **Resend**, to resend the activation link
   
 
-## Logging in to the Panel
+# Logging in to the Panel
 
 * Visit the Netsoc Cloud management panel by going to [netsoc.cloud](https://netsoc.cloud)
 	* ![tutorial-home-better.png](/assets/cloud/tutorial-home-better.png)
@@ -54,7 +55,34 @@ editor: markdown
 	* ![tutorial5.png](/assets/cloud/tutorial5.png)
   * Enter your username & password and hit **Log In**
   
-## FAQs
+# Choose what you want to host
+
+* You can follow any one of the tutorials below to set up any service you want:
+	* Set up a blog/website:
+  	* GhostCMS
+    * WordPress
+  * Set up a simple development environment
+
+# Instances
+
+* An instance is a running installation of a Linux server
+	* 
+* We offer instance images to save you the time of setting everything up
+
+
+# Choosing what to host
+
+* Select one of the guides below to set up what you need, as you need:
+  * A static website
+    * Nginx
+  * A CMS based blog/website:
+    * GhostCMS
+  * A game server:
+    * Minecraft
+    * CS:GO
+  * A Linux development box (i.e to use Docker and other programming languages)
+
+# FAQs
 
 ### I haven't received my activation link
 
