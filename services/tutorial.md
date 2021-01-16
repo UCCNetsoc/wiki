@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T01:51:54.444Z
+date: 2021-01-16T01:52:11.783Z
 tags: 
 editor: markdown
 ---
@@ -117,7 +117,7 @@ editor: markdown
   	* You may want to change the root password once logged in via the `passwd` command
     
 
-## Accessing the file system
+### Accessing the file system
 
 * Hit **Filesystem** and follow the instructions
 
