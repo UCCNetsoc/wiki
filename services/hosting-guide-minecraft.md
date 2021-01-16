@@ -2,7 +2,7 @@
 title: Hosting Guide - Minecraft
 description: 
 published: true
-date: 2021-01-16T03:19:52.858Z
+date: 2021-01-16T03:20:35.193Z
 tags: 
 editor: markdown
 ---
@@ -37,8 +37,7 @@ editor: markdown
 * We plan on binding Minecraft to port `25565` on our instance
 * But we need it to be publicly available so we can join, therefore we need to do a port forward
 * Hit **+ Port** and add a port map, which will map a free external port to your internal `25565`
-
-![tutorial-minecraft3.png](/assets/cloud/tutorial-minecraft3.png)
+	* ![tutorial-minecraft3.png](/assets/cloud/tutorial-minecraft3.png)
 
 * You will need to remember the external port listed here later
 
