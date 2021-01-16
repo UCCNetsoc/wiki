@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T02:25:41.759Z
+date: 2021-01-16T02:33:58.949Z
 tags: 
 editor: markdown
 ---
@@ -64,9 +64,9 @@ editor: markdown
     * CS:GO
   * A Linux development box (i.e to use Docker and other programming languages)
   
-# Requesting Instances
+# Setting up services: Instances
 
-* An instance is a running installation of a Linux server
+## **An instance is a running installation of a Linux server**
 * We offer instance images to save you the time of setting everything up
 
 * An instance can be a **Container** or a **Virtual Private Server**
