@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T01:52:11.783Z
+date: 2021-01-16T01:53:15.098Z
 tags: 
 editor: markdown
 ---
@@ -46,7 +46,7 @@ editor: markdown
   * If your activation code has expired, you can hit **Resend**, to resend the activation link
   
 
-# Logging in to the Panel
+# Logging into Netsoc Cloud
 
 * Visit the Netsoc Cloud management panel by going to [netsoc.cloud](https://netsoc.cloud)
 * Hit **Login** to open the login form
