@@ -2,11 +2,10 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T02:05:06.914Z
+date: 2021-01-16T02:10:11.601Z
 tags: 
 editor: markdown
 ---
-
 
 # Netsoc Cloud?
 
@@ -112,6 +111,7 @@ editor: markdown
   	* `ssh root@cantybox.ocanty.container.netsoc.cloud -p<external port>`
       * e.g. `ssh root@cantybox.ocanty.container.netsoc.cloud -p16537`
       * This will connect to your instance on the port you exposed earlier
+    * ![tutorial-ssh-windows.png](/assets/cloud/tutorial-ssh-windows.png)
   * Hit yes to any message about trusting keys
   * Enter the root password you received in the email
   	* You may want to change the root password once logged in via the `passwd` command
