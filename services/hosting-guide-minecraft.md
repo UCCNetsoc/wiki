@@ -2,7 +2,7 @@
 title: Hosting Guide - Minecraft
 description: 
 published: true
-date: 2021-01-16T03:03:20.919Z
+date: 2021-01-16T03:19:52.858Z
 tags: 
 editor: markdown
 ---
@@ -34,3 +34,51 @@ editor: markdown
 
 ## Set up a port map
 
+* We plan on binding Minecraft to port `25565` on our instance
+* But we need it to be publicly available so we can join, therefore we need to do a port forward
+* Hit **+ Port** and add a port map, which will map a free external port to your internal `25565`
+
+![tutorial-minecraft3.png](/assets/cloud/tutorial-minecraft3.png)
+
+* You will need to remember the external port listed here later
+
+## Run Minecraft (inside Docker)
+
+* Run the command:
+	* `docker run -d -p 25565:25565 -e ENABLE_AUTOPAUSE=TRUE -e EULA=TRUE --name mc itzg/minecraft-server:openj9-11`
+	* This will download a Docker image (think of it like an easy way to package software) 
+  * It will then run Minecraft and bind it to the port given
+  
+  
+### Accessing the console
+
+* Run `docker exec -i mc rcon-cli` and then type `help` to see commands
+* Press Ctrl-C to exit the console
+
+### Watch the server logs
+
+* Run `docker logs mc --follow`
+* Press Ctrl+C to stop following logs
+
+## Connecting to the server
+
+* You can connect to the server by using your instance hostname and externally mapped port
+	* ![tutorial-minecraft4.png](/assets/cloud/tutorial-minecraft4.png)
+
+* For the screenshot above, the server and port to join would be `minecraft.ocanty.container.netsoc.cloud:17226`
+	* ![tutorial-minecraft6.png](/assets/cloud/tutorial-minecraft6.png =300x)
+
+* If your server appears down, you may need to connect to it once for it to appear online
+	* ![tutorial-minecraft5.png](/assets/cloud/tutorial-minecraft5.png)
+
+## More info & advanced usage
+
+* https://github.com/itzg/docker-minecraft-server/blob/master/README.md
+	* Substitute `latest` with `openj9-11` in commands given here, `openj9-11` will be more efficient than the default
+  * If using `docker run` with these images, you **MUST** have `-e ENABLE_AUTOPAUSE=TRUE`
+ 
+# FAQs
+
+## I can't access this while connected to eduroam
+
+* Eduroam blocks these port ranges, you will need to find a VPN to connect
