@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T02:15:13.122Z
+date: 2021-01-16T02:15:21.204Z
 tags: 
 editor: markdown
 ---
@@ -102,7 +102,7 @@ editor: markdown
 
 ## Accessing your instance (via the `root` user)
 
-* You will to hit **Reset Root** to get a root password for the instance!
+* You will need to hit **Reset Root** to get a root password for the instance!
 * Hit **Confirm** to have the root password reset for this instance sent to your student email
 ![tutorial-root.png](/assets/cloud/tutorial-root.png)
 
