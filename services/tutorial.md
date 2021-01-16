@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T02:23:57.534Z
+date: 2021-01-16T02:25:41.759Z
 tags: 
 editor: markdown
 ---
@@ -125,7 +125,7 @@ editor: markdown
 	* Open a command prompt:
   		*	On Windows: search for `cmd` in the Start Menu and open `Command Prompt`
     	* On Linux: open a terminal
-  * Enter the following command: for the port in the screenshot above
+  * Enter the following command using the external port you mapped (like the screenshot above)
   	* `ssh root@cantybox.ocanty.container.netsoc.cloud -p<external port>`
       * e.g. `ssh root@cantybox.ocanty.container.netsoc.cloud -p16537`
       * This will connect to your instance on the port you exposed earlier
