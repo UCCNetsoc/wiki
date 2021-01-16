@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T02:15:21.204Z
+date: 2021-01-16T02:19:38.598Z
 tags: 
 editor: markdown
 ---
@@ -100,21 +100,23 @@ editor: markdown
 
 * You can only access and run most actions while an instance is running
 
-## Accessing your instance (via the `root` user)
+## Resetting the the `root` user
 
 * You will need to hit **Reset Root** to get a root password for the instance!
 * Hit **Confirm** to have the root password reset for this instance sent to your student email
 ![tutorial-root.png](/assets/cloud/tutorial-root.png)
 
-### Access via the web terminal
+## Access your instance via the web terminal
 
+* **You will need to reset the root user before doing this, follow the instructions above!**
 * Hit **Terminal** and follow the instructions
 * Enter username `root`, and the password in the root user email you received when prompted
 	* The terminal will appear like below:
 	* ![tutorial-webterm.png](/assets/cloud/tutorial-webterm.png) 
 
-### Access via SSH (advanced)
+## Access your instance via SSH (advanced)
 
+* **You will need to reset the root user before doing this, follow the instructions above!**
 * Add a port mapping using **+ Port** and map an external port to **Port 22**
 * You will see the port map is now in effect
 	* ![tutorial-portmap-result.png](/assets/cloud/tutorial-portmap-result.png)
@@ -131,8 +133,9 @@ editor: markdown
   * Enter the root password you received in the email
   	* You may want to change the root password once logged in via the `passwd` command
 
-### Accessing the file system
+## Accessing your instance file system
 
+* **You will need to reset the root user before doing this, follow the instructions above!**
 * Hit **Filesystem** and follow the instructions
 
 ## Adding a port forward/mapping
