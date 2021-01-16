@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T02:19:38.598Z
+date: 2021-01-16T02:20:53.311Z
 tags: 
 editor: markdown
 ---
@@ -113,6 +113,7 @@ editor: markdown
 * Enter username `root`, and the password in the root user email you received when prompted
 	* The terminal will appear like below:
 	* ![tutorial-webterm.png](/assets/cloud/tutorial-webterm.png) 
+  * You may want to change the root password once logged in via the `passwd` command
 
 ## Access your instance via SSH (advanced)
 
