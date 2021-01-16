@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T01:53:33.704Z
+date: 2021-01-16T02:05:06.914Z
 tags: 
 editor: markdown
 ---
@@ -99,27 +99,46 @@ editor: markdown
 	* The terminal will appear like below:
 	* ![tutorial-webterm.png](/assets/cloud/tutorial-webterm.png) 
 
-### Access via SSH
+### Access via SSH (advanced)
 
 * Add a port mapping using **+ Port** and map an external port to **Port 22**
-	* ![tutorial-portmap22.png](/assets/cloud/tutorial-portmap22.png)
-  
 * You will see the port map is now in effect
 	* ![tutorial-portmap-result.png](/assets/cloud/tutorial-portmap-result.png)
 * Use a terminal `ssh` command:
 	* Open a command prompt:
-  	* On Windows: search for `cmd` in the Start Menu and open `Command Prompt`
-    * On Linux: open a terminal
-  * Enter the following command:
-  	* `ssh root@cantybox.ocanty.container.netsoc.cloud -p16537`
+  		*	On Windows: search for `cmd` in the Start Menu and open `Command Prompt`
+    	* On Linux: open a terminal
+  * Enter the following command: for the port in the screenshot above
+  	* `ssh root@cantybox.ocanty.container.netsoc.cloud -p<external port>`
+      * e.g. `ssh root@cantybox.ocanty.container.netsoc.cloud -p16537`
+      * This will connect to your instance on the port you exposed earlier
   * Hit yes to any message about trusting keys
   * Enter the root password you received in the email
   	* You may want to change the root password once logged in via the `passwd` command
-    
 
 ### Accessing the file system
 
 * Hit **Filesystem** and follow the instructions
+
+## Adding a port forward/mapping
+
+* Select **+ Port** and follow the instructions
+ 	* ![tutorial-portmap22.png](/assets/cloud/tutorial-portmap22.png)
+  
+## Adding a domain
+
+* You can forward any web (HTTP/HTTPS) traffic from the web into your instance
+
+* Select **+ VHost** and follow the instructions
+ 	* ![tutorial-vhost.png](/assets/cloud/tutorial-vhost.png)
+* You should input the domain you want in accordance to the instructions
+* The internal port should be the port that the web server running on the instance is listening on.
+	* i.e typically 80, 8080
+
+## Upgrading your instance
+
+* Hit the **Upgrade** button and let us know what new specs you require
+	* Upgrade approval subject to the extent of your request and the resources available to us and other users
 
 ## Instance Expiry
 
