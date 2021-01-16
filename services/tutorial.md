@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T02:10:11.601Z
+date: 2021-01-16T02:14:02.266Z
 tags: 
 editor: markdown
 ---
@@ -76,6 +76,17 @@ editor: markdown
 
 * Enter the Instances panel
 * Select the **Request** button in the **Containers** list
+	* ![tutorial-instance-request.png](/assets/cloud/tutorial-instance-request.png)
+
+* Select an instance you would like
+	* Enter a hostname for the instance
+  	* Must be alphanumeric with no spaces
+  * Enter why you would like the instance
+    * Take note of some of the stricter requirements:
+    	* ![tutorial-tos.png](/assets/cloud/tutorial-tos.png)
+    * Consult the Terms of Service for more information
+
+
 
 # Managing Instances
 
