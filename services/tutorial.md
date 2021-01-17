@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-17T20:06:04.907Z
+date: 2021-01-17T20:09:50.881Z
 tags: 
 editor: markdown
 ---
@@ -55,14 +55,15 @@ editor: markdown
 # Hosting Guides
 
 * Select one of the guides below to set up what you need, as you need:
-  * A static website
-    * Nginx
   * A CMS based blog/website:
   	* [WordPress](/services/hosting-guide-wordpress)
     * GhostCMS
   * A game server:
     * [Minecraft](/services/hosting-guide-minecraft)
+  * A static website
+    * [Nginx](/services/hosting-guide-nginx)
   * A Linux development box (i.e to use Docker and other programming languages)
+    * [Development Box](/services/hosting-guide-development-box)
   
 # Setting up services: Instances
 
