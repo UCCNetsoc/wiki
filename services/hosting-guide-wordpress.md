@@ -2,7 +2,7 @@
 title: Hosting Guide - WordPress
 description: 
 published: true
-date: 2021-01-17T20:40:16.798Z
+date: 2021-01-17T20:42:54.732Z
 tags: 
 editor: markdown
 ---
@@ -74,6 +74,6 @@ editor: markdown
 * Reset the root password via the **Reset Root** button in the instances list
 * Hit **Terminal** and enter the username `root` and the password you received via email
 * Once the terminal has opened, use WP-CLI by entering the following command to set the password of your WordPress user
-	* `wp user update ocanty --user_pass=MySuperSecretPassword`
+	* `wp user update ocanty --user_pass=MySuperSecretPassword --allow-root --path=/var/www/html`
   * https://developer.wordpress.org/cli/commands/user/update/
   
