@@ -2,7 +2,7 @@
 title: Hosting Guide - WordPress
 description: 
 published: true
-date: 2021-01-17T20:44:34.483Z
+date: 2021-01-17T20:45:03.096Z
 tags: 
 editor: markdown
 ---
@@ -32,6 +32,7 @@ editor: markdown
 	* Set your site title
   * Set a username and strong password
   	* **Keep this password safe, resetting it is difficult**
+  * Hit Install WordPress
     
 # Use your free Netsoc Cloud domain
 
