@@ -2,7 +2,7 @@
 title: Hosting Guide - WordPress
 description: 
 published: true
-date: 2021-01-17T20:43:14.671Z
+date: 2021-01-17T20:44:34.483Z
 tags: 
 editor: markdown
 ---
@@ -66,6 +66,11 @@ editor: markdown
 * Hit **Confirm**
 
 * Visit the domain to ensure everything is working correctly
+
+# Accessing the admin page
+
+* Visit `<domain>/wp-admin`
+	* i.e `myblog.ocanty.container.netsoc.cloud/wp-admin/`
 
 # FAQs
 
