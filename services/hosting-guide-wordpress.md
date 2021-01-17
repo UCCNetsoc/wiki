@@ -2,7 +2,7 @@
 title: Hosting Guide - WordPress
 description: 
 published: true
-date: 2021-01-17T20:03:24.285Z
+date: 2021-01-17T20:05:27.897Z
 tags: 
 editor: markdown
 ---
@@ -25,7 +25,7 @@ editor: markdown
 * Start your instance
 * Click the link on the default VHost
 	* i.e if you named your instance `beans` it would be: `beans.<username>.container.netsoc.cloud`
-* You will be brought to a page to configured WordPress
+* You will be brought to a page to configure WordPress
 	* Set your site title
   * Set a username and strong password
   	* **Keep this password safe, resetting it is difficult**
