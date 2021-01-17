@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-16T05:10:00.867Z
+date: 2021-01-17T20:06:04.907Z
 tags: 
 editor: markdown
 ---
@@ -58,10 +58,10 @@ editor: markdown
   * A static website
     * Nginx
   * A CMS based blog/website:
+  	* [WordPress](/services/hosting-guide-wordpress)
     * GhostCMS
   * A game server:
     * [Minecraft](/services/hosting-guide-minecraft)
-    * CS:GO
   * A Linux development box (i.e to use Docker and other programming languages)
   
 # Setting up services: Instances
