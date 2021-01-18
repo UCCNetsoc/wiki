@@ -2,7 +2,7 @@
 title: Migration
 description: 
 published: true
-date: 2021-01-18T04:47:03.787Z
+date: 2021-01-18T04:47:48.113Z
 tags: 
 editor: markdown
 ---
@@ -33,5 +33,5 @@ editor: markdown
 * If you want to setup and use a MySQL database like was offered previously by Netsoc Admin:
 	* Follow the [MySQL Hosting Guide](/services/hosting-guide-mysql)
   
-* If you want to setup and use a Linux server for development like was offered previously by Netsoc Admin:
-	* Follow the [Development Environment Hosting Guide](/services/hosting-guide-dev-env)
+* If you want to use a Linux server for development/other purpoes like was offered previously by Netsoc Admin:
+	* Follow the [Development Environment Hosting Guide](/services/hosting-guide-dev-env) or any other hosting guide
