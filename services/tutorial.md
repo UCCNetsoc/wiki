@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-17T20:09:50.881Z
+date: 2021-01-18T04:50:05.126Z
 tags: 
 editor: markdown
 ---
@@ -95,7 +95,7 @@ editor: markdown
 
 # Managing Instances
 
-![tutorial-instance.png](/assets/cloud/tutorial-instance.png)
+![tutorial-instance-list.png](/assets/cloud/tutorial-instance-list.png)
 
 ## Start/Stop/Shutdown an instance
 
