@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-18T04:50:05.126Z
+date: 2021-01-18T04:52:27.738Z
 tags: 
 editor: markdown
 ---
@@ -164,8 +164,8 @@ editor: markdown
 
 * You need to renew your instance so it does not expire
 
-* The expiry date and renewal button can be seen as below:
-	* ![tutorial-activation.png](/assets/cloud/tutorial-activation.png)
+* The expiry date and reactivation button can be seen as below:
+	* ![tutorial-activation-new.png](/assets/cloud/tutorial-activation-new.png)
 
 * If your instance expires it can be forcefully **shutdown** or **deleted!**
 	* Make sure to keep personal backups of your data
