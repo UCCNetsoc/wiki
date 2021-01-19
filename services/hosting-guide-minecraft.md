@@ -2,7 +2,7 @@
 title: Hosting Guide - Minecraft
 description: 
 published: true
-date: 2021-01-16T03:20:35.193Z
+date: 2021-01-19T09:40:12.142Z
 tags: 
 editor: markdown
 ---
@@ -21,8 +21,6 @@ editor: markdown
 * Wait for the request to be accepted/denied
 
 # Accessing Instance
-	
-![tutorial-minecraft2.png](/assets/cloud/tutorial-minecraft2.png)
 
 * Start your instance
 * Reset the instance root user password via **Reset Root**
