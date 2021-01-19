@@ -2,7 +2,7 @@
 title: Hosting Guide - WordPress
 description: 
 published: true
-date: 2021-01-19T03:47:33.267Z
+date: 2021-01-19T03:48:19.069Z
 tags: 
 editor: markdown
 ---
@@ -37,11 +37,9 @@ editor: markdown
 
 * Visit the instances list
 * Add a vhost via **+ VHost**
-* For the host section, enter in:
+* For the host section, enter in a subdomain you wish to use:
 	* You can use your username domain like: `<username>.netsoc.cloud`
   	* i.e `ocanty.netsoc.cloud`
-  * You can use a domain above your username domain like:
-  	* i.e `blog.ocanty.netsoc.cloud`
     
 * Use Port 80 with internal HTTPS turned off
 * Hit **Confirm**
