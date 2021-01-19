@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-18T04:52:27.738Z
+date: 2021-01-19T03:46:53.965Z
 tags: 
 editor: markdown
 ---
@@ -150,7 +150,7 @@ editor: markdown
 * You can forward any web (HTTP/HTTPS) traffic from the web into your instance
 
 * Select **+ VHost** and follow the instructions
- 	* ![tutorial-vhost.png](/assets/cloud/tutorial-vhost.png)
+ 	* ![tutorial-vhost-new.png](/assets/cloud/tutorial-vhost-new.png)
 * You should input the domain you want in accordance to the instructions
 * The internal port should be the port that the web server running on the instance is listening on.
 	* i.e typically 80, 8080
