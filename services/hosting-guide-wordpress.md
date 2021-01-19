@@ -2,7 +2,7 @@
 title: Hosting Guide - WordPress
 description: 
 published: true
-date: 2021-01-17T20:45:39.041Z
+date: 2021-01-19T03:47:33.267Z
 tags: 
 editor: markdown
 ---
@@ -25,7 +25,6 @@ editor: markdown
 * Start your instance
 * Click the link on the default VHost
   * ![tutorial-wordpress1.png](/assets/cloud/tutorial-wordpress1.png)
-	* i.e if you named your instance `beans` it would be: `beans.<username>.container.netsoc.cloud`
 
 * You will be brought to a page to configure WordPress
 	* ![tutorial-wordpress2.png](/assets/cloud/tutorial-wordpress2.png)
