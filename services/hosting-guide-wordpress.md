@@ -2,7 +2,7 @@
 title: Hosting Guide - WordPress
 description: 
 published: true
-date: 2021-01-19T07:13:43.214Z
+date: 2021-01-19T07:13:58.278Z
 tags: 
 editor: markdown
 ---
@@ -50,7 +50,7 @@ editor: markdown
 
 * Visit the instances list
 * Add a vhost via **+ VHost**
-* Follow the instructions on what records you need to set
+* Follow the instructions on what DNS records you need to set
 
 * On your domain registrar (i.e where you bought your domain from) you will need to set records
 	* You can find instructions on how to do this by typically googling "how to set dns records" + the name of your registrar
