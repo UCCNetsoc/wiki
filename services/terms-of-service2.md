@@ -2,9 +2,9 @@
 title: Terms of Service
 description: 
 published: true
-date: 2020-11-02T12:49:05.082Z
+date: 2021-01-19T02:46:03.106Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 ## Acceptable Usage Policy
@@ -52,12 +52,6 @@ purposes of backups and problem solving or where UCC Netsoc
 has other legitimate reasons for doing so. You
 must therefore be aware that such monitoring is taking place.
 
-## Account Lifespan
-
-Your user accounts are guaranteed to exist for the duration of
-your studies in UCC but in the event that space becomes an
-issue in the future, accounts may be terminated (with prior
-notice through email or facebook and twitter).
 
 ## Queries
 
