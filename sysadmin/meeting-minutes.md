@@ -2,12 +2,44 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2020-12-10T18:18:47.328Z
+date: 2021-01-24T20:48:52.278Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # 2020/2021
+
+## Meeting 12 (2021-01-24)
+
+* HLM nomination form
+	* basic gist:
+  	 * name of the person who's nominating the person
+     * name of the person being nominated 
+     * reason
+     * email it to netsoc - uccsocieties.ie
+  * Arthan
+  * March
+  
+* CIX visit:
+	* Leela is now a proxmox host
+  * Still need to sort out storage + firewall
+* Next CIX visit:
+	* 64gb of ram to go into leela, can invetigate the backplane issues
+  * Date: covid dependant (aka never)
+
+* James:
+	* GhostCMS template
+  * Prometheus exporter for container
+
+* Eric:
+	* Dev-env, proxmox simulation
+  * MySQL dead
+
+* Alan & Thomas
+	* Add to CI
+  * Set up DNS 
+  * Set it up in provision-infra-web.yml
+
 
 ## Meeting 11 (2020-12-10)
 
