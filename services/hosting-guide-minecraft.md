@@ -2,7 +2,7 @@
 title: Hosting Guide - Minecraft
 description: 
 published: true
-date: 2021-01-19T09:40:12.142Z
+date: 2021-01-25T04:07:44.104Z
 tags: 
 editor: markdown
 ---
@@ -19,6 +19,8 @@ editor: markdown
   * Explain what you are using this instance for: a Minecraft server
   
 * Wait for the request to be accepted/denied
+
+* Request an upgrade to your specs via the **Upgrade** button
 
 # Accessing Instance
 
