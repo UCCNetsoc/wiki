@@ -2,7 +2,7 @@
 title: Hosting Guide - Static Content (with Nginx)
 description: 
 published: true
-date: 2021-01-27T21:57:28.877Z
+date: 2021-01-27T21:59:37.868Z
 tags: 
 editor: markdown
 ---
@@ -14,7 +14,7 @@ editor: markdown
 
 # Instance Request
 
-* Create a **Container** instance request for the **Linux Tools** image
+* Create a **Container** instance request for the **Ubuntu 20.04** image
 	* Choose the hostname as you wish (e.g. `website`, `mysite`)
   * Explain what you are using this instance for: for hosting your static content/website
   
