@@ -2,7 +2,7 @@
 title: Hosting Guide - Static Content (with Nginx)
 description: 
 published: true
-date: 2021-01-27T22:07:22.472Z
+date: 2021-01-27T22:29:28.966Z
 tags: 
 editor: markdown
 ---
@@ -84,7 +84,9 @@ editor: markdown
   * This will cause every single file in `/var/www/html` to be owned by the nginx webserver
   	* It can now read them and serve them
 
-* Any HTML/static content files you place in `/var/www/html` will now be served when you visit the domains you configured above
+* Any HTML/static content files you place in `/var/www/html` will now be served when you visit the domains you configured above.
+	* i.e if you place index.html with html content into `/var/www/html`, it will be available when you visit the domain
+  * if you place image.png it will be available at `domain/image.png`, i.e `ocanty.netsoc.cloud/image.png`
   
 # More Info
 
