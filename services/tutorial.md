@@ -2,7 +2,7 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-27T22:00:03.588Z
+date: 2021-01-27T22:00:42.633Z
 tags: 
 editor: markdown
 ---
@@ -61,7 +61,7 @@ editor: markdown
   * A game server:
     * [Minecraft](/services/hosting-guide-minecraft)
   * A static website
-    * [Nginx](/services/hosting-guide-static-content-nginx)
+    * [Nginx](/services/hosting-guide-nginx-static-content)
   * A Linux development box (i.e to use Docker and other programming languages)
     * [Development Box](/services/hosting-guide-development-box)
   
