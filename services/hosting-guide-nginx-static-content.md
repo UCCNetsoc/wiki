@@ -2,7 +2,7 @@
 title: Hosting Guide - Static Content (with Nginx)
 description: 
 published: true
-date: 2021-01-27T21:59:37.868Z
+date: 2021-01-27T22:07:22.472Z
 tags: 
 editor: markdown
 ---
@@ -77,9 +77,14 @@ editor: markdown
 * Visit the instances list
 * Click **Filesystem** on your instance and follow the instructions to open up a file browser
 * You can now upload files as you wish
+* You will need to mark any files you upload as accessible to the web server, the best way of doing this is:
+	* Visit the **Terminal**
+  * Run the following command:
+  	* `chown www-data:www-data -R /var/www/html`
+  * This will cause every single file in `/var/www/html` to be owned by the nginx webserver
+  	* It can now read them and serve them
+
 * Any HTML/static content files you place in `/var/www/html` will now be served when you visit the domains you configured above
-
-
   
 # More Info
 
