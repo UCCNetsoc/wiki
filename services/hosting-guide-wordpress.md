@@ -2,7 +2,7 @@
 title: Hosting Guide - WordPress
 description: 
 published: true
-date: 2021-01-19T07:13:58.278Z
+date: 2021-01-27T21:54:17.789Z
 tags: 
 editor: markdown
 ---
@@ -45,8 +45,9 @@ editor: markdown
 * Hit **Confirm**
 
 * Visit the domain to ensure everything is working correctly
+	* It may take a few minutes for it to become active
 
-# Using a custom domain
+# Using a custom domain (optional)
 
 * Visit the instances list
 * Add a vhost via **+ VHost**
@@ -64,6 +65,7 @@ editor: markdown
 * Hit **Confirm**
 
 * Visit the domain to ensure everything is working correctly
+	* It may take a few minutes for it to become active
 
 # Accessing the admin page
 
