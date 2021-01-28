@@ -2,7 +2,7 @@
 title: Terms of Service
 description: 
 published: true
-date: 2021-01-28T00:54:24.021Z
+date: 2021-01-28T00:58:10.760Z
 tags: 
 editor: markdown
 ---
@@ -20,25 +20,32 @@ We reserve the following rights:
 	* With notification to the account user
 	* By continuing the use of our services, you agree to accept and be bound by the updated ToS.
 
-## Backups
+## Backups, Reliability & Uptime
+
+* **UCC Netsoc will not provide any guarantees of instance uptime, user data integrity or system reliablity**
+
+* **UCC Netsoc will hold no responsibility for user data loss**
 
 * UCC Netsoc does not typically take backups of instance data.
 	* Users should be aware that keeping off-site backups of their data on a personal storage device or alternative backup solution is recommended
 
 * Where backups are available, we cannot guarantee the speed of restoration, reliability or data integrity of said backups
 
-* **UCC Netsoc will hold no responsibility for data loss**
-
 ## Acceptable Usage Policy (AUP)
 By making use of our services, you agree to the Acceptable Usage Policy, violations of the AUP can result in your account and/or instance being rebooted, shutdown, suspended or terminated
+
 
 ### Resource Usage
 
 * Your resources are shared with other users of the service
-	* If we feel that your resource usage is impacting the performance of our other users instances or our hardware, we may ask you to reduce your resource usage
+	* If we feel that your resource usage is impacting the performance of our other users instances or the availility of our services, we may ask you to reduce your resource usage
   
 * We may change the resources allocated to your instance at **any** time for **any** reason
 * We may shutdown/reboot your instance at **any** time for **any length of time** for **any reason**
+
+### Commercial use
+
+* Commercial use of UCC Netsoc services is **strictly forbidden**
 
 ### Examples of permitted uses
 
