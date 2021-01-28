@@ -2,7 +2,7 @@
 title: Terms of Service
 description: 
 published: true
-date: 2021-01-28T00:46:03.988Z
+date: 2021-01-28T00:46:25.634Z
 tags: 
 editor: markdown
 ---
@@ -11,8 +11,8 @@ By using UCC Netsoc ("Netsoc", "UCC Netsoc", "we", "our") services, you ("you", 
 
 **Failure to comply with the Terms of Service will result in immediate termination of your account and any associated instances**
 
-
-We reserve the right to cancel, suspend or teminate any account or instance provided:
+We reserve the following rights:
+* The right to cancel, suspend or teminate any account or instance provided:
 	* Without compensation
 	* Without warning, notice or reason
   
