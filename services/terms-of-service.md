@@ -2,7 +2,7 @@
 title: Terms of Service
 description: 
 published: true
-date: 2021-01-28T00:59:57.785Z
+date: 2021-01-28T01:01:20.031Z
 tags: 
 editor: markdown
 ---
@@ -43,10 +43,6 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
 * We may change the resources allocated to your instance at **any** time for **any** reason
 * We may shutdown/reboot your instance at **any** time for **any length of time** for **any reason**
 
-### Commercial use
-
-* Commercial use of UCC Netsoc services is **strictly forbidden**
-
 ### Examples of permitted uses
 
 * Web hosting
@@ -55,6 +51,7 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
 
 ### Examples of non-permitted uses
 
+* **Commercial use of UCC Netsoc services is strictly forbidden**
 * **Email**
 * **DNS**
 * **VPN, e.g. proxy servers**
@@ -79,15 +76,12 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
 * Stress-test software (Folding@Home, Prime95) 
 * Booter/Stresser websites
 * Any artificial traffic creation i.e viewbotting
-
-#### Illegal/hateful use
-
-* No pornography of any kind
-* No gore or violence-related imagery, videos or documents
-* No hate speech
-* No personal attacks
-* No copyrighted material
-* Nothing that violates the laws of Ireland
+* Illegal/hateful use
+  * No gore or violence-related imagery, videos or documents
+  * No hate speech
+  * No personal attacks
+  * No copyrighted material
+  * Nothing that violates the laws of Ireland
 * Nothing that violates the UCC IT Acceptable Usage Policy (http://www.ucc.ie/aup)
 
 #### You must:
