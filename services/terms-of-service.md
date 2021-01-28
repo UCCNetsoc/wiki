@@ -2,9 +2,9 @@
 title: Terms of Service
 description: 
 published: true
-date: 2021-01-28T01:01:21.753Z
+date: 2021-01-28T01:04:11.272Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 By using UCC Netsoc ("Netsoc", "UCC Netsoc", "we", "our") services, you ("you", "your", "user") agree to comply with our policies as set forth in this Terms of Service ("ToS", "Terms"). Creating an account constitutes your acceptance and agreement to the Terms of Service.
@@ -114,12 +114,12 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
 
 ## Monitoring
 
-Network traffic and instances are monitored in circumstances where:
+Instances and their respective network traffic are monitored when:
 * There is reason to suspect that the ToS is being breached
-* The purposes of problem solving
+* The purposes of problem solving and ensuring system stability
 * Where UCC Netsoc has other legitimate reasons for doing so.
 
-You must therefore be aware that such monitoring is taking place.
+**You must therefore be aware that such monitoring is taking place.**
 
 ## Support
 
@@ -143,6 +143,6 @@ You are responsible for the day to day management of your instances. Users shoul
 
 ## Queries
 
-Further queries can be directed to:
-* netsoc@uccsocieties.ie
-* https://discord.netsoc.co
+Further queries can be directed via:
+* The `#servers` channel in the UCC Netsoc Discord server (https://discord.netsoc.co)
+* Email sent to and from netsoc@uccsocieties.ie
