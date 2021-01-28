@@ -2,9 +2,9 @@
 title: Terms of Service
 description: 
 published: true
-date: 2021-01-28T00:46:27.401Z
+date: 2021-01-28T00:54:24.021Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 By using UCC Netsoc ("Netsoc", "UCC Netsoc", "we", "our") services, you ("you", "your", "user") agree to comply with our policies as set forth in this Terms of Service ("ToS", "Terms"). Creating an account constitutes your acceptance and agreement to the Terms of Service.
@@ -20,10 +20,19 @@ We reserve the following rights:
 	* With notification to the account user
 	* By continuing the use of our services, you agree to accept and be bound by the updated ToS.
 
-# Acceptable Usage Policy (AUP)
+## Backups
+
+* UCC Netsoc does not typically take backups of instance data.
+	* Users should be aware that keeping off-site backups of their data on a personal storage device or alternative backup solution is recommended
+
+* Where backups are available, we cannot guarantee the speed of restoration, reliability or data integrity of said backups
+
+* **UCC Netsoc will hold no responsibility for data loss**
+
+## Acceptable Usage Policy (AUP)
 By making use of our services, you agree to the Acceptable Usage Policy, violations of the AUP can result in your account and/or instance being rebooted, shutdown, suspended or terminated
 
-## Resource Usage
+### Resource Usage
 
 * Your resources are shared with other users of the service
 	* If we feel that your resource usage is impacting the performance of our other users instances or our hardware, we may ask you to reduce your resource usage
@@ -31,13 +40,13 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
 * We may change the resources allocated to your instance at **any** time for **any** reason
 * We may shutdown/reboot your instance at **any** time for **any length of time** for **any reason**
 
-## Examples of permitted uses
+### Examples of permitted uses
 
 * Web hosting
 * Software development
 * Gameservers
 
-## Examples of non-permitted uses
+### Examples of non-permitted uses
 
 * **Email**
 * **DNS**
@@ -64,7 +73,7 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
 * Booter/Stresser websites
 * Any artificial traffic creation i.e viewbotting
 
-### Illegal/hateful use
+#### Illegal/hateful use
 
 * No pornography of any kind
 * No gore or violence-related imagery, videos or documents
@@ -74,7 +83,7 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
 * Nothing that violates the laws of Ireland
 * Nothing that violates the UCC IT Acceptable Usage Policy (http://www.ucc.ie/aup)
 
-### You must:
+#### You must:
 * not use our services or resources to knowingly access
     or distribute illegal or inappropriate material,
     including material that is in any way pornographic,
@@ -102,7 +111,16 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
     ensure that you do not inadvertently introduce such programs
     or devices into the systems or network
 
-# Support
+## Monitoring
+
+Network traffic and instances are monitored in circumstances where:
+* There is reason to suspect that the ToS is being breached
+* The purposes of problem solving
+* Where UCC Netsoc has other legitimate reasons for doing so.
+
+You must therefore be aware that such monitoring is taking place.
+
+## Support
 
 Requests for support can only be sent and handled via:
 * The `#servers` channel in the UCC Netsoc Discord server (https://discord.netsoc.co)
@@ -121,26 +139,6 @@ We can **only** provide support for the following scope of issues:
 We cannot guarantee a response or resolution for any request sent to support
 
 You are responsible for the day to day management of your instances. Users should be familiar with Linux systems administration to manage their instances. Users are responsible for keeping software on their instance patched and up to date as required.
-
-# Backups
-
-* UCC Netsoc does not typically take backups of instance data.
-	* Users should be aware that keeping off-site backups of their data on a personal storage device or alternative backup solution is recommended
-
-* Where backups are available, we cannot guarantee the speed of restoration, reliability or data integrity of said backups
-
-* UCC Netsoc will hold no responsibility for user data loss
-
-
-# Monitoring
-
-Network traffic and instances are monitored in circumstances where:
-* There is reason to suspect that the ToS is being breached
-* The purposes of problem solving
-* Where UCC Netsoc has other legitimate reasons for doing so.
-
-You must therefore be aware that such monitoring is taking place.
-
 
 ## Queries
 
