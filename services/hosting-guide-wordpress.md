@@ -2,9 +2,9 @@
 title: Hosting Guide - WordPress
 description: 
 published: true
-date: 2021-01-27T21:54:17.789Z
+date: 2021-01-27T21:54:19.428Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 

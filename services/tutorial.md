@@ -2,9 +2,9 @@
 title: Tutorial
 description: A guide on how to get started using the UCC Netsoc services
 published: true
-date: 2021-01-27T22:00:42.633Z
+date: 2021-01-27T22:00:44.470Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Netsoc Cloud?

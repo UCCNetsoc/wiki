@@ -2,9 +2,9 @@
 title: Terms of Service
 description: 
 published: true
-date: 2021-01-28T00:46:25.634Z
+date: 2021-01-28T00:46:27.401Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 By using UCC Netsoc ("Netsoc", "UCC Netsoc", "we", "our") services, you ("you", "your", "user") agree to comply with our policies as set forth in this Terms of Service ("ToS", "Terms"). Creating an account constitutes your acceptance and agreement to the Terms of Service.
