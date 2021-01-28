@@ -2,12 +2,69 @@
 title: Terms of Service
 description: 
 published: true
-date: 2021-01-19T02:46:03.106Z
+date: 2021-01-28T00:37:10.921Z
 tags: 
 editor: markdown
 ---
 
-## Acceptable Usage Policy
+By using UCC Netsoc ("Netsoc", "UCC Netsoc", "we", "our") services, you ("you", "your", "user") agree to comply with our policies as set forth in this Terms of Service ("ToS", "Terms"). Creating an account constitutes your acceptance and agreement to the Terms of Service.
+
+**Failure to comply with the Terms of Service will result in immediate termination of your account**
+
+We reserve the following rights:
+* The right to cancel, suspend or teminate any account or instance provided:
+	* Without compensation
+	* Without warning, notice or reason
+  
+* The right to modify the Terms of Service:
+	* With or without notification to the account user
+	* By continuing the use of our services, you agree to accept and be bound by the updated ToS.
+
+## Acceptable Usage Policy (AUP)
+By making use of our services, you agree to the Acceptable Usage Policy, violations of the AUP can result in your account and/or instance being rebooted, shutdown, suspended or terminated
+
+### Resource Usage
+
+* Your resources are shared with other users of the service
+	* If we feel that your resource usage is impacting the performance of our other users instances or our hardware, we may ask you to reduce your resource usage
+  
+* We may change the resources allocated to your instance at **any** time for **any** reason
+
+### Examples of permitted uses
+
+* Web hosting
+* Software development
+* IRC
+* Gameservers
+
+### Examples of non-permitted uses
+
+* **Email**
+* **DNS**
+* **VPN, e.g. proxy servers**
+* Adult material/Pornography
+* **(Excessive) video streaming**
+* **Torrenting**
+* Usenet
+* Denial of Service (D/DoS) attacks
+* Port scanning
+* Botnets
+* TOR exit nodes
+* Open proxies
+* Open DNS resolvers
+* Illegal downloads/Piracy
+* Cryptocurrency mining
+* Crypto-* intensive software (hashcat)
+* (Excessive) web crawlers
+* IP spoofing
+* Fake/Replica product websites
+* Phishing
+* Stress-test software (Folding@Home, Prime95, 
+* Booter/Stresser websites
+* Any artificial traffic creation i.e viewbotting
+
+#### Illegal/hateful use
+
 * No pornography of any kind
 * No gore or violence-related imagery, videos or documents
 * No hate speech
@@ -16,7 +73,7 @@ editor: markdown
 * Nothing that violates the laws of Ireland
 * Nothing that violates the UCC IT Acceptable Usage Policy (http://www.ucc.ie/aup)
 
-## You must:
+#### You must:
 * not use our services or resources to knowingly access
     or distribute illegal or inappropriate material,
     including material that is in any way pornographic,
@@ -39,18 +96,49 @@ editor: markdown
     locking out as appropriate
 
 * Not knowingly introduce any virus, malware or other
-    destructive program or device into the University’s systems
+    destructive program or device into the University’s/UCC Netsoc's systems
     or network and you should take all reasonable steps to
     ensure that you do not inadvertently introduce such programs
     or devices into the systems or network
 
+## Support
+
+Requests for support can only be sent and handled via:
+* The `#servers` channel in the UCC Netsoc Discord server (https://discord.netsoc.co)
+* Email sent to and from netsoc@uccsocieties.ie
+ 
+We can **only** provide support for the following scope of issues:
+* Networking issues
+	* e.g. slow connection speed, no connection at all
+* Control panel:
+	* e.g. control panel not performing correctly, bugs, messages asking user to contact us
+* Instance templates issues:
+	* e.g. a feature missing, feature request, bug or error in configuration of the template
+* Hardware:
+	* e.g. CPU speed issues, slow I/O
+
+We cannot guarantee a response or resolution for any request sent to support
+
+You are responsible for the day to day management of your instances. Users should be familiar with Linux systems administration to manage their instances. Users are responsible for keeping software on their instance patched and up to date as required.
+
+## Backups
+
+* UCC Netsoc does not typically take backups of instance data.
+	* Users should be aware that keeping off-site backups of their data on a personal storage device or alternative backup solution is recommended
+
+* Where backups are available, we cannot guarantee the speed of restoration, reliability or data integrity of said backups
+
+* UCC Netsoc will hold no responsibility for user data loss
+
+
 ## Monitoring
 
-Network traffic is monitored in circumstances where there is
-reason to suspect that this AUP is being breached, for the
-purposes of backups and problem solving or where UCC Netsoc
-has other legitimate reasons for doing so. You
-must therefore be aware that such monitoring is taking place.
+Network traffic and instances are monitored in circumstances where:
+* There is reason to suspect that the ToS is being breached
+* The purposes of problem solving
+* Where UCC Netsoc has other legitimate reasons for doing so.
+
+You must therefore be aware that such monitoring is taking place.
 
 
 ## Queries
