@@ -2,7 +2,7 @@
 title: Terms of Service
 description: 
 published: true
-date: 2021-01-28T01:07:39.448Z
+date: 2021-01-28T01:11:19.572Z
 tags: 
 editor: markdown
 ---
@@ -23,8 +23,7 @@ We reserve the following rights:
 ## Backups, Reliability & Uptime
 
 * **UCC Netsoc will not provide any guarantees of instance uptime, user data integrity or system reliablity**
-
-* **UCC Netsoc will hold no responsibility for user data loss**
+	* **UCC Netsoc will hold no responsibility for user data loss**
 
 * UCC Netsoc does not typically take backups of instance data.
 	* Users should be aware that keeping off-site backups of their data on a personal storage device or alternative backup solution is recommended
@@ -91,22 +90,22 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
     obscene, abusive, racist, libellous, defamatory or
     threatening.
 
-* Not engage in any form of bullying or other behaviour
+* not engage in any form of bullying or other behaviour
     which is illegal or likely to
     cause harassment to others.
 
-* Not use computer or network resources for the purpose
+* not use computer or network resources for the purpose
     of gaining unauthorised access to the account, systems
     or equipment of any third party - attempts at ‘hacking’
     may result in criminal prosecution in Ireland or elsewhere
 
-* Not share user IDs or usernames, transfer them to other
+* not share user IDs or usernames, transfer them to other
     users, divulge your passwords to other users, seek to
     impersonate other users or leave your computer unattended,
     even for a short period of time, without logging out or
     locking out as appropriate
 
-* Not knowingly introduce any virus, malware or other
+* not knowingly introduce any virus, malware or other
     destructive/monitoring program or device into the University’s/UCC Netsoc's systems
     or network and you should take all reasonable steps to
     ensure that you do not inadvertently introduce such programs
