@@ -2,7 +2,7 @@
 title: Terms of Service
 description: 
 published: true
-date: 2021-01-28T01:04:11.272Z
+date: 2021-01-28T01:07:39.448Z
 tags: 
 editor: markdown
 ---
@@ -114,10 +114,11 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
 
 ## Monitoring
 
-Instances and their respective network traffic are monitored when:
-* There is reason to suspect that the ToS is being breached
-* The purposes of problem solving and ensuring system stability
-* Where UCC Netsoc has other legitimate reasons for doing so.
+Instances and their respective network traffic are monitored to:
+* enforce the Terms of Service and Acceptable Use Policy
+* provide aid when problem solving/troubleshooting is required
+* ensure system stability
+* provide aid when UCC Netsoc has other legitimate reasons for use of monitoring data
 
 **You must therefore be aware that such monitoring is taking place.**
 
