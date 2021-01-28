@@ -2,7 +2,7 @@
 title: Terms of Service
 description: 
 published: true
-date: 2021-01-28T01:11:19.572Z
+date: 2021-01-28T08:42:03.986Z
 tags: 
 editor: markdown
 ---
@@ -46,7 +46,7 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
 
 * Web hosting
 * Software development
-* Gameservers
+* Game servers
 
 ### Examples of non-permitted uses
 
