@@ -2,7 +2,7 @@
 title: Terms of Service
 description: 
 published: true
-date: 2021-01-28T00:58:10.760Z
+date: 2021-01-28T00:59:57.785Z
 tags: 
 editor: markdown
 ---
@@ -38,7 +38,7 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
 ### Resource Usage
 
 * Your resources are shared with other users of the service
-	* If we feel that your resource usage is impacting the performance of our other users instances or the availility of our services, we may ask you to reduce your resource usage
+	* If we feel that your resource usage is impacting the performance of our other users instances or the availability of our services, we may ask you to reduce your resource usage
   
 * We may change the resources allocated to your instance at **any** time for **any** reason
 * We may shutdown/reboot your instance at **any** time for **any length of time** for **any reason**
