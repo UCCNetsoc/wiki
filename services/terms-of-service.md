@@ -2,7 +2,7 @@
 title: Terms of Service
 description: 
 published: true
-date: 2021-01-28T00:37:10.921Z
+date: 2021-01-28T00:40:17.541Z
 tags: 
 editor: markdown
 ---
@@ -29,12 +29,12 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
 	* If we feel that your resource usage is impacting the performance of our other users instances or our hardware, we may ask you to reduce your resource usage
   
 * We may change the resources allocated to your instance at **any** time for **any** reason
+* We may shutdown/reboot your instance at **any** time for **any length of time** for **any reason**
 
 ### Examples of permitted uses
 
 * Web hosting
 * Software development
-* IRC
 * Gameservers
 
 ### Examples of non-permitted uses
@@ -42,6 +42,7 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
 * **Email**
 * **DNS**
 * **VPN, e.g. proxy servers**
+* Ban evasion
 * Adult material/Pornography
 * **(Excessive) video streaming**
 * **Torrenting**
@@ -59,7 +60,7 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
 * IP spoofing
 * Fake/Replica product websites
 * Phishing
-* Stress-test software (Folding@Home, Prime95, 
+* Stress-test software (Folding@Home, Prime95) 
 * Booter/Stresser websites
 * Any artificial traffic creation i.e viewbotting
 
@@ -96,7 +97,7 @@ By making use of our services, you agree to the Acceptable Usage Policy, violati
     locking out as appropriate
 
 * Not knowingly introduce any virus, malware or other
-    destructive program or device into the University’s/UCC Netsoc's systems
+    destructive/monitoring program or device into the University’s/UCC Netsoc's systems
     or network and you should take all reasonable steps to
     ensure that you do not inadvertently introduce such programs
     or devices into the systems or network
