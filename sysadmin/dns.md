@@ -2,9 +2,9 @@
 title: DNS
 description: External and internal DNS
 published: true
-date: 2020-11-18T11:48:12.461Z
+date: 2021-01-29T01:17:21.711Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # External DNS
@@ -22,13 +22,3 @@ Our external DNS is managed by Cloudflare. You can set new records by modifying 
   
 * **CNAME any new subdomains to an ingress CNAME. Try not to use A records.**
 	* i.e CNAME wiki.netsoc.co to web.netsoc.co (our inbound web server which will route the request)
-
-# Internal DNS (only on `infra` VLAN)
-Internal DNS is DNS lookups served whilst inside UCC Netsoc (typically inside one of our VMs)
-
-Our internal DNS is managed by FreeIPA. The DNS server in use should be the IP address of the FreeIPA server.
-FreeIPA should add A records for every enrolled host (i.e their hostname).
-
-You can add additional records by modifying:
-
-https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-auth-internal-dns.yml
