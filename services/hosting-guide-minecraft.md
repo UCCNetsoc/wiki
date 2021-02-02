@@ -2,7 +2,7 @@
 title: Hosting Guide - Minecraft
 description: 
 published: true
-date: 2021-02-02T20:47:09.348Z
+date: 2021-02-02T20:57:42.317Z
 tags: 
 editor: markdown
 ---
@@ -70,6 +70,12 @@ editor: markdown
 
 * If your server appears down, you may need to connect to it once for it to appear online
 	* ![tutorial-minecraft5.png](/assets/cloud/tutorial-minecraft5.png)
+
+## Important (autopause) functionality
+
+* You configured this container to pause the server when no-one is on it
+* This might occasionally cause you to have to connect to the server (that appears offline) at least once to boot it
+* Once rebooted, the server should come it and you should be able to join
 
 ## More info & advanced usage
 
