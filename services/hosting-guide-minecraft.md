@@ -2,9 +2,9 @@
 title: Hosting Guide - Minecraft
 description: 
 published: true
-date: 2021-01-27T21:48:59.140Z
+date: 2021-02-02T20:36:18.032Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 
@@ -14,7 +14,7 @@ editor: undefined
 
 # Instance Request
 
-* Create a **Container** instance request for the **Linux Tools** image
+* Create a **Container** instance request for the **Docker** image
 	* Choose the hostname as you wish (e.g. `minecraft`, `myminecraft`, `creeper`)
   * Explain what you are using this instance for: a Minecraft server
   
