@@ -2,7 +2,7 @@
 title: Hosting Guide - Minecraft
 description: 
 published: true
-date: 2021-02-02T20:57:42.317Z
+date: 2021-02-02T20:58:53.890Z
 tags: 
 editor: markdown
 ---
@@ -76,6 +76,8 @@ editor: markdown
 * You configured this container to pause the server when no-one is on it
 * This might occasionally cause you to have to connect to the server (that appears offline) at least once to boot it
 * Once rebooted, the server should come it and you should be able to join
+* Do **NOT** disable this functionality or we will consider it a ToS violation	
+	* This is done to ensure that game servers do not take away resources from other users
 
 ## More info & advanced usage
 
