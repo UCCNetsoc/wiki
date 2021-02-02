@@ -2,7 +2,7 @@
 title: Hosting Guide - Minecraft
 description: 
 published: true
-date: 2021-02-02T20:44:37.033Z
+date: 2021-02-02T20:47:09.348Z
 tags: 
 editor: markdown
 ---
@@ -21,7 +21,7 @@ editor: markdown
 * Wait for the request to be accepted/denied
 
 * Request an upgrade to your specs via the **Upgrade** button ask for an adaquete amount of RAM:
-	* e.g. 768m if you're looking for a 8-12 player server
+	* e.g. 1gb if you're looking for a 8-12 player server
 
 # Accessing Instance
 
