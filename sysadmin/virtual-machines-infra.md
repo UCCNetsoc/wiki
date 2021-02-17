@@ -2,9 +2,9 @@
 title: Virtual Machines - Infra
 description: 
 published: true
-date: 2020-11-27T02:42:15.258Z
+date: 2021-02-17T12:08:01.077Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 
@@ -18,27 +18,24 @@ The Infra VMs are intentionally built to be monolithic for the following reasons
 
 Most services should be configured to be ran inside Docker & Docker Compose.
 
-# Internal DNS
-
-* Internal DNS on the Infra VLAN is handled by the `auth` VM, records must be added/modified in `provision-auth-infra-internal-dns.yml`
-
-* **Internal DNS only manages the zone `infra.netsoc.co`**
-	* See External DNS for `netsoc.co`
-
-* Each VM _must_ be enrolled into the FreeIPA realm if they want to have a DNS record for their hostname.
-	* All VM hostnames should end with `infra.netsoc.co`
-
 # Virtual Machines
 
-## auth
+## databases
 
-`auth` is our host & user authentication server
+`databases` hosts all of our databases. It should be placed on a node with both good CPU & disk performance
 
-https://github.com/UCCNetsoc/NaC/blob/master/create-infra-auth.yml
-https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-auth.yml
+https://github.com/UCCNetsoc/NaC/blob/master/create-infra-databases.yml
+https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-databases.yml
 
-* `auth` runs the following services
-	* [FreeIPA](https://www.freeipa.org/page/Main_Page) server
+* `databases` runs:
+	* MySQL (set by DNS record in Internal DNS)
+  * Postgres
+  * Prometheus
+  	* Used for time series data
+  * Prometheus exporters which store data in Prometheus based on certain conditions
+  	* `pve-exporter` exports stats from Proxmox
+    * `blackbox_exporter` can probe websites and see if they're up
+  * [FreeIPA](https://www.freeipa.org/page/Main_Page) server
   	* We expose the following ports on auths IP to the FreeIPA container
     	* 80 - Web UI
       * 443 - Web UI
@@ -65,22 +62,6 @@ https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-auth.yml
     * We use a [custom build of Keycloak with our theme injected](http://github.com/UCCNetsoc/keycloak)
     * We try to keep Keycloak stateless, so if you modify the configuration in Keycloak's web UI you will need to commit it back into NaC
     	* You can do this by running the `export-keycloak-freeipa-realm.yml` playbook and commiting the changed file
-
-## databases
-
-`databases` hosts all of our databases. It should be placed on a node with both good CPU & disk performance
-
-https://github.com/UCCNetsoc/NaC/blob/master/create-infra-databases.yml
-https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-databases.yml
-
-* `databases` runs:
-	* MySQL (set by DNS record in Internal DNS)
-  * Postgres
-  * Prometheus
-  	* Used for time series data
-  * Prometheus exporters which store data in Prometheus based on certain conditions
-  	* `pve-exporter` exports stats from Proxmox
-    * `blackbox_exporter` can probe websites and see if they're up
 
 ## games
 
@@ -120,7 +101,6 @@ https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-web.yml
  	* UI `netsoc.cloud`
   * API exposes `api.netsoc.cloud`
   	* Also exposes config that is picked by up by Traefik running on the Cloud Proxy VM
-  * Does *not* handle reverse proxying Netsoc Cloud containers or VMs
-  	* See Cloud Proxy for this
+  * Reverse proxying Netsoc Cloud containers and VMs
  * Loki (for collecting logs off machines/containers)
  * Grafana
