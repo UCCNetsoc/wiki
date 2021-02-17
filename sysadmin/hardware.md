@@ -2,9 +2,9 @@
 title: Hardware
 description: 
 published: true
-date: 2020-12-22T16:18:04.184Z
+date: 2021-02-17T12:06:25.965Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Rack
@@ -79,10 +79,6 @@ Switch Ports Model              SW Version            SW Image
 	* Soon to be 128GB
 * ASUS Z10PE-D16/4L Motherboard
 
-### Trivia
-
-* Purchased with generous funding from UCC Societies
-* Was probably built in a house worth less than the server
 
 ## lovelace
 
@@ -100,19 +96,7 @@ Switch Ports Model              SW Version            SW Image
 
 * We think it might have been owned by AWS/Amazon.
 	* The SE models were built bespoke for large companies
-  * Got handed to strum355 as a donation
-
-## boole
-
-* Dell PowerEdge 6850 (ancient)
-* 4x Intel(R) Xeon(TM) CPU 3.40GHz
-* 64GB RAM
-
-## bigbertha
-
-* Dell PowerEdge 2900 (5U model, ancient) 
-* 2x Intel(R) Xeon(R) CPU X5355 @ 2.66GHz
-* 24GB RAM (DDR3?)
+  * Got handed to noah as a donation
 
 ## elon & tesla
 
