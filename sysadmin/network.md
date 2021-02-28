@@ -2,9 +2,9 @@
 title: Network
 description: 
 published: true
-date: 2020-11-18T11:30:43.738Z
+date: 2021-02-28T04:11:03.198Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 
@@ -104,14 +104,6 @@ The Proxmox machine which runs the virtual router has an extra connection: a WAN
 * Contains every 'infrastructure' VM we host, e.g:
 	* A 'games' VM for gameservers
   * Our main web VM that hosts our website, this wiki, our Discord Bot & our CI
- 
-#### 40 - cloud
-
-* Contains user VPS' and Containers created by Netsoc Cloud
-
-#### 50 - k8s
-
-* Contains our Kubernetes VMs
 
 #### 80 - Out-of-Band
 
