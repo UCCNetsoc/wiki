@@ -2,9 +2,9 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2020-11-02T11:35:32.772Z
-tags: 
-editor: undefined
+date: 2021-03-03T21:33:09.860Z
+tags: history
+editor: markdown
 ---
 
 # Origins of UCC Netsoc
@@ -46,6 +46,7 @@ At the AGM each academic year, HLMs are nominated by members of Netsoc
 | Liam Levaro          | AGM 2019   |
 | Omar Sallam          | AGM 2019   |
 | Karan Samani         | AGM 2019   |
+| Fionn Kelleher       | AGM 2018   |
 | Colm O hIci          | AGM 2018   |
 | Hassan Baker         | AGM 2018   |
 | Freya Broderick      | AGM 2018   |
