@@ -2,12 +2,25 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2021-01-24T20:48:54.360Z
+date: 2021-03-11T19:58:33.870Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # 2020/2021
+
+## Meeting 14 (2021-03-11)
+
+* WebSSH2 doesn't work on firefox
+	* if a user signs in, the credentials get saved even if they're incorrect
+  * firefox won't clear them, (it might 403 forbidden)
+  * Alan
+  
+* get link shortener working
+
+## Meeting 13
+
+* I forgot what we did
 
 ## Meeting 12 (2021-01-24)
 
