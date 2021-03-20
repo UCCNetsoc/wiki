@@ -2,7 +2,7 @@
 title: Network
 description: 
 published: true
-date: 2021-02-28T04:11:03.198Z
+date: 2021-03-20T05:57:34.880Z
 tags: 
 editor: markdown
 ---
@@ -53,7 +53,6 @@ VLAN Name                             Status    Ports
 20   proxmox                          active    
 30   infra                            active    
 40   cloud                            active    
-50   k8s                              active    
 70   router                           active    
 80   oob                              active    Gi0/3
 90   mgmt                             active    
@@ -69,7 +68,6 @@ VLAN Type  SAID       MTU   Parent RingNo BridgeNo Stp  BrdgMode Trans1 Trans2
 20   enet  100020     1500  -      -      -        -    -        0      0   
 30   enet  100030     1500  -      -      -        -    -        0      0   
 40   enet  100040     1500  -      -      -        -    -        0      0   
-50   enet  100050     1500  -      -      -        -    -        0      0   
 70   enet  100070     1500  -      -      -        -    -        0      0   
 80   enet  100080     1500  -      -      -        -    -        0      0   
 90   enet  100090     1500  -      -      -        -    -        0      0   
@@ -111,7 +109,7 @@ The Proxmox machine which runs the virtual router has an extra connection: a WAN
 
 #### 90 - Management VLAN
 
-* The switch and our VyOS router listen on this VLAN _only_
+* The switch _only_ and our VyOS router listen on this VLAN
 
 ### Adding/modifying VLANs
 
@@ -176,11 +174,11 @@ IP allocations for our infra VMs are managed in our IaC
 
 ## Exposed to the internet - what do we use each public IP for?
 
-`84.39.234.50` - Assigned to our (old) server `bigbertha`
-`84.39.234.51` - Assigned to our (old) server `leela`
-`84.39.234.52` - The public IP of our web infra VM
+`84.39.234.50` - Currently unused
+`84.39.234.51` - The public IP of our web infra VM
+`84.39.234.52` - Currently unused
 `84.39.234.53` - The public IP we use for mapping NAT ports to Proxmox hosts and sometimes VMs
-`84.39.234.54` - The public IP of our Netsoc Cloud proxy VM 
+`84.39.234.54` - Currently unused
 
 ## Out of bound rack assignments (for CIX OOB)
 
