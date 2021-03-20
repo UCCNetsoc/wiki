@@ -2,7 +2,7 @@
 title: Virtual Machines - Infra
 description: 
 published: true
-date: 2021-02-17T12:08:01.077Z
+date: 2021-03-20T06:01:57.883Z
 tags: 
 editor: markdown
 ---
@@ -66,8 +66,7 @@ https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-databases.yml
 ## games
 
 * `games` runs:
-	* The old minecraft server (managed by NaC)
-  * The 'new' minecraft server (**unmanaged by NaC**)
+	* The minecraft server (managed by NaC)
 
 ## web
 
