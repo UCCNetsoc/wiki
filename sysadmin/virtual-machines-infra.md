@@ -2,7 +2,7 @@
 title: Virtual Machines - Infra
 description: 
 published: true
-date: 2021-03-20T06:01:57.883Z
+date: 2021-03-20T06:02:04.065Z
 tags: 
 editor: markdown
 ---
@@ -89,7 +89,7 @@ https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-web.yml
         * `mentorships.netsoc.co`
         * `tutorial.netsoc.co`
     * Docker config provider
-    	* AutomaticallyS set by labels on the Docker containers on the other services
+    	* Automatically set by labels on the Docker containers on the other services
  * Static Websites
  	* Homepage, Blog
  * Wiki
