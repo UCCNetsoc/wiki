@@ -2,7 +2,7 @@
 title: Virtual Machines - Infra
 description: 
 published: true
-date: 2021-03-20T06:02:04.065Z
+date: 2021-03-20T06:02:22.670Z
 tags: 
 editor: markdown
 ---
@@ -101,5 +101,6 @@ https://github.com/UCCNetsoc/NaC/blob/master/provision-infra-web.yml
   * API exposes `api.netsoc.cloud`
   	* Also exposes config that is picked by up by Traefik running on the Cloud Proxy VM
   * Reverse proxying Netsoc Cloud containers and VMs
+  	* Traefik is configured to request its config from the Netsoc Cloud API
  * Loki (for collecting logs off machines/containers)
  * Grafana
