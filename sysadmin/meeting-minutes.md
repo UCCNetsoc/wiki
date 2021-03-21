@@ -2,7 +2,7 @@
 title: Meeting Minutes
 description: Summaries of recent SysAdmin meetings
 published: true
-date: 2021-03-11T20:09:44.017Z
+date: 2021-03-21T10:51:42.619Z
 tags: 
 editor: markdown
 ---
@@ -21,7 +21,7 @@ editor: markdown
 
 ## Meeting 13
 
-* I forgot what we did
+* Server parts have been bought, awaiting delivery
 
 ## Meeting 12 (2021-01-24)
 
