@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2021-03-23T15:31:40.870Z
+date: 2021-03-23T16:40:43.810Z
 tags: history
 editor: markdown
 ---
@@ -17,7 +17,7 @@ Pretty much lost to time.
 | Academic Year | Chairperson   | Vice-Chairperson | Finance Officer   | Secretary      | Head SysAdmin        | Events Officer   | Equipment Officer | PROs                            | Esports Coordinator | OCMs                                           | SysAdmins                                                   | First Year Rep  | Ex-Officios  | Communications Officer |
 |---------------|---------------|------------------|-------------------|----------------|----------------------|------------------|-------------------|---------------------------------|---------------------|------------------------------------------------|-------------------------------------------------------------|-----------------|--------------|------------------------|
 | 2020/2021     | Oisin Aylward |                  | Stephen O'Riordan | Omar Sallam    | Oisin Canty          | Michael Forde    | Luc Fitzgerald    | Nathan Carey, Warren Daly       |       Hugo Blair    | Aleksei Ivanov, Raymond Reynolds, Aidan Molloy | James Cotter, Arthan Jansen, Eric Moynihan, Thomas Galligan | Jessica O'Leary | Cian McGrath |                        |
-| 2019/2020     | Cian McGrath  |                  | Karan Samani      | Omar Sallam    | Noah Santschi-Cooney | Michael Jeffries | Luc Fitzgerald    |       Ina Panayotova, Lauren McDonnel          |     Ciara Hicks (Chicks)       |   Eric Moynihan, James Doherty | Colm Ó hIcí, Oisin Aylward, Michael Forde, Oisin Canty, Thomas Galligan   |  Aidan Molloy   |              |                        |
+| 2019/2020     | Cian McGrath  |                  | Karan Samani      | Omar Sallam    | Noah Santschi-Cooney | Michael Jeffries | Luc Fitzgerald    |       Ina Panayotova, Lauren McDonnel          |     Ciara Hicks (Chicks)       |   Eric Moynihan, James Cotter | Colm Ó hIcí, Oisin Aylward, Michael Forde, Oisin Canty, Thomas Galligan   |  Aidan Molloy   |              |                        |
 | 2018/2019     |   Evan Young       |                  |                   |               |         Colm Ó hIcí             |                  |                   |                                 |                     |                                                |      Noah Santschi-Cooney, Oisin Canty, Oisín Aylward, Michael Forde, Fionn Kelleher  |                 |              |                        |
 | 2017/2018     | Hassan Baker  | Evan Young       |                   | Shiva Subedi   | Adam Gillessen       | Jason Power      | Alex Kelleher     | Oscar McCauly, Adam Greaney     | -                   | Karan Samani, Sam Drugan, Douglas Lordan       | Freya Broderick, Colm Ó'hIcí, Noah Santschi-Cooney         | Fionn Kelleher  |              |                        |
 | 2015/2016     | Evan Smith    | -                | -                 | Freyja Quigley | Joe McEvoy           | Michael Collins  | Declan Reid       | Mervyn Galvin, Daniel Heffernan | -                   | Anthony Hayes, Denise Crowley, Eimear Crotty   | -                                                           | Rob Power       | -            | Matt Carrick           |
