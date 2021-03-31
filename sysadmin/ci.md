@@ -2,7 +2,7 @@
 title: Continuous Integration
 description: Netsoc's CI / CD
 published: true
-date: 2021-03-31T20:20:35.518Z
+date: 2021-03-31T20:21:14.753Z
 tags: ci, cd, sysadmin, netsoc
 editor: markdown
 ---
@@ -43,7 +43,7 @@ Tasks can include:
 - Drone contains numerous organization-wide secrets (variables hidden for security reasons) such as keys to Docker Hub, SSH keys to the production VMs, etc.
 
 - Usually Drone is used to build the [Docker](https://docs.docker.com/get-started/overview/) Images for both production and development. 
-  Production images (tagged latest) usually contain minimal bloat (useless files) and just what's necessary for running it while development images (tagged dev-env) are used by the [dev-env](https://github.com/UCCNetsoc/dev-env) to allow for developers to hot reload the code in a running container and recompile it.
+  Production images (tagged `latest`) usually contain minimal bloat (useless files) and just what's necessary for running it while development images (tagged `dev-env`) are used by the [dev-env](https://github.com/UCCNetsoc/dev-env) to allow for developers to hot reload the code in a running container and recompile it.
   
 - Netsoc deploys exclusively via [NaC](/sysadmin/netsoc-as-code) which runs on [Ansible](/sysadmin/intro-to-ansible). As such if we want to have Continuous (automatic) Deployment (CD) after code is pushed to master, Drone must run the Ansible playbook for for that code.
 	The following is sample code that must be added to a repo's `.drone.yml` for CD in Netsoc:
