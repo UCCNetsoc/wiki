@@ -2,7 +2,7 @@
 title: Continuous Integration
 description: Netsoc's CI / CD
 published: true
-date: 2021-03-31T20:21:14.753Z
+date: 2021-03-31T20:22:39.541Z
 tags: ci, cd, sysadmin, netsoc
 editor: markdown
 ---
@@ -52,9 +52,9 @@ Tasks can include:
     image: docker:git
     commands:
       - git clone https://github.com/UCCNetsoc/NaC.git .ansible
-      - mkdir -p ./keys/infra/web/
+      - mkdir -p ./keys/infra/web/  # Repeat this mkdir, printf and chmod combination for each host required for deployment
       - mkdir -p ./keys/infra/databases/
-      - printf '%s\n' "$KEY_WEB" >./keys/infra/web/id_rsa # Repeat this printf and chmod for each host required for deployment
+      - printf '%s\n' "$KEY_WEB" >./keys/infra/web/id_rsa
       - printf '%s\n' "$KEY_DATABASES" >./keys/infra/databases/id_rsa
       - chmod 0600 ./keys/infra/web/id_rsa
       - chmod 0600 ./keys/infra/databases/id_rsa
