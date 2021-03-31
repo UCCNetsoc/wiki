@@ -2,7 +2,7 @@
 title: Continuous Integration
 description: Netsoc's CI / CD
 published: true
-date: 2021-03-31T20:17:10.574Z
+date: 2021-03-31T20:20:35.518Z
 tags: ci, cd, sysadmin, netsoc
 editor: markdown
 ---
@@ -14,7 +14,7 @@ Tasks can include:
 - Building the code 
 - Testing the code (See [unit tests](https://en.wikipedia.org/wiki/Unit_testing) (We don't do this usually because we're lazy :p))
 - Packaging the code
-- Deploying packaged release to production (Continuous Development)
+- Deploying packaged release to production (Continuous Deployment)
 
 # How Netsoc Uses CI
 
