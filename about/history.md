@@ -7,10 +7,6 @@ tags: history
 editor: markdown
 ---
 
-# Origins of UCC Netsoc
-
-Pretty much lost to time.
-
 # Committee
 [comment]: <> (Copy this table out to https://www.tablesgenerator.com/markdown_tables, parse and repaste it in here)
 
