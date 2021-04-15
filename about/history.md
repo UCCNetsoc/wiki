@@ -16,14 +16,14 @@ Pretty much lost to time.
 
 | Academic Year | Chairperson   | Vice-Chairperson | Finance Officer   | Secretary      | Head SysAdmin        | Events Officer   | Equipment Officer | PROs                            | Esports Coordinator | OCMs                                           | SysAdmins                                                   | First Year Rep  | Ex-Officios  | Communications Officer |
 |---------------|---------------|------------------|-------------------|----------------|----------------------|------------------|-------------------|---------------------------------|---------------------|------------------------------------------------|-------------------------------------------------------------|-----------------|--------------|------------------------|
+| 2021/2022     | Aidan Molloy  |                  | Omar Sallam       | Senan Cavanagh |                      | Warren Daly      | Hugo Blair        | Nathan Carey, Max Hodor         |                     | Luc Fitzgerald, Raymond Reynolds, Andrew Murphy|                                                             |  |  |                        |
 | 2020/2021     | Oisin Aylward |                  | Stephen O'Riordan | Omar Sallam    | Oisin Canty          | Michael Forde    | Luc Fitzgerald    | Nathan Carey, Warren Daly       |       Hugo Blair    | Aleksei Ivanov, Raymond Reynolds, Aidan Molloy | James Cotter, Arthan Jansen, Eric Moynihan, Thomas Galligan | Jessica O'Leary | Cian McGrath |                        |
-| 2019/2020     | Cian McGrath  |                  | Karan Samani      | Omar Sallam    | Noah Santschi-Cooney | Michael Jeffries | Luc Fitzgerald    |       Ina Panayotova, Lauren McDonnel          |     Ciara Hicks (Chicks)       |   Eric Moynihan, James Cotter | Colm Ó hIcí, Oisin Aylward, Michael Forde, Oisin Canty, Thomas Galligan   |  Aidan Molloy   |              |                        |
-| 2018/2019     |   Evan Young       |                  |                   |               |         Colm Ó hIcí             |                  |                   |                                 |                     |                                                |      Noah Santschi-Cooney, Oisin Canty, Oisín Aylward, Michael Forde, Fionn Kelleher  |                 |              |                        |
+| 2019/2020     | Cian McGrath  |                  | Karan Samani      | Omar Sallam    | Noah Santschi-Cooney | Michael Jeffries | Stephen O'Riordan | Ina Panayotova, Lauren McDonnel |Ciara Hicks (Chicks) |   Eric Moynihan, James Cotter                  | Colm Ó hIcí, Oisin Aylward, Michael Forde, Oisin Canty, Thomas Galligan   |  Aidan Molloy   |              |                |
+| 2018/2019     |   Evan Young  |                  |                   |                | Colm Ó hIcí          |                  |                   |                                 |                     |                                                |      Noah Santschi-Cooney, Oisin Canty, Oisín Aylward, Michael Forde, Fionn Kelleher  |                 |              |                        |
 | 2017/2018     | Hassan Baker  | Evan Young       |                   | Shiva Subedi   | Adam Gillessen       | Jason Power      | Alex Kelleher     | Oscar McCauly, Adam Greaney     | -                   | Karan Samani, Sam Drugan, Douglas Lordan       | Freya Broderick, Colm Ó'hIcí, Noah Santschi-Cooney         | Fionn Kelleher  |              |                        |
 | 2015/2016     | Evan Smith    | -                | -                 | Freyja Quigley | Joe McEvoy           | Michael Collins  | Declan Reid       | Mervyn Galvin, Daniel Heffernan | -                   | Anthony Hayes, Denise Crowley, Eimear Crotty   | -                                                           | Rob Power       | -            | Matt Carrick           |
 |               |               |                  |                   |                |                      |                  |                   |                                 |                     |                                                |                                                             |                 |              |                        |
 |               |               |                  |                   |                |                      |                  |                   |                                 |                     |                                                |                                                             |                 |              |                        |
-
 
 # Honorary Lifetime Members (HLMs)
 The title of HLM is awarded to anyone who has made significant contributions to the society.
@@ -32,6 +32,10 @@ At the AGM each academic year, HLMs are nominated by members of Netsoc
 
 | Name                 | Awarded on |
 |----------------------|------------|
+| Aidan Molloy         | AGM 2021   |
+| Aisling O'Driscoll   | AGM 2021   |
+| Arthan Jansen        | AGM 2021   |
+| Eric Moynihan        | AGM 2021   |
 | Michael Forde        | AGM 2020   |
 | Oisin Aylward        | AGM 2020   |
 | Oisin Canty          | AGM 2020   |
