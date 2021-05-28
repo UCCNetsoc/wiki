@@ -2,11 +2,10 @@
 title: Hosting Guide - Minecraft
 description: 
 published: true
-date: 2021-02-02T20:59:26.468Z
+date: 2021-05-28T20:53:04.262Z
 tags: 
 editor: markdown
 ---
-
 
 # Initial Steps
 
@@ -45,7 +44,7 @@ editor: markdown
 ## Run Minecraft (inside Docker)
 
 * Run the command:
-	* `docker run -d -p 25565:25565 -e ENABLE_AUTOPAUSE=TRUE -e EULA=TRUE --restart always --name mc itzg/minecraft-server:openj9-11`
+	* `docker run -d -p 25565:25565 -e ENABLE_AUTOPAUSE=TRUE -e EULA=TRUE --restart always --name mc itzg/minecraft-server:java16-openj9`
 	* This will download a Docker image (think of it like an easy way to package software) 
   * It will then run Minecraft and bind it to the port given
   
@@ -82,7 +81,7 @@ editor: markdown
 ## More info & advanced usage
 
 * https://github.com/itzg/docker-minecraft-server/blob/master/README.md
-	* Substitute `latest` with `openj9-11` in commands given here, `openj9-11` will be more efficient than the default
+	* Substitute `latest` with `java16-openj9` in commands given here, `java16-openj9` will be more efficient than the default
   * If using `docker run` with these images, you **MUST** have `-e ENABLE_AUTOPAUSE=TRUE`
  
 # FAQs
