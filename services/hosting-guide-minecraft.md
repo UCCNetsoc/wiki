@@ -2,7 +2,7 @@
 title: Hosting Guide - Minecraft
 description: 
 published: true
-date: 2021-05-28T20:53:04.262Z
+date: 2021-05-28T21:46:21.689Z
 tags: 
 editor: markdown
 ---
@@ -82,6 +82,7 @@ editor: markdown
 
 * https://github.com/itzg/docker-minecraft-server/blob/master/README.md
 	* Substitute `latest` with `java16-openj9` in commands given here, `java16-openj9` will be more efficient than the default
+		* An exception is made for modded Forge servers which are not compatible with `openj9` images.
   * If using `docker run` with these images, you **MUST** have `-e ENABLE_AUTOPAUSE=TRUE`
  
 # FAQs
