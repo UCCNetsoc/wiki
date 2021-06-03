@@ -2,7 +2,7 @@
 title: Level 3 Networking
 description: 
 published: true
-date: 2021-06-03T20:43:44.920Z
+date: 2021-06-03T20:44:50.460Z
 tags: 
 editor: markdown
 ---
@@ -58,7 +58,7 @@ editor: markdown
   * We can represent 192.168.1.1 to 192.168.1.255 by:
   	* Using the IP address 192.168.1._(any number)_
     * Using the subnet mask 255.255.255.0
-    * e.g. the last octet is 'masked' off using a binary AND, so the address can be visualized 
+    * e.g. the octets are 'masked' off using a binary AND, so the address can be visualized 
     	as 192.168.1.x, i.e any value for x
     * Written in CIDR notation => 192.168.1.0/24
     
