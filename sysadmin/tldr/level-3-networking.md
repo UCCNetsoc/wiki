@@ -2,7 +2,7 @@
 title: Level 3 Networking
 description: 
 published: true
-date: 2021-06-03T20:42:48.370Z
+date: 2021-06-03T20:43:44.920Z
 tags: 
 editor: markdown
 ---
@@ -73,5 +73,7 @@ editor: markdown
     10.40.0.0/16  => 10.40.0.0 to 10.40.255.254
   * The entire internet in IPv4:
   	0.0.0.0/0 => 0.0.0.0 to 255.255.255.254
+  * A very small subnet:
+  	10.1.0.0/29 -> 10.1.0.0 to 10.1.0.7
   * A single IP:
   	208.130.29.33/32
