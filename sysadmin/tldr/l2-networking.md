@@ -2,7 +2,7 @@
 title: Level 2 Networking
 description: 
 published: true
-date: 2021-06-03T20:07:45.785Z
+date: 2021-06-03T20:09:32.769Z
 tags: 
 editor: markdown
 ---
@@ -74,5 +74,5 @@ The picture above shows:
 * If data enters the **trunk** port, the VLAN id is read from that frame and then transmitted into the appropriate VLAN.
 
 * You could connect a computer to a **trunk** port and it can send data to and from VLAN 10 and 30 for example (assuming it is configured correctly) without the need for a router.
-	* The computer recieves the trunked frames from the switch and knows what VLAN traffic came from
-  * It can then transmit trunked frames back to the switch to send data into a specific VLAN
+	* The computer recieves the trunked frames from the switch and knows what VLAN traffic came from by reading the VLAN ID from the frame
+  * It can then transmit trunked frames back to the switch to send data into a specific VLAN by attaching a specific VLAN id to the outgoing frame
