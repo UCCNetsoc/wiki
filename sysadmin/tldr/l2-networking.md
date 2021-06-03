@@ -2,7 +2,7 @@
 title: Level 2 Networking
 description: 
 published: true
-date: 2021-06-03T19:39:34.257Z
+date: 2021-06-03T19:42:54.523Z
 tags: 
 editor: markdown
 ---
@@ -22,7 +22,6 @@ editor: markdown
   	* **MAC Address**
     	* Think of it like a 'hardware address'
       * Looks like this: **4e:4f:41:48:00:ef**
-    * A switch has a MAC address
     * A network card (basically an ethernet jack) has a MAC address
   * No routing
   * These identifiers are stored in the frame
@@ -37,9 +36,16 @@ editor: markdown
   * Receiver can reply and the switch will repeat the process
   * Over-time a (modern) switch can _learn_ what devices are on what ports on the switch, so it 
   	might not broadcast to everyone.
+    	* Stores them in a table, can be known as MAC or CAM table
   * Remember: the switch is _not_ a router. A router only cares about IP Addresses.
   
 * L2 is typically untrusted
 	* Anyone can say what MAC address they are
   * Anyone can see broadcasts
-  * i.e Server says I have MAC 1234, devices in the network will send packets to MAC 1234
+  * i.e Server says I have MAC 1234, it will receive packets for MAC 1234
+  
+![how-a-switch-learns-mac-addresses-step-two.jpg](/sysadmin/tldr/how-a-switch-learns-mac-addresses-step-two.jpg)
+
+The picture above shows:
+	* a LAN (LOcal Area Network) of 4 devices
+  * 3 computers
