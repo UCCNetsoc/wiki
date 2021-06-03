@@ -2,7 +2,7 @@
 title: Level 2 Networking
 description: 
 published: true
-date: 2021-06-03T19:42:54.523Z
+date: 2021-06-03T19:43:04.080Z
 tags: 
 editor: markdown
 ---
@@ -47,5 +47,5 @@ editor: markdown
 ![how-a-switch-learns-mac-addresses-step-two.jpg](/sysadmin/tldr/how-a-switch-learns-mac-addresses-step-two.jpg)
 
 The picture above shows:
-	* a LAN (LOcal Area Network) of 4 devices
+	* a LAN (Local Area Network) of 4 devices
   * 3 computers
