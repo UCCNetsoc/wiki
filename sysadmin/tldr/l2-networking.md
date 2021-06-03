@@ -2,7 +2,7 @@
 title: Level 2 Networking
 description: 
 published: true
-date: 2021-06-03T20:06:10.341Z
+date: 2021-06-03T20:06:58.909Z
 tags: 
 editor: markdown
 ---
@@ -65,7 +65,7 @@ The picture above shows:
 
 ![2021-06-03_19-59.png](/sysadmin/tldr/2021-06-03_19-59.png)
 
-## 'Trunk' VLANs
+## 'Trunked' VLANs
 
 * What happens when you want to get 'all' traffic on some or all VLANs?
 * A switch can have a **trunk** port.
