@@ -2,7 +2,7 @@
 title: Level 3 Networking
 description: 
 published: true
-date: 2021-06-03T20:23:49.178Z
+date: 2021-06-03T20:38:43.700Z
 tags: 
 editor: markdown
 ---
@@ -35,9 +35,38 @@ editor: markdown
         	10.0.0.2
           192.168.1.1
           172.16.2.7
-   
+
+![ipv4-octet.png](/sysadmin/tldr/ipv4-octet.png)
+
 * How is Level 3 sent?
   * As a 'packet'
 	* Concatenated onto Level 2 frames.
   
 ![osi.jpg](/sysadmin/tldr/osi.jpg)
+
+* Major problem?
+	* Representing an IP network range (e.g. 192.168.1.1 to 192.168.1.255) in an efficient fashion
+  		* Known as a **network subnet**
+  * Use CIDR: https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing
+  * Store an IP address as a number and a **subnet mask** as a number
+  	* A subnet mask is a number that is a power of 2
+    * It's presented as what power of 2 that is using CIDR notation, e.g. /16, /32 or using subnet mask notation
+    	* Example:
+      	/24 => 255.255.255.0
+        /8 => 255.0.0.0
+  * The subnet mask represents the bits of an IP that need to be **masked** or set to 0
+  * We can represent 192.168.1.1 to 192.168.1.255 by:
+  	* Using the IP address 192.168.1._(any number)_
+    * Using the subnet mask 255.255.255.0
+    * e.g. the last octet is 'masked' off using a binary AND, so the address can be visualized 
+    	as 192.168.1.x, i.e any value for x
+    * Written in CIDR notation => 192.168.1.0/24
+    
+![ipaddresses.png](/sysadmin/tldr/ipaddresses.png)
+![cidr-table.png](/sysadmin/tldr/cidr-table.png)
+
+* Example IP spaces in CIDR:
+	* Private space:
+  	10.0.0.0/8 => 10.0.0.0 to 10.255.255.255
+  * The entire internet in IPv4:
+  	0.0.0.0/0
