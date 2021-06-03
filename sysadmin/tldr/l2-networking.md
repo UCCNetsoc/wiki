@@ -2,7 +2,7 @@
 title: Level 2 Networking
 description: 
 published: true
-date: 2021-06-03T20:09:32.769Z
+date: 2021-06-03T20:11:50.123Z
 tags: 
 editor: markdown
 ---
@@ -26,6 +26,8 @@ editor: markdown
   * No routing
   * These identifiers are stored in the frame
   	* i.e Sender MAC address and Destination MAC address
+  
+![l2-frame.jpg](/sysadmin/tldr/l2-frame.jpg)
   
 * L2 concerns how data is passed between adjacent network nodes/hardware
 	* Data goes into switch, how does switch decide to send the data?
@@ -62,6 +64,7 @@ The picture above shows:
 	* ComputerA and ComputerC can be put on their own vlan and **won't be able** to communicate with ComputerB by sending frames with their MAC addresses
   	* Unless you involve a router (Level 3, with IP Addresses) which can move traffic between VLANs
 * Computers in a VLAN don't know they're in the VLAN, they just see it as their LAN
+	* VLAN ID isn't set
 
 ![2021-06-03_19-59.png](/sysadmin/tldr/2021-06-03_19-59.png)
 
@@ -70,7 +73,7 @@ The picture above shows:
 * What happens when you want to get 'all' traffic on some or all VLANs?
 * A switch can have a **trunk** port.
 * If data leaves the **trunk** port, the VLAN that frame came from is tagged onto the frame.
-	* i.e the VLAN id is somewhere in the frame
+	* i.e the VLAN ID is set in the frame
 * If data enters the **trunk** port, the VLAN id is read from that frame and then transmitted into the appropriate VLAN.
 
 * You could connect a computer to a **trunk** port and it can send data to and from VLAN 10 and 30 for example (assuming it is configured correctly) without the need for a router.
