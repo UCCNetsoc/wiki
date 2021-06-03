@@ -2,7 +2,7 @@
 title: Level 3 Networking
 description: 
 published: true
-date: 2021-06-03T20:38:43.700Z
+date: 2021-06-03T20:40:28.875Z
 tags: 
 editor: markdown
 ---
@@ -66,7 +66,10 @@ editor: markdown
 ![cidr-table.png](/sysadmin/tldr/cidr-table.png)
 
 * Example IP spaces in CIDR:
-	* Private space:
-  	10.0.0.0/8 => 10.0.0.0 to 10.255.255.255
+	* Some private space:
+  	10.0.0.0/8 => 10.0.0.0 to 10.255.255.254
+  * A small internal subnet:
+  	10.0.20.0/24	=> 10.0.20.0 to 10.0.20.254
+    10.40.0.0/16  => 10.40.0.0 to 10.40.255.254
   * The entire internet in IPv4:
-  	0.0.0.0/0
+  	0.0.0.0/0 => 0.0.0.0 to 255.255.255.254
