@@ -2,7 +2,7 @@
 title: Level 3 Networking
 description: 
 published: true
-date: 2021-06-03T20:44:50.460Z
+date: 2021-06-03T20:58:43.707Z
 tags: 
 editor: markdown
 ---
@@ -77,3 +77,23 @@ editor: markdown
   	10.1.0.0/29 -> 10.1.0.0 to 10.1.0.7
   * A single IP:
   	208.130.29.33/32
+    
+## Level 2 to Level 3 Boundary
+
+* Devices self-report their IP addresses again
+* How do you figure out what IP Addresses are on a LAN from Level 2?
+	* **Address Resolution Protocol**
+  * Devices maintain internal tables that map MAC addresses to IP addresses
+  ![2021-06-03_20-53.png](/sysadmin/tldr/2021-06-03_20-53.png)
+  
+  * ARP is how they figure out who has what address by using the broadcast MAC address
+  	* Device needs to know if ayone has 192.168.1.5. Will send 'Who has 192.168.1.5?' to broadcast MAC
+    * Switches will broadcast (i.e send to every port on that LAN) a request on L2 
+    	* e.g. Who has 192.168.1.5?
+    * Device with that IP will respond via L2 to the sender MAC
+    
+    ![2020-05-15_19-26-21.png](/sysadmin/tldr/2020-05-15_19-26-21.png)
+    
+## Routing
+
+* Every computer and router has a **routing table**
