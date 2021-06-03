@@ -2,7 +2,7 @@
 title: Level 2 Networking
 description: 
 published: true
-date: 2021-06-03T20:00:55.882Z
+date: 2021-06-03T20:06:10.341Z
 tags: 
 editor: markdown
 ---
@@ -64,3 +64,13 @@ The picture above shows:
 * Computers in a VLAN don't know they're in the VLAN, they just see it as their LAN
 
 ![2021-06-03_19-59.png](/sysadmin/tldr/2021-06-03_19-59.png)
+
+## 'Trunk' VLANs
+
+* What happens when you want to get 'all' traffic on some or all VLANs?
+* A switch can have a **trunk** port.
+* If data leaves the **trunk** port, the VLAN that frame came from is tagged onto the frame.
+	* i.e the VLAN id is somewhere in the frame
+* If data enters the **trunk** port, the VLAN id is read from that frame and then transmitted into the appropriate VLAN.
+
+* You could connect a computer to a **trunk** port and it can send data to and from VLAN 10 and 30 for example (assuming it is configured correctly) without the need for a router.
