@@ -2,7 +2,7 @@
 title: Level 2 Networking
 description: 
 published: true
-date: 2021-06-03T19:43:04.080Z
+date: 2021-06-03T20:00:55.882Z
 tags: 
 editor: markdown
 ---
@@ -47,5 +47,20 @@ editor: markdown
 ![how-a-switch-learns-mac-addresses-step-two.jpg](/sysadmin/tldr/how-a-switch-learns-mac-addresses-step-two.jpg)
 
 The picture above shows:
-	* a LAN (Local Area Network) of 4 devices
+  
+  * a LAN (Local Area Network) of 4 devices
   * 3 computers
+  * Each device has a MAC address
+  
+## Virtual LANs
+
+* Think of a Virtual LAN as dividing up the ports on a switch into many different LANs
+* If you wanted to put ComputerA and ComputerC on it's own LAN you could buy a new switch and have no link between switches
+* A Virtual LAN allows you to do this on a single switch
+* Ports on the switch can be assigned a **VLAN ID**
+* When frames come into the switch, they will only be broadcast and transmitted on the same VLAN
+	* ComputerA and ComputerC can be put on their own vlan and **won't be able** to communicate with ComputerB by sending frames with their MAC addresses
+  	* Unless you involve a router (Level 3, with IP Addresses) which can move traffic between VLANs
+* Computers in a VLAN don't know they're in the VLAN, they just see it as their LAN
+
+![2021-06-03_19-59.png](/sysadmin/tldr/2021-06-03_19-59.png)
