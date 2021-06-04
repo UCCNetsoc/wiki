@@ -2,7 +2,7 @@
 title: Level 3 Networking
 description: 
 published: true
-date: 2021-06-04T18:51:30.162Z
+date: 2021-06-04T18:52:55.764Z
 tags: 
 editor: markdown
 ---
@@ -40,7 +40,6 @@ editor: markdown
   		* Known as a **network subnet**
   * Use CIDR: https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing
   * Store an IP address as a number and a **subnet mask** as a number
-  	* A subnet mask is a number that is a power of 2
     * It's presented as what power of 2 that is using CIDR notation, e.g. /16, /32 or using subnet mask notation
     	* Example:
       	/24 => 255.255.255.0
