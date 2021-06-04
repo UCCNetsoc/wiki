@@ -2,11 +2,10 @@
 title: Network
 description: 
 published: true
-date: 2021-03-20T05:57:34.880Z
+date: 2021-04-15T15:48:39.711Z
 tags: 
-editor: markdown
+editor: undefined
 ---
-
 
 **Some networking configuration is managed by Ansible, others is managed manually and is labeled as such**
 

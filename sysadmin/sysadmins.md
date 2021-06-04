@@ -2,7 +2,7 @@
 title: SysAdmins
 description: Everything the Technology side of the society has in its possession
 published: true
-date: 2020-11-26T18:02:01.724Z
+date: 2021-04-15T15:48:43.411Z
 tags: 
 editor: undefined
 ---

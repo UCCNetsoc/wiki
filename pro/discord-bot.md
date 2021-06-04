@@ -2,7 +2,7 @@
 title: Discord Bot
 description: The UCC Netsoc Discord Bot which allows UCC students to automatically register as a member for the Discord Server, allows committee members to send announcements to multiple mediums and more!
 published: true
-date: 2020-11-02T11:35:46.021Z
+date: 2021-04-15T15:47:59.524Z
 tags: 
 editor: undefined
 ---

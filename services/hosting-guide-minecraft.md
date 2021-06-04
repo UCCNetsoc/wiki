@@ -2,9 +2,9 @@
 title: Hosting Guide - Minecraft
 description: 
 published: true
-date: 2021-05-28T21:46:21.689Z
+date: 2021-05-28T21:46:23.589Z
 tags: 
-editor: markdown
+editor: undefined
 ---
 
 # Initial Steps

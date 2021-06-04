@@ -2,7 +2,7 @@
 title: Blameless Postmortems
 description: Sometimes things go bang
 published: true
-date: 2020-11-02T11:35:59.349Z
+date: 2021-04-15T15:48:22.283Z
 tags: 
 editor: undefined
 ---

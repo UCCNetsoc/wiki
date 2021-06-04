@@ -2,7 +2,7 @@
 title: Netsoc-as-Code
 description: Defining a society one YAML file at a time
 published: true
-date: 2020-11-13T10:56:33.843Z
+date: 2021-04-15T15:48:35.873Z
 tags: 
 editor: undefined
 ---

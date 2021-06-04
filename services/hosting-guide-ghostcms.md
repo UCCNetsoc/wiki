@@ -2,11 +2,10 @@
 title: Hosting Guide - GhostCMS
 description: 
 published: true
-date: 2021-01-29T00:01:06.005Z
+date: 2021-04-15T15:48:01.406Z
 tags: 
-editor: markdown
+editor: undefined
 ---
-
 
 # Initial Steps
 

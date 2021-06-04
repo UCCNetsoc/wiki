@@ -2,7 +2,7 @@
 title: Inventory
 description: Everything the Technology side of the society has in its possession
 published: true
-date: 2020-11-02T11:36:22.604Z
+date: 2021-04-15T15:48:54.412Z
 tags: 
 editor: undefined
 ---

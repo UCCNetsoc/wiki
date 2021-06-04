@@ -2,9 +2,9 @@
 title: Continuous Integration
 description: Netsoc's CI / CD
 published: true
-date: 2021-03-31T20:22:39.541Z
-tags: ci, cd, sysadmin, netsoc
-editor: markdown
+date: 2021-04-15T15:48:24.140Z
+tags: 
+editor: undefined
 ---
 
 # Introduction to CI

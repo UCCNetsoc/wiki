@@ -2,7 +2,7 @@
 title: Committee
 description: UCC Netsoc's committee for the current academic year
 published: true
-date: 2020-11-02T11:35:26.982Z
+date: 2021-04-15T15:47:41.475Z
 tags: 
 editor: undefined
 ---

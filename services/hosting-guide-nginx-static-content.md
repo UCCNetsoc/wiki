@@ -2,11 +2,10 @@
 title: Hosting Guide - Static Content (with Nginx)
 description: 
 published: true
-date: 2021-01-27T22:29:30.747Z
+date: 2021-04-15T15:48:05.257Z
 tags: 
 editor: undefined
 ---
-
 
 # Initial Steps
 
