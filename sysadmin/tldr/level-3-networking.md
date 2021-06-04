@@ -2,7 +2,7 @@
 title: Level 3 Networking
 description: 
 published: true
-date: 2021-06-04T18:52:55.764Z
+date: 2021-06-04T19:09:55.541Z
 tags: 
 editor: markdown
 ---
@@ -96,4 +96,33 @@ editor: markdown
     
 ## Routing
 
+![2021-06-04_18-53.png](/sysadmin/tldr/2021-06-04_18-53.png)
+
 * Every computer and router has a **routing table**
+	* In the example above the machine has 3 interfaces (Network Interface Cards or NICs, which will have a MAC address)
+      * wlp3s0 -> a wireless card
+      * docker0 -> a virtual bridge interface for Docker
+      * br-242xxxx -> a virtual bridge interface (a virtual switch)
+  * An interface has IP addresses and subnets assigned to it
+  	* wlp3s0, the wireless card:
+    	* configured to listen on 10.0.0.0/24 (i.e 10.0.0.1 to 10.0.0.254)
+      * it's IP address is 10.0.0.8
+  
+  * When a packet is sent by the computer, it scans the routing table to pick which NIC to 
+  	fire the packet out of. 
+    
+    * If the destination IP was 10.0.0.15 (i.e in the 10.0.0.0/24 subnet), the packet will 
+      	have it's source IP set to 10.0.0.8 (the assigned source IP for that routing entry) 
+        and the packet will be transmitted by the wireless card
+  
+  * If there are no matches in the routing table, the packet is sent via the default route
+  	
+    * If the destination IP was 8.8.8.8 (no routing table match), the default route is used.
+    	* The default route is configured as the IP address 10.0.0.1 via the wlp3s0 NIC
+      * The packet will be sent to the router that will then forward it to it's destination by following it's routing table
+      * The internet is just routers connected together following routing tables
+      
+## Routing with Trunk VLANs
+
+
+
