@@ -2,9 +2,9 @@
 title: Netsoc Cloud
 description: 
 published: true
-date: 2021-04-15T15:48:37.809Z
+date: 2021-06-11T17:28:24.896Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 # Architecture
@@ -38,7 +38,7 @@ Basically, on the API we expect the `Authorization` header to be set to a JWT th
 
 ### Documentation
 
-Visit `api.netsoc.cloud/docs`
+Visit [api.netsoc.cloud/docs](http://api.netsoc.cloud/docs) or [api.netsoc.cloud/redoc](http://api.netsoc.cloud/redoc)
 
 ### Configuration
 
