@@ -2,19 +2,27 @@
 title: SysAdmins
 description: Everything the Technology side of the society has in its possession
 published: true
-date: 2021-04-15T15:48:43.411Z
-tags: 
-editor: undefined
+date: 2021-09-05T15:01:21.002Z
+tags: servers, sysadmin
+editor: markdown
 ---
 
 # SysAdmins
 
 | Name                 | Nick                            | Year  | Head SysAdmin? |   |
 |:--------------------:|:-------------------------------:|:-----:|:--------------:|---|
-| Arthan Jansen        | `arthan`                        | 20-21 |                |   |
-| Eric Moynihan        | `eric`	             | 20-21 |                |   |
-| James Cotter         | `jac/goibniu/jotter`            | 20-21 |                |   |
+| Ciarán Cotter        | `pmoc`	             						 | 21-22 |                |   |
+| Reece Donovan        | `nothic/reece`        					 | 21-22 |                |   |
+| Alan Panayotov			 | `oofsauce`											 | 21-22 |								|		|
+| Alan Panayotov			 | `oofsauce`											 | 20-21 |								|		|
+| Eric Moynihan        | `eric`	             						 | 21-22 |                |   |
+| Eric Moynihan        | `eric`	             						 | 20-21 |                |   |
+| James Cotter         | `jac`           							   | 21-22 | Yes            |   |
+| James Cotter         | `jac`           							   | 20-21 |                |   |
+| Thomas Galligan      | `thomas`                        | 21-22 |                |   |
+| Thomas Galligan      | `thomas`                        | 20-21 |                |   |
 | Thomas Galligan      | `thomas`                        | 19-20 |                |   |
+| Arthan Jansen        | `arthan`                        | 20-21 |                |   |
 | Oisin Canty          | `ocanty`                        | 20-21 | Yes            |   |
 | Oisin Canty          | `ocanty`                        | 19-20 |                |   |
 | Oisin Canty          | `ocanty`                        | 18-19 |                |   |
