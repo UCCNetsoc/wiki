@@ -2,12 +2,17 @@
 title: Mentorships
 description: UCC Netsoc runs mentorships every year to give students a sample of technology they don't get to learn in college
 published: true
-date: 2021-04-15T15:48:57.962Z
+date: 2021-09-06T17:53:41.061Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
-# Python Programming ( Fridays 6-7pm )
+# 2021/22
+
+TBD
+
+# 2020/21
+## Python Programming ( Fridays 6-7pm )
 
 ![](/assets/mentorship-python-banner.png =480x)
 
@@ -23,7 +28,7 @@ All notes will be available online. Mentorship will take place over [our discord
 - [Lesson Plan](/technology/mentorships/python/lesson-plan)
 - [Mentorship Page](/technology/mentorships/python)
 
-# Go Programming ( Mondays 5-6pm )
+## Go Programming ( Mondays 5-6pm )
 
 ![](/assets/golang.png =480x)
 
