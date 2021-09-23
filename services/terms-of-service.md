@@ -2,9 +2,9 @@
 title: Terms of Service
 description: 
 published: true
-date: 2021-04-15T15:48:14.628Z
+date: 2021-09-23T23:10:06.507Z
 tags: 
-editor: undefined
+editor: markdown
 ---
 
 By using UCC Netsoc ("Netsoc", "UCC Netsoc", "we", "our") services, you ("you", "your", "user") agree to comply with our policies as set forth in this Terms of Service ("ToS", "Terms"). Creating an account constitutes your acceptance and agreement to the Terms of Service.
@@ -146,5 +146,5 @@ You are responsible for the day to day management of your instances. Users shoul
 ## Queries
 
 Further queries can be directed via:
-* The `#servers` channel in the UCC Netsoc Discord server (https://discord.netsoc.co)
+* The `#netsoc-cloud` channel in the UCC Netsoc Discord server (https://discord.netsoc.co)
 * Email sent to and from netsoc@uccsocieties.ie
