@@ -2,7 +2,7 @@
 title: Terms of Service
 description: 
 published: true
-date: 2021-09-23T23:10:06.507Z
+date: 2021-09-23T23:10:47.879Z
 tags: 
 editor: markdown
 ---
@@ -126,7 +126,7 @@ Instances and their respective network traffic are monitored to:
 ## Support
 
 Requests for support can only be sent and handled via:
-* The `#servers` channel in the UCC Netsoc Discord server (https://discord.netsoc.co)
+* The `#netsoc-cloud` channel in the UCC Netsoc Discord server (https://discord.netsoc.co)
 * Email sent to and from netsoc@uccsocieties.ie
  
 We can **only** provide support for the following scope of issues:
