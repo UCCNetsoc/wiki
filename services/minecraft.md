@@ -2,7 +2,7 @@
 title: Minecraft Server
 description: minecraft.netsoc.co
 published: true
-date: 2021-09-25T21:25:15.351Z
+date: 2021-09-25T21:31:15.233Z
 tags: servers, gaming, minecraft
 editor: markdown
 ---
@@ -20,6 +20,7 @@ The server is open to anyone so feel free to come and go as you please.
 ## Installation
 1. Install [MultiMC](https://multimc.org/#Download).
 1. Click `Add Instance` in MultiMC > Import from zip > Paste in `https://wiki.netsoc.co/assets/minecraft/netsoc.zip` > Press OK.
+1. (Optional) Click settings > Java > Modify maximum memory allocation to your liking.
 1. Load up the instance and add the server `minecraft.netsoc.co`.
 
 ## Modpack
