@@ -2,12 +2,14 @@
 title: Minecraft Server
 description: minecraft.netsoc.co
 published: true
-date: 2021-09-25T21:31:15.233Z
+date: 2021-09-25T21:42:37.480Z
 tags: servers, gaming, minecraft
 editor: markdown
 ---
 
 # Netcraft - UCC Netsoc's Minecraft Server
+minecraft.netsoc.co
+
 ![netcraft-logo.png](/assets/netcraft-logo.png =700x420)
 
 ## About
