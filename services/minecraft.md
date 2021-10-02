@@ -2,7 +2,7 @@
 title: Minecraft Server
 description: minecraft.netsoc.co
 published: true
-date: 2021-10-02T20:47:26.251Z
+date: 2021-10-02T20:48:20.975Z
 tags: servers, gaming, minecraft
 editor: markdown
 ---
@@ -24,7 +24,7 @@ The server is open to anyone so feel free to come and go as you please.
 1. Click `Add Instance` in MultiMC > Import from zip > Paste in `https://wiki.netsoc.co/assets/minecraft/netsoc.zip` > Press OK.
 1. (Optional) Click settings > Java > Modify maximum memory allocation to your liking.
 1. (Optional) Download [Optifine](https://optifine.net/adloadx?f=OptiFine_1.16.5_HD_U_G8.jar&x=70f6) and click `Edit Instance` > `Loader Mods` > Add Optifine.
-1. Settings > Java > Add the JVM arguments:`-XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1`
+1. (Optional) Settings > Java > Add the JVM arguments:`-XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1`
 1. Load up the instance and add the server `minecraft.netsoc.co`.
 
 ## Modpack
