@@ -2,16 +2,10 @@
 title: Tech Talks
 description: Information and slides about previous tech talks
 published: true
-date: 2021-04-15T15:48:59.702Z
+date: 2021-10-20T16:50:35.191Z
 tags: 
-editor: undefined
+editor: markdown
+dateCreated: 2020-07-10T00:22:16.795Z
 ---
 
-# 2020/2021
-
-## 1 - Hacktoberfest
-
-Introduction to Git & GitHub presented by Noah (`strum355`)
-
-
-<iframe style="border: none; width: 50vw; height: 50vh" referrerpolicy="no-referrer" src="https://docs.google.com/viewer?url=https://wiki.netsoc.co/tech-talks/2020-2021/1-noah-hacktoberfest.pdf&embedded=true" frameBorder="0"></iframe>
+<iframe style="border: none; width: 50vw; height: 50vh" referrerpolicy="no-referrer" src="https://uccnetsoc.github.io/talks/" frameBorder="0"></iframe>
