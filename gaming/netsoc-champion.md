@@ -2,9 +2,10 @@
 title: Netsoc Champion
 description: 
 published: true
-date: 2021-04-15T15:47:57.741Z
+date: 2021-06-04T00:05:59.854Z
 tags: 
-editor: undefined
+editor: markdown
+dateCreated: 2020-07-10T00:23:27.337Z
 ---
 
 # Header

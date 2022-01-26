@@ -2,9 +2,10 @@
 title: Events
 description: Every event we've ever ran
 published: true
-date: 2021-04-15T15:47:45.316Z
+date: 2021-06-04T00:05:48.372Z
 tags: 
-editor: undefined
+editor: markdown
+dateCreated: 2020-07-10T00:16:49.525Z
 ---
 
 # 2020

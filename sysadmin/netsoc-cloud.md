@@ -2,9 +2,10 @@
 title: Netsoc Cloud
 description: 
 published: true
-date: 2021-06-11T17:28:24.896Z
+date: 2021-06-11T17:28:26.629Z
 tags: 
 editor: markdown
+dateCreated: 2020-11-27T02:39:26.673Z
 ---
 
 # Architecture

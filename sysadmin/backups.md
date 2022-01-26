@@ -2,9 +2,10 @@
 title: Backups
 description: 
 published: true
-date: 2021-04-15T15:48:20.532Z
+date: 2021-06-04T00:06:22.790Z
 tags: 
-editor: undefined
+editor: markdown
+dateCreated: 2020-07-13T23:33:28.608Z
 ---
 
 # VM Offsite Backups

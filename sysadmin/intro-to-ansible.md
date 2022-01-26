@@ -2,9 +2,10 @@
 title: Intro to Ansible
 description: For new and returning SysAdmins
 published: true
-date: 2021-04-15T15:48:31.675Z
+date: 2021-06-04T00:06:34.364Z
 tags: 
-editor: undefined
+editor: markdown
+dateCreated: 2020-07-09T23:46:26.328Z
 ---
 
 [Ansible](https://www.ansible.com/overview/how-ansible-works) is an incredibly powerful IT automation tool we use to configure and install software on servers

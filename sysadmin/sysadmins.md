@@ -2,9 +2,10 @@
 title: SysAdmins
 description: Everything the Technology side of the society has in its possession
 published: true
-date: 2021-09-05T15:01:21.002Z
+date: 2021-09-05T15:01:26.254Z
 tags: servers, sysadmin
 editor: markdown
+dateCreated: 2020-07-09T22:15:53.659Z
 ---
 
 # SysAdmins

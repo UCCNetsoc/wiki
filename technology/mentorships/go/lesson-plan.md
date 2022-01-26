@@ -2,9 +2,10 @@
 title: Golang - Lesson Plan
 description: 
 published: true
-date: 2021-04-15T15:49:09.044Z
+date: 2021-06-04T00:07:15.390Z
 tags: 
-editor: undefined
+editor: markdown
+dateCreated: 2020-10-25T15:55:58.255Z
 ---
 
 # Golang Lesson Plan

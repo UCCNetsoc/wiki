@@ -2,9 +2,10 @@
 title: Home
 description: UCC Netsoc's public wiki documenting the society, it's services, history and more
 published: true
-date: 2021-04-15T15:47:37.784Z
+date: 2021-06-04T00:05:40.825Z
 tags: 
-editor: undefined
+editor: markdown
+dateCreated: 2020-07-09T19:17:19.668Z
 ---
 
 ![wiki-banner-large.jpg](/assets/wiki-banner-large.jpg =860x)

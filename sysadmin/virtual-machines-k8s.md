@@ -2,9 +2,10 @@
 title: Virtual Machines - K8s
 description: 
 published: true
-date: 2021-04-15T15:48:48.813Z
+date: 2021-06-04T00:06:51.603Z
 tags: 
-editor: undefined
+editor: markdown
+dateCreated: 2020-11-14T21:11:00.558Z
 ---
 
 # Background
