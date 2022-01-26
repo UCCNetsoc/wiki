@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-01-23T17:35:05.931Z
+date: 2022-01-26T19:43:44.727Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -13,7 +13,7 @@ dateCreated: 2020-07-09T21:02:49.136Z
 
 | Academic Year | Chairperson   | Vice-Chairperson | Finance Officer   | Secretary      | Head SysAdmin        | Events Officer   | Equipment Officer | PROs                            | Esports Coordinator | OCMs                                           | SysAdmins                                                   | First Year Rep  | Ex-Officios  | Communications Officer |
 |---------------|---------------|------------------|-------------------|----------------|----------------------|------------------|-------------------|---------------------------------|---------------------|------------------------------------------------|-------------------------------------------------------------|-----------------|--------------|------------------------|
-| 2021/2022     | Aidan Molloy  |                  | Omar Sallam       | Senan Cavanagh | James Cotter | Warren Daly      | Hugo Blair | Nathan Carey, Max Hodor | Andrew Murphy | Luc Fitzgerald, Raymond Reynolds| Eric Moynihan, Thomas Galligan, Alan Panayotov, Reece Donovan, Ciarán Cotter, Colm Murphy | Rena Cahill-Quinn  | Oisín Aylward |                        |
+| 2021/2022     | Aidan Molloy  | Omar Sallam  | Omar Sallam       | Senan Cavanagh | James Cotter | Warren Daly      | Hugo Blair | Nathan Carey, Max Hodor | Andrew Murphy | Luc Fitzgerald, Raymond Reynolds| Eric Moynihan, Thomas Galligan, Alan Panayotov, Reece Donovan, Ciarán Cotter, Colm Murphy | Rena Cahill-Quinn  | Oisín Aylward, Michael Forde |                        |
 | 2020/2021     | Oisín Aylward |                  | Stephen O'Riordan | Omar Sallam    | Oisin Canty          | Michael Forde    | Luc Fitzgerald    | Nathan Carey, Warren Daly       |       Hugo Blair    | Aleksei Ivanov, Raymond Reynolds, Aidan Molloy | James Cotter, Arthan Jansen, Eric Moynihan, Thomas Galligan, Alan Panayotov | Jessica O'Leary | Cian McGrath |                        |
 | 2019/2020     | Cian McGrath  |                  | Karan Samani      | Omar Sallam    | Noah Santschi-Cooney | Michael Jeffries | Stephen O'Riordan | Ina Panayotova, Lauren McDonnel |Ciara Hicks (Chicks) |   Eric Moynihan, James Cotter                  | Colm Ó hIcí, Oisin Aylward, Michael Forde, Oisin Canty, Thomas Galligan   |  Aidan Molloy   |              |                |
 | 2018/2019     |   Evan Young  |                  |                   |                | Colm Ó hIcí          |                  |                   |                                 |                     |                                                |      Noah Santschi-Cooney, Oisin Canty, Oisín Aylward, Michael Forde, Fionn Kelleher  |                 |              |                        |
