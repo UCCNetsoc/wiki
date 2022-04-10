@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-04-10T13:56:44.374Z
+date: 2022-04-10T13:57:06.976Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -11,6 +11,7 @@ dateCreated: 2020-07-09T21:02:49.136Z
 # Committee
 [comment]: <> (Copy this table out to https://www.tablesgenerator.com/markdown_tables, parse and repaste it in here)
 
+<div style="overflow: auto">
 |   | Academic Year | Chairperson     | Vice-Chairperson | Finance Officer                                                                                            | Secretary      | Head SysAdmin        | Events Officer   | Equipment Officer | PROs                            | Esports Coordinator  | OCMs                                           | SysAdmins                                                                                 | First Year Rep    | Ex-Officios                  | Communications Officer |   |
 |---|---------------|-----------------|------------------|------------------------------------------------------------------------------------------------------------|----------------|----------------------|------------------|-------------------|---------------------------------|----------------------|------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------|------------------------------|------------------------|---|
 |   | 2022/2023     | Thomas Galligan |                  | [!](https://cdn.discordapp.com/emojis/796445998179811328.webp?size=4096&quality=lossless) Raymond Reynolds | Rena           | Reece Donovan        | Andy             |                   | Benpaste, Ethi/David Maye       |                      | Max Hodor                                      | Colm Murphy, Ciarán Cotter, Alan Panayotov                                                |                   | Aidan Molloy                 |                        |   |
@@ -28,7 +29,6 @@ dateCreated: 2020-07-09T21:02:49.136Z
 The title of HLM is awarded to anyone who has made significant contributions to the society.
 
 At the AGM each academic year, HLMs are nominated by members of Netsoc
-<div style="overflow: auto">
 | Name                 | Awarded on |
 |----------------------|------------|
 | Aidan Molloy         | AGM 2021   |
