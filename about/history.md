@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-04-10T14:01:44.361Z
+date: 2022-04-10T16:23:29.189Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -27,6 +27,8 @@ The title of HLM is awarded to anyone who has made significant contributions to 
 At the AGM each academic year, HLMs are nominated by members of Netsoc
 | Name                 | Awarded on |
 |----------------------|------------|
+| James Cotter         | AGM 2022   |
+| Reece Donovan        | AGM 2022   |
 | Aidan Molloy         | AGM 2021   |
 | Aisling O'Driscoll   | AGM 2021   |
 | Arthan Jansen        | AGM 2021   |
