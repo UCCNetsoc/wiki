@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-04-11T15:29:24.954Z
+date: 2022-04-11T15:36:00.347Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -26,6 +26,25 @@ dateCreated: 2020-07-09T21:02:49.136Z
 | First Year Rep      |                          |
 | Ex-Officios         | Aidan Molloy             |
 | SysAdmins           |                          |
+
+## 2021-2022
+
+| Position Title      | Name                     |
+|---------------------|--------------------------|
+| Chairperson         | Aidan Molloy     |
+| Vice-Chairperson    | Omar Sallam                                                                               |
+| Finance Officer     | Omar Sallam                                                                               |
+| Secretary           | Senan Cavanagh                                                                            |
+| Head SysAdmin       | James Cotter                                                                              |
+| Events Officer      | Warren Daly                                                                               |
+| Equipment Officer   | Hugo Blair                                                                                |
+| PROs                | Nathan Carey, Max Hodor                                                                   |
+| Esports Coordinator | Andrew Murphy                                                                             |
+| OCMs                | Luc Fitzgerald, Raymond Reynolds                                                          |
+| First Year Rep      | Rena Cahill-Quinn                                                                         |
+| Ex-Officios         | Oisín Aylward, Michael Forde                                                              |
+| SysAdmins           | Eric Moynihan, Thomas Galligan, Reece Donovan, Alan Panayotov, Ciaran Cotter, Colm Murphy |
+
 
 | Academic Year | Chairperson     | Vice-Chairperson | Finance Officer                                                                                            | Secretary      | Head SysAdmin        | Events Officer   | Equipment Officer | PROs                            | Esports Coordinator  | OCMs                                           | SysAdmins                                                                                 | First Year Rep    | Ex-Officios                  | Communications Officer |   |
 |---------------|-----------------|------------------|------------------------------------------------------------------------------------------------------------|----------------|----------------------|------------------|-------------------|---------------------------------|----------------------|------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------|------------------------------|------------------------|---|
