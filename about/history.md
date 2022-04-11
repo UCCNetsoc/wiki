@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-04-11T14:52:49.946Z
+date: 2022-04-11T15:29:24.954Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -10,6 +10,22 @@ dateCreated: 2020-07-09T21:02:49.136Z
 
 # Committee
 [comment]: <> (Copy this table out to https://www.tablesgenerator.com/markdown_tables, parse and repaste it in here)
+
+## 2022-2023
+| Position Title      | Name                     |
+|---------------------|--------------------------|
+| Chairperson         | Thomas Galligan          |
+| Finance Officer     | Raymond Reynolds         |
+| Secretary           | Rena Cahill-Quinn        |
+| Head SysAdmin       |                          |
+| Events Officer      | Andy Liu                 |
+| Equipment Officer   |                          |
+| PROs                | David Maye, Ben Terhorst |
+| Esports Coordinator |                          |
+| OCMs                | Max Hodor                |
+| First Year Rep      |                          |
+| Ex-Officios         | Aidan Molloy             |
+| SysAdmins           |                          |
 
 | Academic Year | Chairperson     | Vice-Chairperson | Finance Officer                                                                                            | Secretary      | Head SysAdmin        | Events Officer   | Equipment Officer | PROs                            | Esports Coordinator  | OCMs                                           | SysAdmins                                                                                 | First Year Rep    | Ex-Officios                  | Communications Officer |   |
 |---------------|-----------------|------------------|------------------------------------------------------------------------------------------------------------|----------------|----------------------|------------------|-------------------|---------------------------------|----------------------|------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------|------------------------------|------------------------|---|
