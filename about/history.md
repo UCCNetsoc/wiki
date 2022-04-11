@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-04-11T15:55:26.717Z
+date: 2022-04-11T15:56:44.673Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -40,8 +40,7 @@ dateCreated: 2020-07-09T21:02:49.136Z
 | Finance Officer     | Omar Sallam                                                                                              |
 | Secretary           | Senan Cavanagh                                                                                          |
 | Head SysAdmin       | James Cotter |
-																	
-| Events Officer      | Warren Daly                                                                                              |
+Events Officer      | Warren Daly                                                                                              |
 | Equipment Officer   | Hugo Blair                                                                                               |
 | PROs                | Benpastse,<br>Ethi/David Maye                                                                            |
 | Esports Coordinator | Andrew Murphy                                                                                            |
