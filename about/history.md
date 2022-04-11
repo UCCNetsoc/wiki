@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-04-10T16:23:29.189Z
+date: 2022-04-11T14:34:55.281Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -28,6 +28,13 @@ At the AGM each academic year, HLMs are nominated by members of Netsoc
 | Name                 | Awarded on |
 |----------------------|------------|
 | James Cotter         | AGM 2022   |
+| Rena Cahill-Quinn    | AGM 2022   |
+| Warren Daly          | AGM 2022   |
+| Nathan Carey         | AGM 2022   |
+| Hugo Blair           | AGM 2022   |
+| Jack Coleman         | AGM 2022   |
+| Ciaran O'Connell     | AGM 2022   |
+| Luc Fitzgerald       | AGM 2022   |
 | Reece Donovan        | AGM 2022   |
 | Aidan Molloy         | AGM 2021   |
 | Aisling O'Driscoll   | AGM 2021   |
