@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-04-11T15:48:15.940Z
+date: 2022-04-11T15:53:45.651Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -25,10 +25,11 @@ dateCreated: 2020-07-09T21:02:49.136Z
 | Chairperson     | Thomas Galligan                                  |
 | Finance Officer | Raymond Reynolds                                 |
 | Secretary       | Rena Cahill-Quinn                                |
+| Head SysAdmin   |                                                  |
 | Events Officer  | Andy Liu                                         |
-| PROs            | Benpaste,<br>Ethi/David Maye                     |
+| PROs            | Ben Terhorst,<br>David Maye                      |
 | OCMs            | Max Hodor                                        |
-| SysAdmins       | Ciarán Cotter,<br>Alan Panayotov,<br>Colm Murphy |
+| SysAdmins       |                                                  |
 | Ex-Officios     | Aidan Molloy                                     |
 
 ### <a name="21/22"></a>2021/2022
@@ -37,7 +38,9 @@ dateCreated: 2020-07-09T21:02:49.136Z
 | Chairperson         | Aidan Molloy                                                                                             |
 | Vice-Chairperson    | Omar Sallam                                                                                              |
 | Finance Officer     | Omar Sallam                                                                                              |
-| Secretary           | Senan Cavanagh                                                                                           |
+| Secretary           | Senan Cavanagh                                                                                          |
+| Head SysAdmin       | James Cotter
+																	
 | Events Officer      | Warren Daly                                                                                              |
 | Equipment Officer   | Hugo Blair                                                                                               |
 | PROs                | Benpastse,<br>Ethi/David Maye                                                                            |
@@ -130,11 +133,6 @@ dateCreated: 2020-07-09T21:02:49.136Z
 
 ---
 -->
-# Subcommittees
-| Academic Year | SysAdmins                                                                                               | Gaming Team          | Devcon             |
-|---------------|---------------------------------------------------------------------------------------------------------|----------------------|--------------------|
-| 2021-2022     | James Cotter, Thomas Galligan, Reece Donovan, Alan Panayotov, Ciaran Cotter, Colm Murphy                | Ethi/David, Andy Liu | Rena Cathall-Quinn |
-| 2020-2021     | Oisin Canty, Eric Moynihan, James Cotter, Thomas Galligan, Reece Donovan, Alan Panayotov, Ciaran Cotter | Hugo Blair           |                    |
 
 # Honorary Lifetime Members (HLMs)
 The title of HLM is awarded to anyone who has made significant contributions to the society.
