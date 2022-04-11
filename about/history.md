@@ -25,55 +25,102 @@ dateCreated: 2020-07-09T21:02:49.136Z
 - [2020-2021](#20/21)
 ### <a name="22/23"></a>2022/2023
 
-| Name             | Position          |
-|------------------|-------------------|
-| Thomas Galligan  | Chairperson       |
-| Raymond Reynolds | Finance Officer   |
-| Rena             | Secretary         |
-| Reece Donovan    | Head SysAdmin     |
-| Andy             | Equipment Officer |
-| Benpaste         | PRO               |
-| Ethi/David Maye  | PRO               |
-| Max Hodor        | OCM               |
-| Colm Murphy      | SysAdmin          |
-| Ciarán Cotter    | SysAdmin          |
-| Alan Panayotov   | SysAdmin          |
-| Aidan Molloy     | Ex-Officio        |
-### <a name="21/22"></a>2021/2022
+| Position        | Name                                             |
+|-----------------|--------------------------------------------------|
+| Chairperson     | Thomas Galligan                                  |
+| Finance Officer | Raymond Reynolds                                 |
+| Secretary       | Rena Cahill-Quinn                                |
+| Events Officer  | Andy Liu                                         |
+| PROs            | Benpaste,<br>Ethi/David Maye                     |
+| OCMs            | Max Hodor                                        |
+| SysAdmins       | Ciarán Cotter,<br>Alan Panayotov,<br>Colm Murphy |
+| Ex-Officios     | Aidan Molloy                                     |
 
-| Name              | Position                          |
-|-------------------|-----------------------------------|
-| Aidan Molloy      | Chairperson                       |
-| Omar Sallam       | Vice-Chairperson, Finance Officer |
-| Senan Cavanagh    | Secratary                         |
-| James Cotter      | Head SysAdmin                     |
-| Warren Daly       | Events Officer                    |
-| Hugo Blair        | Equipment Officer                 |
-| Nathan Carey      | PRO                               |
-| Max Hodor         | PRo                               |
-| Andrew Murphy     | Esports Coordinator               |
-| Luc Fitzgeralds   | OCM                               |
-| Raymond Reynolds  | OCM                               |
-| Eric Moynihan     | SysAdmin                          |
-| Thomas Galligan   | SysAdmin                          |
-| Alan Panayotov    | SysAdmin                          |
-| Ciarán Cotter     | SysAdmin                          |
-| Reece Donovan     | SysAdmin                          |
-| Colm Murphy       | SysAdmin                          |
-| Rena Cahill-Quinn | First Year Rep                    |
-| Oisín Aylward     | Ex-Officio                        |
-| Michael Forde     | Ex-Officio                        |
+### <a name="21/22"></a>2021/2022
+| Position            | Name                                                                                                     |
+|---------------------|----------------------------------------------------------------------------------------------------------|
+| Chairperson         | Aidan Molloy                                                                                             |
+| Vice-Chairperson    | Omar Sallam                                                                                              |
+| Finance Officer     | Omar Sallam                                                                                              |
+| Secretary           | Senan Cavanagh                                                                                           |
+| Events Officer      | Warren Daly                                                                                              |
+| Equipment Officer   | Hugo Blair                                                                                               |
+| PROs                | Benpastse,<br>Ethi/David Maye                                                                            |
+| Esports Coordinator | Andrew Murphy                                                                                            |
+| OCMs                | Luc Fitzgeralds,<br>Raymond Reynolds                                                                     |
+| SysAdmins           | Thomas Galligan,<br>Eric Moynihan,<br>Reece Donovan,<br>Ciarán Cotter,<br>Colm Murphy,<br>Alan Panayotov |
+| First year Rep      | Rena Cahill-Quinn                                                                                        |
+| Ex-Officios         | Oisín Aylward<br>Michael Forde                                                                           |
 ### <a name="20/21"></a>2020/2021
+
+| Position            | Name                                                                                    |
+|---------------------|-----------------------------------------------------------------------------------------|
+| Chairperson         | Oisín Aylward                                                                           |
+| Finance Officer     | Stephen O'Riordan                                                                       |
+| Secretary           | Omar Sallam                                                                             |
+| Head SysAdmin       | Oisín Canty                                                                             |
+| Events Officer      | Michael Forde                                                                           |
+| Equipment Officer   | Luc Fitzgerald                                                                          |
+| PROs                | Nathan Carey,<br>Warren Daly                                                            |
+| Esports Coordinator | Hugo Blair                                                                              |
+| OCMs                | Aleksei Ivanov,<br>Raymond Reynolds,<br>Aidan Molloy                                    |
+| SysAdmins           | James Cotter,<br>Arthan Jansen,<br>Eric Moynihan,<br>Thomas Galligan,<br>Alan Panayotov |
+| First Year Rep      | Jessica O'Leary                                                                         |
+| Ex-Officios         | Cian McGrath                                                                            |
 
 ### <a name="19/20"></a>2019/2020
 
+| Position            | Name                                                                                |
+|---------------------|-------------------------------------------------------------------------------------|
+| Chairperson         | Cian McGrath                                                                        |
+| Finance Officer     | Karan Samani                                                                        |
+| Secretary           | Omar Sallam                                                                         |
+| Head SysAdmin       | Noah Santschi-Cooney                                                                |
+| Events Officer      | Michael Jeffries                                                                    |
+| Equipment Officer   | Stephen O'Riordan                                                                   |
+| PROs                | Ina Panayotova,<br>Lauren McDonnel                                                  |
+| Esports Coordinator | Ciara Hicks (Chicks)                                                                |
+| OCMs                | Eric Moynihan,<br>James Cotter                                                      |
+| SysAdmins           | Colm Ó Hicí,<br>Oisín Aylward,<br>Michael Forde,<br>Oisín Canty,<br>Thomas Galligan |
+| First Year Rep      | Aidan Molloy                                                                        |
+
 ### <a name="18/19"></a>2018/2019
+
+| Position      | Name                                                                                        |
+|---------------|---------------------------------------------------------------------------------------------|
+| Chairperson   | Evan young                                                                                  |
+| Head SysAdmin | Colm Ó hIcí                                                                                 |
+| SysAdmins     | Noah Santschi-Conney,<br>Oisín Canty,<br>Oisín Aylward,<br>Michael Forde,<br>Fionn Kelleher |
 
 ### <a name="17/18"></a>2017/2018
 
-### <a name="16/17"></a>2016/2017
+
+| Position          | Name                                                     |
+|-------------------|----------------------------------------------------------|
+| Chairperson       | Hassan Baker                                             |
+| Vice-Chairperson  | Evan Young                                               |
+| Secretary         | Shiva Subedi                                             |
+| Head SysAdmin     | Adam Gillessen                                           |
+| Events Officer    | Jason Power                                              |
+| Equipment Officer | Alex Kelleher                                            |
+| PROs              | Oscar McCauly,<br>Adam Greaney                           |
+| OCMs              | Karan Samani,<br>Sam Drugan,<br>Douglas Lordan           |
+| SysAdmins         | Freya Broderick,<br>Colm Ó hIcí,<br>Noah Santschi-Cooney |
+| First Year Rep    | Fionn Kelleher                                           |
 
 ### <a name="15/16"></a>2015/2016
+
+| Position               | Name                                               |
+|------------------------|----------------------------------------------------|
+| Chairperson            | Evan Smith                                         |
+| Secretary              | Freyja Quigley                                     |
+| Head SysAdmin          | Joe McEvoy                                         |
+| Events Officer         | Michael Collins                                    |
+| Equipment Officer      | Declan Reid                                        |
+| PROs                   | Mervyn Galvin,<br>Daniel Heffernan                 |
+| OCMs                   | Anthony Hayes,<br>Denise Crowley,<br>Eimear Crotty |
+| First Year Rep         | Rob Power                                          |
+| Communications Officer | Matt Carrick                                       |
 
 # Honorary Lifetime Members (HLMs)
 The title of HLM is awarded to anyone who has made significant contributions to the society.
