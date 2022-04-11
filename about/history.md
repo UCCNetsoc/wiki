@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-04-11T15:53:45.651Z
+date: 2022-04-11T15:55:26.717Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -39,7 +39,7 @@ dateCreated: 2020-07-09T21:02:49.136Z
 | Vice-Chairperson    | Omar Sallam                                                                                              |
 | Finance Officer     | Omar Sallam                                                                                              |
 | Secretary           | Senan Cavanagh                                                                                          |
-| Head SysAdmin       | James Cotter
+| Head SysAdmin       | James Cotter |
 																	
 | Events Officer      | Warren Daly                                                                                              |
 | Equipment Officer   | Hugo Blair                                                                                               |
