@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-04-12T13:36:02.553Z
+date: 2022-04-12T13:37:55.316Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -32,7 +32,7 @@ dateCreated: 2020-07-09T21:02:49.136Z
 | SysAdmins       |                                                  |
 | Ex-Officios     | Aidan Molloy                                     |
 
-### 2021/2022
+<h3 id="21-22">2021/2022</h3>
 | Position            | Name                                                                                                     |
 |---------------------|----------------------------------------------------------------------------------------------------------|
 | Chairperson         | Aidan Molloy                                                                                             |
@@ -48,7 +48,7 @@ Events Officer      | Warren Daly                                               
 | SysAdmins           | Thomas Galligan,<br>Eric Moynihan,<br>Reece Donovan,<br>Ciarán Cotter,<br>Colm Murphy,<br>Alan Panayotov |
 | First year Rep      | Rena Cahill-Quinn                                                                                        |
 | Ex-Officios         | Oisín Aylward<br>Michael Forde                                                                           |
-### <a id="20/21"></a>2020/2021
+<h3 id="20-21">2020/2021</h3>
 
 | Position            | Name                                                                                    |
 |---------------------|-----------------------------------------------------------------------------------------|
@@ -65,7 +65,7 @@ Events Officer      | Warren Daly                                               
 | First Year Rep      | Jessica O'Leary                                                                         |
 | Ex-Officios         | Cian McGrath                                                                            |
 
-### <a id="19/20"></a>2019/2020
+<h1 id="19/20">2019/2020</h3>
 
 | Position            | Name                                                                                |
 |---------------------|-------------------------------------------------------------------------------------|
@@ -81,7 +81,7 @@ Events Officer      | Warren Daly                                               
 | SysAdmins           | Colm Ó Hicí,<br>Oisín Aylward,<br>Michael Forde,<br>Oisín Canty,<br>Thomas Galligan |
 | First Year Rep      | Aidan Molloy                                                                        |
 
-### <a id="18-19"></a>2018/2019
+<h3 id="18-19">2018/2019</h3>
 
 | Position      | Name                                                                                        |
 |---------------|---------------------------------------------------------------------------------------------|
@@ -89,7 +89,7 @@ Events Officer      | Warren Daly                                               
 | Head SysAdmin | Colm Ó hIcí                                                                                 |
 | SysAdmins     | Noah Santschi-Conney,<br>Oisín Canty,<br>Oisín Aylward,<br>Michael Forde,<br>Fionn Kelleher |
 
-### <a id="17-18"></a>2017/2018
+<h3 id="17-18">2017/2018</h3>
 
 
 | Position          | Name                                                     |
@@ -105,7 +105,7 @@ Events Officer      | Warren Daly                                               
 | SysAdmins         | Freya Broderick,<br>Colm Ó hIcí,<br>Noah Santschi-Cooney |
 | First Year Rep    | Fionn Kelleher                                           |
 
-### <a id="15-16"></a>2015/2016
+<h3 id="15-16">2015/2016</h3>
 
 | Position               | Name                                               |
 |------------------------|----------------------------------------------------|
