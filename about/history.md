@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-04-12T13:33:55.534Z
+date: 2022-04-12T13:34:19.934Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -11,7 +11,7 @@ dateCreated: 2020-07-09T21:02:49.136Z
 # Committee
 [comment]: <> (Copy this table out to https://www.tablesgenerator.com/markdown_tables, parse and repaste it in here)
 
-- [2022-2023](#22-23)
+- [2022-2023](#h-22-23)
 - [2021-2022](#21/22)
 - [2020-2021](#20/21)
 - [2019/2020](#19/20)
