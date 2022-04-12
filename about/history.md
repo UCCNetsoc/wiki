@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-04-12T13:35:02.819Z
+date: 2022-04-12T13:36:02.553Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -11,14 +11,14 @@ dateCreated: 2020-07-09T21:02:49.136Z
 # Committee
 [comment]: <> (Copy this table out to https://www.tablesgenerator.com/markdown_tables, parse and repaste it in here)
 
-- [2022-2023](#h-22/23)
-- [2021-2022](#21/22)
-- [2020-2021](#20/21)
-- [2019/2020](#19/20)
-- [2018/2019](#18/19)
-- [2017/2018](#17/18)
-- [2015/2016](#15/16)
-<h3 id="22/23">2022/2023</h3>
+- [2022-2023](#h-22-23)
+- [2021-2022](#h-21-22)
+- [2020-2021](#h-20-21)
+- [2019/2020](#h-19-20)
+- [2018/2019](#h-18-19)
+- [2017/2018](#h-17-18)
+- [2015/2016](#h-15-16)
+<h3 id="22-23">2022/2023</h3>
 
 | Position        | Name                                             |
 |-----------------|--------------------------------------------------|
@@ -81,7 +81,7 @@ Events Officer      | Warren Daly                                               
 | SysAdmins           | Colm Ó Hicí,<br>Oisín Aylward,<br>Michael Forde,<br>Oisín Canty,<br>Thomas Galligan |
 | First Year Rep      | Aidan Molloy                                                                        |
 
-### <a id="18/19"></a>2018/2019
+### <a id="18-19"></a>2018/2019
 
 | Position      | Name                                                                                        |
 |---------------|---------------------------------------------------------------------------------------------|
@@ -89,7 +89,7 @@ Events Officer      | Warren Daly                                               
 | Head SysAdmin | Colm Ó hIcí                                                                                 |
 | SysAdmins     | Noah Santschi-Conney,<br>Oisín Canty,<br>Oisín Aylward,<br>Michael Forde,<br>Fionn Kelleher |
 
-### <a id="17/18"></a>2017/2018
+### <a id="17-18"></a>2017/2018
 
 
 | Position          | Name                                                     |
@@ -105,7 +105,7 @@ Events Officer      | Warren Daly                                               
 | SysAdmins         | Freya Broderick,<br>Colm Ó hIcí,<br>Noah Santschi-Cooney |
 | First Year Rep    | Fionn Kelleher                                           |
 
-### <a id="15/16"></a>2015/2016
+### <a id="15-16"></a>2015/2016
 
 | Position               | Name                                               |
 |------------------------|----------------------------------------------------|
