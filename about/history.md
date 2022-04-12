@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-04-12T13:37:55.316Z
+date: 2022-04-12T14:07:41.089Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -33,6 +33,7 @@ dateCreated: 2020-07-09T21:02:49.136Z
 | Ex-Officios     | Aidan Molloy                                     |
 
 <h3 id="21-22">2021/2022</h3>
+
 | Position            | Name                                                                                                     |
 |---------------------|----------------------------------------------------------------------------------------------------------|
 | Chairperson         | Aidan Molloy                                                                                             |
