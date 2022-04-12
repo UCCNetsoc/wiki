@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-04-11T15:56:44.673Z
+date: 2022-04-12T13:31:04.628Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -18,7 +18,7 @@ dateCreated: 2020-07-09T21:02:49.136Z
 - [2018/2019](#18/19)
 - [2017/2018](#17/18)
 - [2015/2016](#15/16)
-### <a name="22/23"></a>2022/2023
+### <a id="22/23"></a>2022/2023
 
 | Position        | Name                                             |
 |-----------------|--------------------------------------------------|
@@ -32,7 +32,7 @@ dateCreated: 2020-07-09T21:02:49.136Z
 | SysAdmins       |                                                  |
 | Ex-Officios     | Aidan Molloy                                     |
 
-### <a name="21/22"></a>2021/2022
+### <a id="21/22"></a>2021/2022
 | Position            | Name                                                                                                     |
 |---------------------|----------------------------------------------------------------------------------------------------------|
 | Chairperson         | Aidan Molloy                                                                                             |
@@ -48,7 +48,7 @@ Events Officer      | Warren Daly                                               
 | SysAdmins           | Thomas Galligan,<br>Eric Moynihan,<br>Reece Donovan,<br>Ciarán Cotter,<br>Colm Murphy,<br>Alan Panayotov |
 | First year Rep      | Rena Cahill-Quinn                                                                                        |
 | Ex-Officios         | Oisín Aylward<br>Michael Forde                                                                           |
-### <a name="20/21"></a>2020/2021
+### <a id="20/21"></a>2020/2021
 
 | Position            | Name                                                                                    |
 |---------------------|-----------------------------------------------------------------------------------------|
@@ -65,7 +65,7 @@ Events Officer      | Warren Daly                                               
 | First Year Rep      | Jessica O'Leary                                                                         |
 | Ex-Officios         | Cian McGrath                                                                            |
 
-### <a name="19/20"></a>2019/2020
+### <a id="19/20"></a>2019/2020
 
 | Position            | Name                                                                                |
 |---------------------|-------------------------------------------------------------------------------------|
@@ -81,7 +81,7 @@ Events Officer      | Warren Daly                                               
 | SysAdmins           | Colm Ó Hicí,<br>Oisín Aylward,<br>Michael Forde,<br>Oisín Canty,<br>Thomas Galligan |
 | First Year Rep      | Aidan Molloy                                                                        |
 
-### <a name="18/19"></a>2018/2019
+### <a id="18/19"></a>2018/2019
 
 | Position      | Name                                                                                        |
 |---------------|---------------------------------------------------------------------------------------------|
@@ -89,7 +89,7 @@ Events Officer      | Warren Daly                                               
 | Head SysAdmin | Colm Ó hIcí                                                                                 |
 | SysAdmins     | Noah Santschi-Conney,<br>Oisín Canty,<br>Oisín Aylward,<br>Michael Forde,<br>Fionn Kelleher |
 
-### <a name="17/18"></a>2017/2018
+### <a id="17/18"></a>2017/2018
 
 
 | Position          | Name                                                     |
@@ -105,7 +105,7 @@ Events Officer      | Warren Daly                                               
 | SysAdmins         | Freya Broderick,<br>Colm Ó hIcí,<br>Noah Santschi-Cooney |
 | First Year Rep    | Fionn Kelleher                                           |
 
-### <a name="15/16"></a>2015/2016
+### <a id="15/16"></a>2015/2016
 
 | Position               | Name                                               |
 |------------------------|----------------------------------------------------|
