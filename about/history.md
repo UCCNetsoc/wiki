@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-04-12T14:07:41.089Z
+date: 2022-06-05T11:30:40.982Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -25,7 +25,7 @@ dateCreated: 2020-07-09T21:02:49.136Z
 | Chairperson     | Thomas Galligan                                  |
 | Finance Officer | Raymond Reynolds                                 |
 | Secretary       | Rena Cahill-Quinn                                |
-| Head SysAdmin   |                                                  |
+| Head SysAdmin   | Reece Donovan                                    |
 | Events Officer  | Andy Liu                                         |
 | PROs            | Ben Terhorst,<br>David Maye                      |
 | OCMs            | Max Hodor                                        |
@@ -101,7 +101,7 @@ Events Officer      | Warren Daly                                               
 | Head SysAdmin     | Adam Gillessen                                           |
 | Events Officer    | Jason Power                                              |
 | Equipment Officer | Alex Kelleher                                            |
-| PROs              | Oscar McCauly,<br>Adam Greaney                           |
+| PROs              | Olivia Mc Auley,<br>Adam Greaney                           |
 | OCMs              | Karan Samani,<br>Sam Drugan,<br>Douglas Lordan           |
 | SysAdmins         | Freya Broderick,<br>Colm Ó hIcí,<br>Noah Santschi-Cooney |
 | First Year Rep    | Fionn Kelleher                                           |
@@ -172,7 +172,7 @@ At the AGM each academic year, HLMs are nominated by members of Netsoc
 | Hassan Baker         | AGM 2018   |
 | Freya Broderick      | AGM 2018   |
 | Alex Kelleher        | AGM 2018   |
-| Oscar McAuley        | AGM 2018   |
+| Olivia Mc Auley      | AGM 2018   |
 | Adam Gillessen       | AGM 2018   |
 | Jason Power          | AGM 2018   |
 | Jerry Sweeney        | EGM 2017   |
