@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-06-05T11:30:40.982Z
+date: 2022-06-26T17:31:53.736Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -29,7 +29,7 @@ dateCreated: 2020-07-09T21:02:49.136Z
 | Events Officer  | Andy Liu                                         |
 | PROs            | Ben Terhorst,<br>David Maye                      |
 | OCMs            | Max Hodor                                        |
-| SysAdmins       |                                                  |
+| SysAdmins       | Colm Murphy<br>Alan Panayotov                                                 |
 | Ex-Officios     | Aidan Molloy                                     |
 
 <h3 id="21-22">2021/2022</h3>
