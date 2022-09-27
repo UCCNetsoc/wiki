@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-06-26T17:33:37.453Z
+date: 2022-09-27T12:16:35.400Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -20,17 +20,18 @@ dateCreated: 2020-07-09T21:02:49.136Z
 - [2015/2016](#h-15-16)
 <h3 id="22-23">2022/2023</h3>
 
-| Position        | Name                                             |
-|-----------------|--------------------------------------------------|
-| Chairperson     | Thomas Galligan                                  |
-| Finance Officer | Raymond Reynolds                                 |
-| Secretary       | Rena Cahill-Quinn                                |
-| Head SysAdmin   | Reece Donovan                                    |
-| Events Officer  | Andy Liu                                         |
-| PROs            | Ben Terhorst,<br>David Maye                      |
-| OCMs            | Max Hodor                                        |
-| SysAdmins       | Colm Murphy,<br>Alan Panayotov                   |
-| Ex-Officios     | Aidan Molloy                                     |
+| Position        		| Name(s)                                          		 |
+|---------------------|------------------------------------------------------|
+| Chairperson     		| Thomas Galligan                                  |
+| Finance Officer 		| Raymond Reynolds                                 |
+| Secretary       		| Rena Cahill-Quinn                                |
+| Head SysAdmin   		| Reece Donovan                                    |
+| Events Officer  		| Andy Liu                                         |
+| PROs            		| Ben Terhorst,<br>David Maye                      |
+| Esports Coordinator | Ross Mc Loughlin
+| OCMs            		| Max Hodor                                        |
+| SysAdmins       		| Colm Murphy,<br>Alan Panayotov<br>Meabh Doyle<br>Dylan Mulcahy|
+| Ex-Officios     		| Aidan Molloy                                     |
 
 <h3 id="21-22">2021/2022</h3>
 
