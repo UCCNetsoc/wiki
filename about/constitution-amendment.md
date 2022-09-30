@@ -2,7 +2,7 @@
 title: Constitution-Amendment
 description: 
 published: true
-date: 2022-09-30T20:25:32.184Z
+date: 2022-09-30T20:26:50.766Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-30T20:25:32.184Z
@@ -121,7 +121,7 @@ Constitution
 
         1.  The Public Relations Officers will be responsible for all the Society’s publicity.
         2.  <span id="anchor-2"></span>The PRO’s will ensure that posters are designed and visible on campus two weeks before events as well as being available to the rest of the Committee for further promotion. All media designed should endeavour to be as accessible as possible.
-  3.  The PRO’s, in conjunction with the Head Sys<span class="gone">tems’ Administrator</span><span class="added">Admin</span>, will maintain the Society’s online presence in so far as it relates to publicity of events to members.
+  			3.  The PRO’s, in conjunction with the Head Sys<span class="gone">tems’ Administrator</span><span class="added">Admin</span>, will maintain the Society’s online presence in so far as it relates to publicity of events to members.
         4.  The PRO’s shall maintain a repository of all media published by the Society.
 
     10. Esports Co-Ordinator
