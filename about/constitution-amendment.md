@@ -2,10 +2,22 @@
 title: Constitution-Amendment
 description: 
 published: true
-date: 2022-09-30T20:26:50.766Z
+date: 2022-09-30T21:23:07.305Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-30T20:25:32.184Z
+---
+
+# Summary
+
+ - "HLMs" (Honorary Life Members) will only be voted in at AGMs, and will be capped to a maximum of 4.
+ - "SysAdmins" are to be full committee positions - instead of not being on the committee, but still holding voting power, as before.
+ - Changing spelling of "System Administrator" to "SysAdmin" (including "Head SysAdmin")
+ - Removing "Gaming Team Member" as a standalone committee position.
+ - Removing "First Year Gaming Team Member" as a committee position.
+- The "Gaming Team Subcommittee" will include the "First Year Representative", and no longer the now-removed positions.
+- The "Esports Officer" line has been removed - it seems to have been added previously in error, as there is no "Esports Officer". Replaced by "Esports Co-Ordinator".
+
 ---
 
 Constitution
