@@ -2,7 +2,7 @@
 title: Hosting Guide - Minecraft
 description: 
 published: true
-date: 2021-06-04T00:06:05.519Z
+date: 2022-10-02T21:37:33.965Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-16T03:03:00.731Z
@@ -45,7 +45,7 @@ dateCreated: 2021-01-16T03:03:00.731Z
 ## Run Minecraft (inside Docker)
 
 * Run the command:
-	* `docker run -d -p 25565:25565 -e ENABLE_AUTOPAUSE=TRUE -e EULA=TRUE --restart always --name mc itzg/minecraft-server:java16-openj9`
+	* `docker run -d -p 25565:25565 -e ENABLE_AUTOPAUSE=TRUE -e EULA=TRUE --restart always --name mc itzg/minecraft-server:java17-openj9`
 	* This will download a Docker image (think of it like an easy way to package software) 
   * It will then run Minecraft and bind it to the port given
   
