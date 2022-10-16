@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-09-27T12:16:35.400Z
+date: 2022-10-16T18:12:16.676Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -27,10 +27,12 @@ dateCreated: 2020-07-09T21:02:49.136Z
 | Secretary       		| Rena Cahill-Quinn                                |
 | Head SysAdmin   		| Reece Donovan                                    |
 | Events Officer  		| Andy Liu                                         |
+| Equipment Officer   | Hikmat Babalola                                  |
 | PROs            		| Ben Terhorst,<br>David Maye                      |
 | Esports Coordinator | Ross Mc Loughlin
-| OCMs            		| Max Hodor                                        |
-| SysAdmins       		| Colm Murphy,<br>Alan Panayotov<br>Meabh Doyle<br>Dylan Mulcahy|
+| OCMs            		| Max Hodor<br>Albert Cullins                     |
+| SysAdmins       		| Colm Murphy<br>Alan Panayotov<br>Meabh Doyle<br>Dylan Mulcahy|
+| First Year Rep      | Aleksy Siek |
 | Ex-Officios     		| Aidan Molloy                                     |
 
 <h3 id="21-22">2021/2022</h3>
@@ -44,11 +46,11 @@ dateCreated: 2020-07-09T21:02:49.136Z
 | Head SysAdmin       | James Cotter |
 Events Officer      | Warren Daly                                                                                              |
 | Equipment Officer   | Hugo Blair                                                                                               |
-| PROs                | Benpastse,<br>Ethi/David Maye                                                                            |
+| PROs                | Benpastse<br>Ethi/David Maye                                                                            |
 | Esports Coordinator | Andrew Murphy                                                                                            |
-| OCMs                | Luc Fitzgeralds,<br>Raymond Reynolds                                                                     |
-| SysAdmins           | Thomas Galligan,<br>Eric Moynihan,<br>Reece Donovan,<br>Ciarán Cotter,<br>Colm Murphy,<br>Alan Panayotov |
-| First year Rep      | Rena Cahill-Quinn                                                                                        |
+| OCMs                | Luc Fitzgeralds<br>Raymond Reynolds                                                                     |
+| SysAdmins           | Thomas Galligan<br>Eric Moynihan<br>Reece Donovan<br>Ciarán Cotter<br>Colm Murphy<br>Alan Panayotov |
+| First Year Rep      | Rena Cahill-Quinn                                                                                        |
 | Ex-Officios         | Oisín Aylward<br>Michael Forde                                                                           |
 <h3 id="20-21">2020/2021</h3>
 
@@ -60,10 +62,10 @@ Events Officer      | Warren Daly                                               
 | Head SysAdmin       | Oisín Canty                                                                             |
 | Events Officer      | Michael Forde                                                                           |
 | Equipment Officer   | Luc Fitzgerald                                                                          |
-| PROs                | Nathan Carey,<br>Warren Daly                                                            |
+| PROs                | Nathan Carey<br>Warren Daly                                                            |
 | Esports Coordinator | Hugo Blair                                                                              |
-| OCMs                | Aleksei Ivanov,<br>Raymond Reynolds,<br>Aidan Molloy                                    |
-| SysAdmins           | James Cotter,<br>Arthan Jansen,<br>Eric Moynihan,<br>Thomas Galligan,<br>Alan Panayotov |
+| OCMs                | Aleksei Ivanov<br>Raymond Reynolds<br>Aidan Molloy                                    |
+| SysAdmins           | James Cotter<br>Arthan Jansen<br>Eric Moynihan<br>Thomas Galligan<br>Alan Panayotov |
 | First Year Rep      | Jessica O'Leary                                                                         |
 | Ex-Officios         | Cian McGrath                                                                            |
 
@@ -77,10 +79,10 @@ Events Officer      | Warren Daly                                               
 | Head SysAdmin       | Noah Santschi-Cooney                                                                |
 | Events Officer      | Michael Jeffries                                                                    |
 | Equipment Officer   | Stephen O'Riordan                                                                   |
-| PROs                | Ina Panayotova,<br>Lauren McDonnel                                                  |
+| PROs                | Ina Panayotova<br>Lauren McDonnel                                                  |
 | Esports Coordinator | Ciara Hicks (Chicks)                                                                |
-| OCMs                | Eric Moynihan,<br>James Cotter                                                      |
-| SysAdmins           | Colm Ó Hicí,<br>Oisín Aylward,<br>Michael Forde,<br>Oisín Canty,<br>Thomas Galligan |
+| OCMs                | Eric Moynihan<br>James Cotter                                                      |
+| SysAdmins           | Colm Ó Hicí<br>Oisín Aylward<br>Michael Forde<br>Oisín Canty<br>Thomas Galligan |
 | First Year Rep      | Aidan Molloy                                                                        |
 
 <h3 id="18-19">2018/2019</h3>
@@ -89,7 +91,7 @@ Events Officer      | Warren Daly                                               
 |---------------|---------------------------------------------------------------------------------------------|
 | Chairperson   | Evan young                                                                                  |
 | Head SysAdmin | Colm Ó hIcí                                                                                 |
-| SysAdmins     | Noah Santschi-Conney,<br>Oisín Canty,<br>Oisín Aylward,<br>Michael Forde,<br>Fionn Kelleher |
+| SysAdmins     | Noah Santschi-Conney<br>Oisín Canty<br>Oisín Aylward<br>Michael Forde<br>Fionn Kelleher |
 
 <h3 id="17-18">2017/2018</h3>
 
@@ -102,9 +104,9 @@ Events Officer      | Warren Daly                                               
 | Head SysAdmin     | Adam Gillessen                                           |
 | Events Officer    | Jason Power                                              |
 | Equipment Officer | Alex Kelleher                                            |
-| PROs              | Olivia Mc Auley,<br>Adam Greaney                           |
-| OCMs              | Karan Samani,<br>Sam Drugan,<br>Douglas Lordan           |
-| SysAdmins         | Freya Broderick,<br>Colm Ó hIcí,<br>Noah Santschi-Cooney |
+| PROs              | Olivia Mc Auley<br>Adam Greaney                           |
+| OCMs              | Karan Samani<br>Sam Drugan<br>Douglas Lordan           |
+| SysAdmins         | Freya Broderick<br>Colm Ó hIcí<br>Noah Santschi-Cooney |
 | First Year Rep    | Fionn Kelleher                                           |
 
 <h3 id="15-16">2015/2016</h3>
@@ -116,8 +118,8 @@ Events Officer      | Warren Daly                                               
 | Head SysAdmin          | Joe McEvoy                                         |
 | Events Officer         | Michael Collins                                    |
 | Equipment Officer      | Declan Reid                                        |
-| PROs                   | Mervyn Galvin,<br>Daniel Heffernan                 |
-| OCMs                   | Anthony Hayes,<br>Denise Crowley,<br>Eimear Crotty |
+| PROs                   | Mervyn Galvin<br>Daniel Heffernan                 |
+| OCMs                   | Anthony Hayes<br>Denise Crowley<br>Eimear Crotty |
 | First Year Rep         | Rob Power                                          |
 | Communications Officer | Matt Carrick                                       |
 
