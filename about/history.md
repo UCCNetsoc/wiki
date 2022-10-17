@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-10-16T18:12:16.676Z
+date: 2022-10-17T10:40:21.651Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -30,7 +30,7 @@ dateCreated: 2020-07-09T21:02:49.136Z
 | Equipment Officer   | Hikmat Babalola                                  |
 | PROs            		| Ben Terhorst,<br>David Maye                      |
 | Esports Coordinator | Ross Mc Loughlin
-| OCMs            		| Max Hodor<br>Albert Cullins                     |
+| OCMs            		| Max Hodor<br>Albert Cullen                     |
 | SysAdmins       		| Colm Murphy<br>Alan Panayotov<br>Meabh Doyle<br>Dylan Mulcahy|
 | First Year Rep      | Aleksy Siek |
 | Ex-Officios     		| Aidan Molloy                                     |
