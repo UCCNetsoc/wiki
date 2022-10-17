@@ -2,22 +2,10 @@
 title: Constitution-Amendment
 description: 
 published: true
-date: 2022-09-30T21:23:07.305Z
+date: 2022-10-17T10:21:34.656Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-30T20:25:32.184Z
----
-
-# Summary
-
- - "HLMs" (Honorary Life Members) will only be voted in at AGMs, and will be capped to a maximum of 4.
- - "SysAdmins" are to be full committee positions - instead of not being on the committee, but still holding voting power, as before.
- - Changing spelling of "System Administrator" to "SysAdmin" (including "Head SysAdmin")
- - Removing "Gaming Team Member" as a standalone committee position.
- - Removing "First Year Gaming Team Member" as a committee position.
-- The "Gaming Team Subcommittee" will include the "First Year Representative", and no longer the now-removed positions.
-- The "Esports Officer" line has been removed - it seems to have been added previously in error, as there is no "Esports Officer". Replaced by "Esports Co-Ordinator".
-
 ---
 
 Constitution
@@ -48,7 +36,7 @@ Constitution
     5.  There shall be two classes of membership:
 
         1.  Ordinary membership of the Society, which shall be available to all University students and staff.
-        2.  Honorary life membership, which will be awarded to any Ordinary member of the Society who is recognised<span class="added"> by other members</span> as having made<span class="gone"> an</span> exceptional contribution<span class="added">(s)</span> to the Society. Honorary life membership will be decided by a popular vote of all eligible members at <span class="gone">either an</span>the AGM<span class="gone">or EGM</span><span class="added">, capped to a maximum of 4 annually</span>. A list of honorary life members will be kept as an appendix to this constitution.
+        2.  Honorary life membership, which will be awarded to any Ordinary member of the Society who is recognised by other members as having made exceptional contribution(s) to the Society. Honorary life membership will be decided by a popular vote of all eligible members at the AGM, capped to a maximum of 4 annually. A list of honorary life members will be kept as an appendix to this constitution.
 
 2.  The Committee
 
@@ -61,14 +49,14 @@ Constitution
         2.  Vice-Chairperson
         3.  Finance Officer.
         4.  Secretary.
-        5.  Head Sys<span class="gone">tem Administrator</span><span class="added">Admin</span>.
+        5.  Head SysAdmin.
         6.  Events Officer.
         7.  Equipment Officer
         8.  Public Relations Officers (PROs).
         9.  Esports Co-Ordinator.
         10. Ordinary Committee Member(s) (OCMs).
         11. First Year Representative.
-        13. <span class="added">SysAdmins</class>
+        13. SysAdmins
         14. -Officio(s).
 
     5.  There shall be two Public Relations Officers.
@@ -113,10 +101,10 @@ Constitution
         4.  The Secretary is responsible for the booking of rooms for events.
         5.  The Secretary is responsible for managing sign up lists for any event which it is seen to be required.
 
-    6.  Head Sys<span class="gone">tem Administrator</span><span class="added">Admin</span>
+    6.  Head SysAdmin
 
-        1.  The Head Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> is responsible for creating and maintaining a charter that the Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> Team will operate under.
-        2.  The Head Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> shall also have all the duties of a Sys<span class="gone">tem Administrator</span><span class="added">Admin</span>.
+        1.  The Head SysAdmin is responsible for creating and maintaining a charter that the SysAdmin Team will operate under.
+        2.  The Head SysAdmin shall also have all the duties of a SysAdmin.
 
     7.  Events Officer
 
@@ -133,7 +121,7 @@ Constitution
 
         1.  The Public Relations Officers will be responsible for all the Society’s publicity.
         2.  <span id="anchor-2"></span>The PRO’s will ensure that posters are designed and visible on campus two weeks before events as well as being available to the rest of the Committee for further promotion. All media designed should endeavour to be as accessible as possible.
-  			3.  The PRO’s, in conjunction with the Head Sys<span class="gone">tems’ Administrator</span><span class="added">Admin</span>, will maintain the Society’s online presence in so far as it relates to publicity of events to members.
+  			3.  The PRO’s, in conjunction with the Head SysAdmin, will maintain the Society’s online presence in so far as it relates to publicity of events to members.
         4.  The PRO’s shall maintain a repository of all media published by the Society.
 
     10. Esports Co-Ordinator
@@ -141,7 +129,7 @@ Constitution
         1.  The Esports Co-Ordinator shall act as the Committee’s representative between the Netsoc Committee and The Netsoc Rebels Esports players. The Co-Ordinator shall liaise directly with tournament organizers and the Rebels Team Captains to ensure that the experience is as fluid and simple as possible for Players
         2.  The Co-Ordinator shall also be in charge of calculating the cost incurred by each team for the year ahead, and shall furnish the Finance Officer with the required information in appropriate time in order to ensure that they may be included in the budget/applications for funding.
         3.  There shall also be an added responsibility for the Co-Ordinator to inform the PRO’s of the latest results and Esports news that shall be reported across social media.
-        4.  The Esports <span class="gone">Officer</span><span class="added">Co-Ordinator</span> shall not be in charge of Esports but will instead act as the Committee Representative in dealing with tournament organizers and Netsoc Rebels, and report back to committee.
+        4.  The Esports Co-Ordinator shall not be in charge of Esports but will instead act as the Committee Representative in dealing with tournament organizers and Netsoc Rebels, and report back to committee.
 
     11. OCM
 
@@ -171,10 +159,10 @@ Constitution
     7.  In addition the following positions have the following specific criteria.
 
         1.  The Chairperson, Finance Officer and Ex-Officios are required to have been on the Society’s Committee the previous academic year.
-        2.  The Head Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> must have been a Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> the previous academic year.
+        2.  The Head SysAdmin must have been a SysAdmin the previous academic year.
         3.  Ex-Officios do not have the requirement to be current Ordinary Members of the Society.
 
-    8.  The Head Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> shall be decided by the Chairperson based upon their prior contributions to the Society, past experience and where necessary CV and interview.
+    8.  The Head SysAdmin shall be decided by the Chairperson based upon their prior contributions to the Society, past experience and where necessary CV and interview.
     9.  The Ex-Officio Position(s) shall be decided by a vote of the Committee. The Committee ought to ensure that all persons eligible for election to the position of Ex-Officio wish to be included in the vote.
     10. The Esports Co-Ordinator is chosen by the Chairperson and two other Committee members from a series of applicants. The limit to which applications are taken from is at the behest of those choosing the Co-Ordinator.
     11. Any member of the Committee may be nominated by the Chairperson for the title of Vice-Chairperson, while retaining their previous position. This nomination must then be confirmed by a simple majority of the Committee.
@@ -186,19 +174,17 @@ Constitution
     1.  <span id="anchor-3"></span>There shall be a Sub-Committee entitled “The Gaming Team”
 
         1.  The Gaming Team shall be governed according to their terms of reference which is added to the appendix of this Constitution.
-        2.  <span class="gone">Any member of the Gaming Team who is not already a member of the Committee shall have the full privileges and responsibilities of a Committee member and shall be entitled to attend and vote at Committee Meetings.</span>
+        
+    2.  There shall be a Sub-Committee entitled “The SysAdmin Team”
 
-    2.  There shall be a Sub-Committee entitled “The Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> Team”
-
-        1.  The Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> Team shall be governed according to their terms of reference which is added to the appendix of this Constitution.
-        2.  <span class="gone">Any member of the System Administrator Team who is not already a member of the Committee shall have the full privileges and responsibilities of a Committee member and shall be entitled to attend and vote at Committee Meetings.</span>
+        1.  The SysAdmin Team shall be governed according to their terms of reference which is added to the appendix of this Constitution.
 
     3.  Sub-Committees shall be subject to the following criteria.
 
         1.  The Committee may create additional Sub-Committees as needed for Projects or Special events.
         2.  All Sub-Committees shall have a minimum of one Committee member on them.
         3.  All Sub-Committee members must be members of the Society.
-        4.  No Sub-Committee, with the exception of the Gaming Team and the Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> Team, can last for more than one academic year without the Committee voting to retain it.
+        4.  No Sub-Committee, with the exception of the Gaming Team and the SysAdmin Team, can last for more than one academic year without the Committee voting to retain it.
         5.  All Sub-Committees will be provided with a written mandate outlining their scope and objectives.
         6.  Sub-Committee Membership will not automatically count as Committee Membership except where permissible for awards.
         8.  A Sub-Committee can set aside a position for a first year representative to be elected at the EGM.
@@ -239,8 +225,8 @@ Gaming Team Sub-Committee
         2.  Events Officer
         3.  Esports Co-Ordinator
         4.  Equipment Officer
-        5.  <span class="gone">Gaming Team Members</span><span class="added">OCMs</span>
-        6.  <span class="gone">First Year Gaming Team Member</span><span class="added">First Year Representative</span>
+        5.  OCMs
+        6.  First Year Representative</span>
 
     2.  The Chairperson and Events Officer shall decide how many Gaming Team Members, at a maximum of four, there will be.
     3.  All members of the Team must be a member of the Society.
@@ -263,19 +249,17 @@ Gaming Team Sub-Committee
 4.  Elections
 
     1.  The positions of Chairperson, Events Officer, Esports Co-Ordinator and Equipment Officer shall be elected in accordance with Netsoc’s Constitution.
-    2.  <span class="gone">Members of Netsoc’s Committee are eligible to nominate themselves for Gaming Team Member. Over the summer, the Chairperson and the Events Officer shall decide who to elect to the Team, by interview if necessary.</span>
-    3.  <span class="gone">The First Year Gaming Team Member and any remaining Gaming Team Member position(s) will be elected at Netsoc’s EGM in accordance with Netsoc’s Constitution.</span>
 
-Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> Sub-Committee
+SysAdmin Sub-Committee
 ----------------------------------
 
 Terms of Reference
 
 1.  General
 
-    1.  The name of the Sub-Committee shall be The Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> Team, hereafter referred to as the “Team”.
+    1.  The name of the Sub-Committee shall be The SysAdmin Team, hereafter referred to as the “Team”.
     2.  The Team shall be a Sub-Committee of the UCC Networking, Gaming and Technology Society, hereafter referred to as the “Society” or “Netsoc”.
-    3.  The Team shall be jointly chaired by the Chairperson and the Head Sys<span class="gone">tem Administrator</span><span class="added">Admin</span>.
+    3.  The Team shall be jointly chaired by the Chairperson and the Head SysAdmin.
     4.  The Team shall be subject to the limitations of a Sub-Committee in accordance with Netsoc’s Constitution.
     5.  The role of the Team shall be:
 
@@ -283,19 +267,17 @@ Terms of Reference
         2.  To maintain the Society’s online presence, with the exception of social media, and maintain the Society’s website.
         3.  To provide all services developed under an “Open-Source” license of some kind.
 
-    6.  The Team shall operate according to a charter that is created by the Head Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> and passed by a simple majority vote of the Team. This shall govern, among other things, how the Team handles data and shall list the goals of the Team for the year.
+    6.  The Team shall operate according to a charter that is created by the Head SysAdmin and passed by a simple majority vote of the Team. This shall govern, among other things, how the Team handles data and shall list the goals of the Team for the year.
 
 2.  Membership
 
     1.  Membership for the Team shall be as follows:
 
         1.  Chairperson
-        2.  Head Sys<span class="gone">tem Administrator</span><span class="added">Admin</span>
-        3.  Sys<span class="gone">tem Administrator</span><span class="added">Admins</span>.
-        4.  First Year System Administrator
-
-    2.  The Chairperson and Head Sys<span class="gone">tem Administrator</span><span class="added">Admin</span>. shall decide how many System Administrators, at a maximum of six, there will be.
-    3.  <span class="gone">All members of the Team must be a member of the Society.</span>
+        2.  Head SysAdmin
+        3.  SysAdmins.
+        4.  First Year SysAdmin.
+    2.  The Chairperson and Head SysAdmin shall decide how many System Administrators, at a maximum of six, there will be.
 
 3.  Duties
 
@@ -304,28 +286,27 @@ Terms of Reference
         1.  Have a duty to uphold the reputation of the Society and to act in its best interest.
         2.  Have a responsibility to act according to the charter that guides them.
 
-    2.  The Chairperson and Head Sys<span class="gone">tem Administrator</span><span class="added">Admin</span>. have duties as defined in Netsoc’s Constitution.
-    3.  Sys<span class="gone">tem Administrator</span><span class="added">Admins</span>:
+    2.  The Chairperson and Head SysAdmin have duties as defined in Netsoc’s Constitution.
+    3.  SysAdmins:
 
-        1.  Sys<span class="gone">tem Administrators</span><span class="added">Admins</span> shall maintain the Society’s servers and all content contained on them.
-        2.  Sys<span class="gone">tem Administrators</span><span class="added">Admins</span> shall ensure all services developed are open to auditing and inspection by the public as both a learning resource and to preserve fairness and transparency within the Society.
-        3.  Sys<span class="gone">tem Administrators</span><span class="added">Admins</span>, in conjunction with the Equipment Officer, shall maintain, and develop the hardware and software of the Society’s computers.
-        4.  Sys<span class="gone">tem Administrators</span><span class="added">Admins</span> shall document their work as defined in Section 4.
-        5.  Sys<span class="gone">tem Administrators</span><span class="added">Admins</span> shall assist the Events Officer as required with the running of Tech Events.
+        1.  SysAdmins shall maintain the Society’s servers and all content contained on them.
+        2.  SysAdmins shall ensure all services developed are open to auditing and inspection by the public as both a learning resource and to preserve fairness and transparency within the Society.
+        3.  SysAdmins, in conjunction with the Equipment Officer, shall maintain, and develop the hardware and software of the Society’s computers.
+        4.  SysAdmins shall document their work as defined in Section 4.
+        5.  SysAdmins shall assist the Events Officer as required with the running of Tech Events.
 
-    4.  First Year Sys<span class="gone">tem Administrators</span><span class="added">Admin</span>:
+    4.  First Year SysAdmin
 
-        1.  The First Year Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> shall promote tech events to first years.
-        2.  The First Year Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> shall represent the interests of first years on the Team.
-        3.  The First Year Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> shall also have the responsibilities of System Administrator.
+        1.  The First Year SysAdmin shall promote tech events to first years.
+        2.  The First Year SysAdmin shall represent the interests of first years on the Team.
+        3.  The First Year SysAdmin shall also have the responsibilities of System Administrator.
 
 4.  Documentation
 
-    1.  All services and systems implemented by Netsoc are required to have an appropriate degree of documentation written by the relevant Sys<span class="gone">tem Administrator</span><span class="added">Admins</span> so as to explain a system in such a way that a successor may replace them in the event that they are no longer available.
+    1.  All services and systems implemented by Netsoc are required to have an appropriate degree of documentation written by the relevant SysAdmins so as to explain a system in such a way that a successor may replace them in the event that they are no longer available.
     2.  All documentation must be stored in a central location that is easily accessed by any current System Administrator.
 
 5.  Elections
 
-    1.  The positions of Chairperson and Head Sys<span class="gone">tem Administrator</span><span class="added">Admin</span> shall be elected in accordance with Netsoc’s Constitution.
-    2.  <span class="gone">Members of Netsoc’s Committee may not hold the position of System Administrator or First Year System Administrator.</span>
-    3.  Sys<span class="gone">tem Administrators</span><span class="added">Admins</span> shall be decided by the Chairperson and Head System Administrator based upon their prior contributions to the Society, past experience and where necessary CV and interview.
+    1.  The positions of Chairperson and Head SysAdmin shall be elected in accordance with Netsoc’s Constitution.
+    2.  SysAdmins shall be decided by the Chairperson and Head System Administrator based upon their prior contributions to the Society, past experience and where necessary CV and interview.
