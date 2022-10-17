@@ -2,7 +2,7 @@
 title: Constitution-Amendment
 description: 
 published: true
-date: 2022-10-17T10:21:34.656Z
+date: 2022-10-17T10:23:07.836Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-30T20:25:32.184Z
@@ -277,7 +277,7 @@ Terms of Reference
         2.  Head SysAdmin
         3.  SysAdmins.
         4.  First Year SysAdmin.
-    2.  The Chairperson and Head SysAdmin shall decide how many System Administrators, at a maximum of six, there will be.
+    2.  The Chairperson and Head SysAdmin shall decide how many SysAdmins, at a maximum of six, there will be.
 
 3.  Duties
 
@@ -299,14 +299,14 @@ Terms of Reference
 
         1.  The First Year SysAdmin shall promote tech events to first years.
         2.  The First Year SysAdmin shall represent the interests of first years on the Team.
-        3.  The First Year SysAdmin shall also have the responsibilities of System Administrator.
+        3.  The First Year SysAdmin shall also have the responsibilities of SysAdmin
 
 4.  Documentation
 
     1.  All services and systems implemented by Netsoc are required to have an appropriate degree of documentation written by the relevant SysAdmins so as to explain a system in such a way that a successor may replace them in the event that they are no longer available.
-    2.  All documentation must be stored in a central location that is easily accessed by any current System Administrator.
+    2.  All documentation must be stored in a central location that is easily accessed by any current SysAdmins.
 
 5.  Elections
 
     1.  The positions of Chairperson and Head SysAdmin shall be elected in accordance with Netsoc’s Constitution.
-    2.  SysAdmins shall be decided by the Chairperson and Head System Administrator based upon their prior contributions to the Society, past experience and where necessary CV and interview.
+    2.  SysAdmins shall be decided by the Chairperson and Head SysAdmin based upon their prior contributions to the Society, past experience and where necessary CV and interview.
