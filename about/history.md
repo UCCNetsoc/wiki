@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2022-10-17T10:40:21.651Z
+date: 2023-04-13T18:25:30.156Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -18,6 +18,7 @@ dateCreated: 2020-07-09T21:02:49.136Z
 - [2018/2019](#h-18-19)
 - [2017/2018](#h-17-18)
 - [2015/2016](#h-15-16)
+
 <h3 id="22-23">2022/2023</h3>
 
 | Position        		| Name(s)                                          		 |
@@ -143,6 +144,10 @@ The title of HLM is awarded to anyone who has made significant contributions to 
 At the AGM each academic year, HLMs are nominated by members of Netsoc
 | Name                 | Awarded on |
 |----------------------|------------|
+| Andy Liu        		 | AGM 2023   |
+| Albert Cullen   		 | AGM 2023   |
+| Hikmat Babalola 		 | AGM 2023   |
+| Thomas Galligan 		 | AGM 2023   |
 | James Cotter         | AGM 2022   |
 | Rena Cahill-Quinn    | AGM 2022   |
 | Warren Daly          | AGM 2022   |
