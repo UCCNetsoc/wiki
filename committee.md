@@ -2,7 +2,7 @@
 title: Committee Knowledge Center
 description: Some information to help you get started as a UCC Netsoc committee member
 published: true
-date: 2023-06-14T10:32:18.188Z
+date: 2023-06-14T10:33:59.769Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-13T08:53:30.100Z
