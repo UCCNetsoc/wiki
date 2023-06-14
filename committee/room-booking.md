@@ -2,7 +2,7 @@
 title: Room Booking
 description: How to book rooms for events
 published: true
-date: 2023-06-14T10:59:54.235Z
+date: 2023-06-14T11:00:54.139Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T10:36:06.896Z
@@ -24,6 +24,6 @@ It depends on the room you want to book, but generally, you'll want to [complete
 
 - If the room is the SU Common Room, search for the booking form .docx in a past email thread with C.Kennedy@ucc.ie, include it with an email detailing the dates you want booked, and an approved risk assessment.
 
-- If the room is somewhere in WGB (including the atrium/canteen), contact the Head of Computer Science & IT dept. (Utz Roedig), or look through the past email threads to figure out who to contact.
+- If the room is somewhere in WGB (including the atrium/canteen), contact the Head of Computer Science & IT dept. (Utz Roedig u.roedig@ucc.ie), or look through the past email threads to figure out who to contact.
 
 - If the room is in the Student Hub, such as the atrium, contact eodriscoll@ucc.ie.
