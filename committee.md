@@ -2,7 +2,7 @@
 title: Committee Knowledge Center
 description: Some information to help you get started as a UCC Netsoc committee member
 published: true
-date: 2023-06-13T08:54:20.565Z
+date: 2023-06-14T10:30:28.639Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-13T08:53:30.100Z
@@ -13,7 +13,7 @@ dateCreated: 2023-06-13T08:53:30.100Z
 Here we'll give you some information to help you get started as a new committee member.
 
 To start you off, here's a list of websites to help you get started
-
+| | |
 |-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | [Socsportal](https://socsportal.ucc.ie)       | Website to control most of the society - constitution, membership, committee members, events, room booking, etc.                     |
 | [CandSPortal](https://candsportal.ucc.ie)     | Website where society members will join, manage and view upcoming events.                                                            |
