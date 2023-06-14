@@ -2,7 +2,7 @@
 title: Room Booking
 description: How to book rooms for events
 published: true
-date: 2023-06-14T11:00:54.139Z
+date: 2023-06-14T11:01:27.228Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-14T10:36:06.896Z
