@@ -1,8 +1,8 @@
 ---
 title: Organizing an Event
-description: How to set up candsportal for your event.
+description: How to set up an event for the events wall
 published: true
-date: 2023-06-21T21:03:07.823Z
+date: 2023-06-21T21:03:35.130Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-21T21:03:07.823Z
