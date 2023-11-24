@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2023-04-13T18:25:30.156Z
+date: 2023-11-24T15:12:58.107Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -60,7 +60,7 @@ Events Officer      | Warren Daly                                               
 | Chairperson         | Oisín Aylward                                                                           |
 | Finance Officer     | Stephen O'Riordan                                                                       |
 | Secretary           | Omar Sallam                                                                             |
-| Head SysAdmin       | Oisín Canty                                                                             |
+| Head SysAdmin       | Canty                                                                             |
 | Events Officer      | Michael Forde                                                                           |
 | Equipment Officer   | Luc Fitzgerald                                                                          |
 | PROs                | Nathan Carey<br>Warren Daly                                                            |
@@ -83,7 +83,7 @@ Events Officer      | Warren Daly                                               
 | PROs                | Ina Panayotova<br>Lauren McDonnel                                                  |
 | Esports Coordinator | Ciara Hicks (Chicks)                                                                |
 | OCMs                | Eric Moynihan<br>James Cotter                                                      |
-| SysAdmins           | Colm Ó Hicí<br>Oisín Aylward<br>Michael Forde<br>Oisín Canty<br>Thomas Galligan |
+| SysAdmins           | Colm Ó Hicí<br>Oisín Aylward<br>Michael Forde<br>Canty<br>Thomas Galligan |
 | First Year Rep      | Aidan Molloy                                                                        |
 
 <h3 id="18-19">2018/2019</h3>
@@ -92,7 +92,7 @@ Events Officer      | Warren Daly                                               
 |---------------|---------------------------------------------------------------------------------------------|
 | Chairperson   | Evan young                                                                                  |
 | Head SysAdmin | Colm Ó hIcí                                                                                 |
-| SysAdmins     | Noah Santschi-Conney<br>Oisín Canty<br>Oisín Aylward<br>Michael Forde<br>Fionn Kelleher |
+| SysAdmins     | Noah Santschi-Conney<br>Canty<br>Oisín Aylward<br>Michael Forde<br>Fionn Kelleher |
 
 <h3 id="17-18">2017/2018</h3>
 
