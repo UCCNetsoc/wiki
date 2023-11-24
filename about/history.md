@@ -2,7 +2,7 @@
 title: History
 description: UCC Netsoc through the ages
 published: true
-date: 2023-11-24T15:12:58.107Z
+date: 2023-11-24T15:14:44.551Z
 tags: history
 editor: markdown
 dateCreated: 2020-07-09T21:02:49.136Z
@@ -92,7 +92,7 @@ Events Officer      | Warren Daly                                               
 |---------------|---------------------------------------------------------------------------------------------|
 | Chairperson   | Evan young                                                                                  |
 | Head SysAdmin | Colm Ó hIcí                                                                                 |
-| SysAdmins     | Noah Santschi-Conney<br>Canty<br>Oisín Aylward<br>Michael Forde<br>Fionn Kelleher |
+| SysAdmins     | Noah Santschi-Cooney<br>Canty<br>Oisín Aylward<br>Michael Forde<br>Fionn Kelleher |
 
 <h3 id="17-18">2017/2018</h3>
 
@@ -163,7 +163,7 @@ At the AGM each academic year, HLMs are nominated by members of Netsoc
 | Eric Moynihan        | AGM 2021   |
 | Michael Forde        | AGM 2020   |
 | Oisin Aylward        | AGM 2020   |
-| Oisin Canty          | AGM 2020   |
+| Canty          | AGM 2020   |
 | Ina Panayotova       | AGM 2020   |
 | Fionnuala O'Connor   | AGM 2020   |
 | Stephen O'Riordan    | AGM 2020   |
