@@ -8,7 +8,6 @@ editor: markdown
 dateCreated: 2020-07-14T03:01:58.864Z
 ---
 
-
 # 2025
 
 ## SysAdmin Meeting 2025-08-24
@@ -26,40 +25,42 @@ dateCreated: 2020-07-14T03:01:58.864Z
 
 ### DevCon Website
 
-- Issue with pulling on windows due to directory called "1:1". FIXED
-- Images of DevCon crew are not scaling responsibly. FIXED
-	- Issue with . FIXED
-- Added Anantaa to the team members list
-- Fixed some issues and updated the site on the CloudCix VM
+- [x] Issue with pulling on windows due to directory called "1:1". FIXED
+- [x] Images of DevCon crew are not scaling responsibly. FIXED
+- [x] Added Anantaa to the team members list
+- [x] Fixed some issues and updated the site on the CloudCix VM
 
 
 ### DevCon 
 
-- Jerry Sweeney
-- Derek Bridge
-- x2 from Cadence - Madhur
-- Rob Meany - ABC Fitness
-- Peter Coppinger - success.co - **THIS IS A MAYBE, WE AWAITING FOR HIM TO GET BACK TO US**
-- Jonathan contacted NGINX for being a speaker at DevCon
+- [x] Jerry Sweeney
+- [x] Derek Bridge
+- [x] x2 from Cadence - Madhur
+- [ ] Rob Meany - ABC Fitness
+- [x] Peter Coppinger - success.co - **THIS IS A MAYBE, WE AWAITING FOR HIM TO GET BACK TO US**
+- [ ] Jonathan contacted NGINX for being a speaker at DevCon
 
 
 ### NetSoc Site API
 
 - Plan to develop NetSoc Calender API (using rust, sqlite, docker, NGINX). Ivan is going to make template, El and Jonathan are going to work on it
-- Els gonna finish off the spiel on the site in the hero section
+- El is gonna finish off the spiel on the site in the hero section
 
 
 ### At CloudCix
 
-- cleaning up the rack (Improved Cable Management)
-- Dealt with the switches
-	- removed the excess
-	- turned switch to be more accessible
-	- set up VLANs
-		- infra: 10.0.30.0/24
-		- cloud: 10.40.0.0/16 (*16*, not *24* because 256 might not be enough)
+- [x] cleaning up the rack (Improved Cable Management)
+- [x] Dealt with the switches
+	- [x] removed the excess switches (broken one for analysis and functional one temporarily stored at CloudCIX)
+	- [x] Rotated main switch to be more accessible
+	- [x] set up VLANs
+		- [x] infra: 10.0.30.0/24
+		- [ ] cloud: 10.40.0.0/16 (*16*, not *24* because 256 might not be enough)
 
-- Resetting Feynman (new proxmox image)
+- [x] Resetting Feynman (new proxmox image)
+
+
+
 
 # 2020/2021
 
@@ -203,12 +204,11 @@ dateCreated: 2020-07-14T03:01:58.864Z
   * OS
   	* Ubuntu/Debian/CentOS/Alpine/Arch/OpenSUSE
     * small, medium, large
-    
+  
 * To be done:
 	* Nodejs
   * MySQL
   
-
 * Small:
 	512mb 10gb 1cpu
 * Medium
@@ -217,7 +217,7 @@ dateCreated: 2020-07-14T03:01:58.864Z
 	2gb 20gb 2cpu
 * Huge
 	4gb 25gb 4cpu
- 
+
 
 * Need to create skeleton file manager UI
 
@@ -326,26 +326,26 @@ dateCreated: 2020-07-14T03:01:58.864Z
       * Ubuntu/Debian/CentOS/Alpine/Arch/OpenSUSE - already done with proxmox
     * File manager
     	* Canty needs to push code changes so Thomas can start integrating his changes (sorry!)
- 
+
  #### Eric
- 
+
  * Loki is logging everything for Docker
    * Promtail used instead of Docker driver
       * pls add `/netsoc/freeipa/var/log/*.log`
    * Promtail syslogs on hosts
- 
+
  #### Thomas
- 
+
  * File manager downloading directories
- 
+
  #### James
- 
+
  * Gonna setup grafana via webui
    
  #### Everyone
- 
+
  * Server purchase decisions, next week
- 
+
 #### Reece :heart:
 
 * Doing design for the frontend of the alumni page
@@ -374,9 +374,9 @@ dateCreated: 2020-07-14T03:01:58.864Z
 	* Loki has a docker driver
     * We need to test what happens if Loki comes down while the containers are set to log to it
   * We can use fluentd to collect the syslog/journal from the hosts and push to Loki
- 
+
  #### James
- 
+
  * LXC templates
  	 * Simplified, each template has it's own provisoning file and not using the same roles for the same distros
    * GhostCMS, heavily push towards to stop people installing awful Wordpress
@@ -384,9 +384,9 @@ dateCreated: 2020-07-14T03:01:58.864Z
    
  * Grafana
    * More worked
- 
+
  #### Everyone
- 
+
  * Lockdown is over 1st December
     * 2 weeks from now 24th
     
@@ -398,9 +398,9 @@ dateCreated: 2020-07-14T03:01:58.864Z
     * Option 2
        * Will get a quote
  * Disk spreadsheet
- 
+
  * Need to make a list of stuff to be done at CIX
- 
+
 ## Meeting 6 (2020-10-23)
 
 #### Canty/Thomas
@@ -422,7 +422,7 @@ dateCreated: 2020-07-14T03:01:58.864Z
 	* Packer really isn't an option
   * James says there's an alternative
   	* Looking into it more
-    
+  
 * Grafana
   * Grafana 7 & Grafana 6 weirdness
   * Have to mix and match jsonnet for grafana 7 and grafana 6
@@ -432,7 +432,7 @@ dateCreated: 2020-07-14T03:01:58.864Z
 * Loki
 	* Running but untested
   * with fluentd
- 
+
 * AWX
 	* It's borked
   
@@ -459,11 +459,11 @@ dateCreated: 2020-07-14T03:01:58.864Z
       * Years active
     * Testimonials submited by PR/Issue
   * Historical photos
-   
+  
 #### Reece <3
 
 * Adding a feature to scrape events from facebook to automatically add them to the discord bot
- 
+
 
 ## Meeting 5 (2020-10-16)
 
@@ -472,7 +472,6 @@ dateCreated: 2020-07-14T03:01:58.864Z
   * Oisin C
   * Eric 
   * James
-  
   
 * Netsoc Admin
 	* We're moving to doing 'cloud', we want to focus on more becoming an infra-provider than service provider
@@ -550,7 +549,7 @@ dateCreated: 2020-07-14T03:01:58.864Z
 	* just need to setup traefik routes
   * canty is porting users
   * splitting into duo docker containers
- 
+
 * pterodactyl games
 	* we forked pterodactyl
   * keycloak federation with socialiate
@@ -569,7 +568,7 @@ dateCreated: 2020-07-14T03:01:58.864Z
   
 * k8s setup
 	* next weekend, eric / james / canty
- 
+
 
 ## Meeting 3 (2020-07-27)
 
@@ -609,12 +608,12 @@ dateCreated: 2020-07-14T03:01:58.864Z
 * Oisin A
 	* Minecraft Hunger Games
   	* Custom Bukkit plugin
-    
+  
 * Oisin C
 	* Sorting out netsocadmin stuff
   	* Had to ditch golang because seteuid support
   * Adding freeipa and keycloak to dev-env
- 
+
    
 
 ## Meeting 2 (2020-07-13)
