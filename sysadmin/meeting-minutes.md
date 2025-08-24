@@ -8,6 +8,59 @@ editor: markdown
 dateCreated: 2020-07-14T03:01:58.864Z
 ---
 
+
+# 2025
+
+## SysAdmin Meeting 2025-08-24
+
+**Date:** 2025-08-24
+
+**In Attendance:** El, Ivan, Jonathan
+
+**Minutes by:** El
+
+**Time Started:** 15:00
+
+**Time Ended:** 21:45
+
+
+### DevCon Website
+
+- Issue with pulling on windows due to directory called "1:1". FIXED
+- Images of DevCon crew are not scaling responsibly. FIXED
+	- Issue with . FIXED
+- Added Anantaa to the team members list
+- Fixed some issues and updated the site on the CloudCix VM
+
+
+### DevCon 
+
+- Jerry Sweeney
+- Derek Bridge
+- x2 from Cadence - Madhur
+- Rob Meany - ABC Fitness
+- Peter Coppinger - success.co - **THIS IS A MAYBE, WE AWAITING FOR HIM TO GET BACK TO US**
+- Jonathan contacted NGINX for being a speaker at DevCon
+
+
+### NetSoc Site API
+
+- Plan to develop NetSoc Calender API (using rust, sqlite, docker, NGINX). Ivan is going to make template, El and Jonathan are going to work on it
+- Els gonna finish off the spiel on the site in the hero section
+
+
+### At CloudCix
+
+- cleaning up the rack (Improved Cable Management)
+- Dealt with the switches
+	- removed the excess
+	- turned switch to be more accessible
+	- set up VLANs
+		- infra: 10.0.30.0/24
+		- cloud: 10.40.0.0/16 (*16*, not *24* because 256 might not be enough)
+
+- Resetting Feynman (new proxmox image)
+
 # 2020/2021
 
 ## Meeting 14 (2021-03-11)
